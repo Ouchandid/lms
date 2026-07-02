@@ -177,6 +177,7 @@ import type {
 
 type Brand = { name?: string; logo?: string; favicon?: string }
 interface TabDef {
+	key: string
 	label: string
 	component: ReturnType<typeof markRaw>
 	icon: string
@@ -274,7 +275,7 @@ const updateTabIndex = () => {
 	const hash = route.hash
 	if (hash) {
 		tabs.value.forEach((tab, index) => {
-			if (tab.label?.toLowerCase() === hash.replace('#', '')) {
+			if (tab.key === hash.replace('#', '')) {
 				tabIndex.value = index
 			}
 		})
@@ -283,8 +284,8 @@ const updateTabIndex = () => {
 
 watch(tabIndex, () => {
 	const tab = tabs.value[tabIndex.value]
-	if (tab.label != route.hash.replace('#', '')) {
-		router.push({ ...route, hash: `#${tab.label.toLowerCase()}` })
+	if (tab.key !== route.hash.replace('#', '')) {
+		router.push({ ...route, hash: `#${tab.key}` })
 	}
 })
 
@@ -304,21 +305,25 @@ const course = createResource({
 
 const tabs = ref<TabDef[]>([
 	{
+		key: 'overview',
 		label: __('Overview'),
 		component: markRaw(CourseOverview),
 		icon: 'lucide-list',
 	},
 	{
+		key: 'dashboard',
 		label: __('Dashboard'),
 		component: markRaw(CourseDashboard),
 		icon: 'lucide-trending-up',
 	},
 	{
+		key: 'course editor',
 		label: __('Course editor'),
 		component: markRaw(CourseEditor),
 		icon: 'lucide-book-open',
 	},
 	{
+		key: 'settings',
 		label: __('Settings'),
 		component: markRaw(CourseForm),
 		icon: 'lucide-settings-2',

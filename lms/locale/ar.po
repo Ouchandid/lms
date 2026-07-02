@@ -36,7 +36,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:16
 msgid " you are on a"
-msgstr ""
+msgstr " لديك"
 
 #. Paragraph text in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
@@ -117,7 +117,7 @@ msgstr "معلومات عن النظام"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:124
 msgid "About this course"
-msgstr ""
+msgstr "حول هذه الدورة"
 
 #. Label of the verify_terms (Check) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -149,7 +149,7 @@ msgstr "اسم الحساب"
 
 #: frontend/src/pages/ProfileAbout.vue:34
 msgid "Achievements"
-msgstr ""
+msgstr "الإنجازات"
 
 #: frontend/src/components/Settings/GoogleMeetAccountForm.vue:19
 msgid "Activate this Google Meet account for scheduling meetings."
@@ -161,7 +161,7 @@ msgstr ""
 
 #: frontend/src/pages/Statistics.vue:22
 msgid "Active Members"
-msgstr ""
+msgstr "الأعضاء النشطون"
 
 #: frontend/src/components/CourseOutline.vue:21
 #: frontend/src/components/Modals/NewMemberModal.vue:8
@@ -180,35 +180,35 @@ msgstr "إضافة"
 #: frontend/src/components/CreateOutline.vue:18
 #: frontend/src/components/Modals/ChapterModal.vue:4
 msgid "Add Chapter"
-msgstr ""
+msgstr "إضافة فصل"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:170
 msgid "Add Course to Program"
-msgstr ""
+msgstr "إضافة دورة إلى البرنامج"
 
 #: frontend/src/components/ChapterRow.vue:139
 msgid "Add Lesson"
-msgstr ""
+msgstr "إضافة درس"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:4
 msgid "Add New Member"
-msgstr ""
+msgstr "إضافة عضو جديد"
 
 #: frontend/src/components/Modals/Question.vue:102
 msgid "Add Option"
-msgstr ""
+msgstr "إضافة خيار"
 
 #: frontend/src/components/Modals/Question.vue:135
 msgid "Add Possibility"
-msgstr ""
+msgstr "إضافة خيار"
 
 #: frontend/src/pages/QuizForm.vue:250
 msgid "Add Question"
-msgstr ""
+msgstr "إضافة سؤال"
 
 #: frontend/src/components/VideoBlock.vue:130
 msgid "Add Quiz to Video"
-msgstr ""
+msgstr "إضافة اختبار إلى الفيديو"
 
 #: frontend/src/components/Controls/ChildTable.vue:75
 #: frontend/src/components/Settings/Coupons/CouponItems.vue:64
@@ -217,11 +217,11 @@ msgstr "إضافة صف"
 
 #: frontend/src/pages/ProfileEvaluator.vue:96
 msgid "Add Slot"
-msgstr ""
+msgstr "إضافة فترة"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:40
 msgid "Add Test Case"
-msgstr ""
+msgstr "إضافة حالة اختبار"
 
 #: lms/templates/onboarding_header.html:26
 msgid "Add a Chapter"
@@ -233,19 +233,19 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:590
 msgid "Add a chapter"
-msgstr ""
+msgstr "إضافة فصل"
 
 #: frontend/src/components/Modals/BatchCourseModal.vue:4
 msgid "Add a course to the batch"
-msgstr ""
+msgstr "إضافة دورة إلى الدفعة"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:591
 msgid "Add a lesson"
-msgstr ""
+msgstr "إضافة درس"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:605
 msgid "Add a program"
-msgstr ""
+msgstr "إضافة برنامج"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseModal.vue:4
 msgid "Add a programming exercise to your lesson"
@@ -257,11 +257,11 @@ msgstr ""
 
 #: frontend/src/components/AssessmentPlugin.vue:6
 msgid "Add a quiz to your lesson"
-msgstr ""
+msgstr "إضافة اختبار إلى درسك"
 
 #: frontend/src/components/Modals/AssessmentModal.vue:4
 msgid "Add an assessment"
-msgstr ""
+msgstr "إضافة تقييم"
 
 #: frontend/src/components/AssessmentPlugin.vue:7
 msgid "Add an assignment to your lesson"
@@ -273,11 +273,11 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:554
 msgid "Add courses to your batch"
-msgstr ""
+msgstr "إضافة دورات إلى الدفعة"
 
 #: frontend/src/components/Modals/Question.vue:211
 msgid "Add new question"
-msgstr ""
+msgstr "إضافة سؤال جديد"
 
 #: frontend/src/components/Settings/Badges.vue:90
 #: frontend/src/components/Settings/Categories.vue:70
@@ -288,11 +288,11 @@ msgstr ""
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:101
 #: frontend/src/components/Settings/ZoomSettings.vue:88
 msgid "Add one to get started."
-msgstr ""
+msgstr "أضف واحدًا للبدء."
 
 #: frontend/src/components/Modals/QuizInVideo.vue:2
 msgid "Add quiz to this video"
-msgstr ""
+msgstr "إضافة اختبار إلى هذا الفيديو"
 
 #: frontend/src/pages/Batches/BatchDetail.vue:57
 msgid "Add students to the batch to make an announcement"
@@ -300,28 +300,28 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:533
 msgid "Add students to your batch"
-msgstr ""
+msgstr "إضافة طلاب إلى الدفعة"
 
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:33
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:55
 msgid "Add tag"
-msgstr ""
+msgstr "إضافة وسم"
 
 #: frontend/src/components/Notes/InlineLessonMenu.vue:39
 msgid "Add to Notes"
-msgstr ""
+msgstr "إضافة إلى الملاحظات"
 
 #: frontend/src/components/Modals/PageModal.vue:4
 msgid "Add web page to sidebar"
-msgstr ""
+msgstr "إضافة صفحة ويب إلى الشريط الجانبي"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:461
 msgid "Add your first chapter"
-msgstr ""
+msgstr "أضف أول فصل لك"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:481
 msgid "Add your first lesson"
-msgstr ""
+msgstr "أضف أول درس لك"
 
 #. Label of the address (Link) field in DocType 'LMS Payment'
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:141
@@ -355,16 +355,16 @@ msgstr "الكل"
 
 #: frontend/src/pages/Batches/Batches.vue:53
 msgid "All Batches"
-msgstr ""
+msgstr "جميع الدفعات"
 
 #: frontend/src/pages/Courses/Courses.vue:37 lms/lms/widgets/BreadCrumb.html:3
 msgid "All Courses"
-msgstr ""
+msgstr "جميع الدورات"
 
 #: frontend/src/pages/Programs/Programs.vue:25
 #: frontend/src/pages/Programs/StudentPrograms.vue:5
 msgid "All Programs"
-msgstr ""
+msgstr "جميع البرامج"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:58
 msgid "All questions should have the same marks if the limit is set."
@@ -413,7 +413,7 @@ msgstr "مسجل بالفعل"
 
 #: frontend/src/components/CourseCreatorCard.vue:49
 msgid "Also teaching"
-msgstr ""
+msgstr "يُدرّس أيضًا"
 
 #. Option for the 'Color' (Select) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
@@ -459,7 +459,7 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:30
 msgid "Announcement"
-msgstr ""
+msgstr "إعلان"
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:107
 msgid "Announcement has been sent successfully"
@@ -467,7 +467,7 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:99
 msgid "Announcement is required"
-msgstr ""
+msgstr "الإعلان مطلوب"
 
 #: frontend/src/pages/Batches/components/Announcements.vue:4
 msgid "Announcements"
@@ -501,7 +501,7 @@ msgstr ""
 
 #: frontend/src/pages/JobApplications.vue:24
 msgid "Application"
-msgstr ""
+msgstr "الطلب"
 
 #. Label of a field in the job-opportunity Web Form
 #: lms/job/web_form/job_opportunity/job_opportunity.json
@@ -511,7 +511,7 @@ msgstr ""
 #: frontend/src/pages/JobApplications.vue:13
 #: frontend/src/pages/JobApplications.vue:25
 msgid "Applications"
-msgstr ""
+msgstr "الطلبات"
 
 #: frontend/src/pages/JobApplications.vue:346
 msgid "Applied On"
@@ -550,7 +550,7 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/UserDropdown.vue:237
 msgid "Are you sure you want to clear the demo data? This would delete the course \"A guide  to Frappe Learning\" along with all its associated data. This action cannot be undone."
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد مسح البيانات التجريبية؟ سيؤدي ذلك إلى حذف الدورة \"دليل إلى Frappe Learning\" مع جميع البيانات المرتبطة بها. لا يمكن التراجع عن هذا الإجراء."
 
 #: frontend/src/pages/Programs/ProgramForm.vue:556
 msgid "Are you sure you want to delete this program? This action cannot be undone."
@@ -610,7 +610,7 @@ msgstr ""
 #: lms/lms/doctype/lms_settings/lms_settings.json
 #: lms/templates/assessments.html:3
 msgid "Assessments"
-msgstr ""
+msgstr "التقييمات"
 
 #: lms/lms/doctype/lms_badge/lms_badge.js:48
 msgid "Assign"
@@ -618,7 +618,7 @@ msgstr "عين"
 
 #: frontend/src/components/Settings/BadgeForm.vue:33
 msgid "Assign For"
-msgstr ""
+msgstr "تعيين لـ"
 
 #: frontend/src/components/Settings/BadgeForm.vue:68
 msgid "Assign To"
@@ -626,11 +626,11 @@ msgstr "تكليف إلى"
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:6
 msgid "Assign a Badge"
-msgstr ""
+msgstr "تعيين شارة"
 
 #: frontend/src/components/Settings/Badges.vue:227
 msgid "Assigned For"
-msgstr ""
+msgstr "مخصص لـ"
 
 #. Label of the section_break_16 (Section Break) field in DocType 'Course
 #. Lesson'
@@ -653,16 +653,16 @@ msgstr ""
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:107
 msgid "Assignment Progress"
-msgstr ""
+msgstr "تقدم الواجب"
 
 #: frontend/src/components/Settings/BadgeForm.vue:221
 #: frontend/src/components/Settings/Badges.vue:210
 msgid "Assignment Submission"
-msgstr ""
+msgstr "تسليم الواجب"
 
 #: frontend/src/pages/AssignmentSubmissionList.vue:222
 msgid "Assignment Submissions"
-msgstr ""
+msgstr "تسليمات الواجب"
 
 #. Label of the assignment_title (Data) field in DocType 'LMS Assignment
 #. Submission'
@@ -716,15 +716,15 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:442
 msgid "Attempted Questions"
-msgstr ""
+msgstr "الأسئلة المجاب عنها"
 
 #: frontend/src/components/Modals/LiveClassAttendance.vue:4
 msgid "Attendance for Class - {0}"
-msgstr ""
+msgstr "الحضور للحصة - {0}"
 
 #: frontend/src/components/Modals/LiveClassAttendance.vue:22
 msgid "Attended for"
-msgstr ""
+msgstr "حضر لمدة"
 
 #. Label of the attendees (Int) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -752,33 +752,33 @@ msgstr ""
 
 #: frontend/src/components/Modals/EvaluationModal.vue:24
 msgid "Available Slots"
-msgstr ""
+msgstr "الفترات المتاحة"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:9
 msgid "Average Completion Rate"
-msgstr ""
+msgstr "متوسط معدل الإتمام"
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:12
 msgid "Average Feedback Received"
-msgstr ""
+msgstr "متوسط الملاحظات الواردة"
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:20
 msgid "Average Progress %"
-msgstr ""
+msgstr "متوسط نسبة التقدم %"
 
 #: frontend/src/components/CourseCard.vue:71
 #: frontend/src/pages/Courses/CourseDashboard.vue:13
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:71
 msgid "Average Rating"
-msgstr ""
+msgstr "متوسط التقييم"
 
 #: frontend/src/components/Modals/VideoStatistics.vue:71
 msgid "Average Watch Time (mins)"
-msgstr ""
+msgstr "متوسط مدة المشاهدة (دقائق)"
 
 #: frontend/src/pages/Lesson.vue:154 frontend/src/pages/Lesson.vue:193
 msgid "Back to Course"
-msgstr ""
+msgstr "العودة إلى الدورة"
 
 #. Label of the badge (Link) field in DocType 'LMS Badge Assignment'
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:31
@@ -816,15 +816,15 @@ msgstr ""
 
 #: frontend/src/components/Settings/BadgeForm.vue:204
 msgid "Badge created successfully"
-msgstr ""
+msgstr "تم إنشاء الشارة بنجاح"
 
 #: frontend/src/components/Settings/Badges.vue:196
 msgid "Badge deleted successfully"
-msgstr ""
+msgstr "تم حذف الشارة بنجاح"
 
 #: frontend/src/components/Settings/BadgeForm.vue:182
 msgid "Badge updated successfully"
-msgstr ""
+msgstr "تم تحديث الشارة بنجاح"
 
 #: lms/lms/doctype/lms_badge_assignment/lms_badge_assignment.py:35
 msgid "Badge {0} has already been assigned to this {1}."
@@ -878,12 +878,12 @@ msgstr ""
 
 #: frontend/src/pages/Batches/BatchForm.vue:35
 msgid "Batch End Date"
-msgstr ""
+msgstr "تاريخ انتهاء الدفعة"
 
 #: frontend/src/components/Settings/BadgeForm.vue:227
 #: frontend/src/components/Settings/Badges.vue:208
 msgid "Batch Enrollment"
-msgstr ""
+msgstr "التسجيل في الدفعة"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:25
 msgid "Batch Enrollment Confirmation"
@@ -944,7 +944,7 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:153
 msgid "Batch Summary"
-msgstr ""
+msgstr "ملخص الدفعة"
 
 #. Label of the batch_title (Data) field in DocType 'LMS Certificate'
 #. Label of the batch_title (Data) field in DocType 'LMS Certificate Request'
@@ -955,11 +955,11 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/NewBatchModal.vue:236
 msgid "Batch created successfully"
-msgstr ""
+msgstr "تم إنشاء الدفعة بنجاح"
 
 #: frontend/src/pages/Batches/BatchForm.vue:579
 msgid "Batch deleted successfully"
-msgstr ""
+msgstr "تم حذف الدفعة بنجاح"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:52
 msgid "Batch end date cannot be before the batch start date"
@@ -975,11 +975,11 @@ msgstr ""
 
 #: frontend/src/pages/Batches/BatchForm.vue:146
 msgid "Batch overview"
-msgstr ""
+msgstr "نظرة عامة على الدفعة"
 
 #: frontend/src/pages/Batches/BatchDetail.vue:266
 msgid "Batch published"
-msgstr ""
+msgstr "تم نشر الدفعة"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:57
 msgid "Batch start time cannot be greater than or equal to end time."
@@ -987,11 +987,11 @@ msgstr ""
 
 #: frontend/src/pages/Batches/BatchDetail.vue:266
 msgid "Batch unpublished"
-msgstr ""
+msgstr "تم إلغاء نشر الدفعة"
 
 #: frontend/src/pages/Batches/BatchForm.vue:533
 msgid "Batch updated successfully"
-msgstr ""
+msgstr "تم تحديث الدفعة بنجاح"
 
 #: lms/templates/emails/batch_start_reminder.html:10
 msgid "Batch:"
@@ -1005,7 +1005,7 @@ msgstr "الدفعات:"
 #: lms/lms/doctype/lms_settings/lms_settings.json
 #: lms/workspace_sidebar/learning.json lms/www/_lms.py:132
 msgid "Batches"
-msgstr ""
+msgstr "الدفعات"
 
 #: lms/templates/emails/batch_confirmation.html:33
 #: lms/templates/emails/batch_start_reminder.html:31
@@ -1048,7 +1048,7 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:186
 msgid "Book a free onboarding session with the Frappe team"
-msgstr ""
+msgstr "احجز جلسة تعريفية مجانية مع فريق Frappe"
 
 #. Option for the 'Collaboration Preference' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -1070,7 +1070,7 @@ msgstr "العلامة التجارية اسم"
 
 #: frontend/src/components/Settings/BrandSettings.vue:3
 msgid "Brand Settings"
-msgstr ""
+msgstr "إعدادات العلامة التجارية"
 
 #: frontend/src/pages/ProfileRoles.vue:28
 msgid "Build and manage courses, chapters, and lessons"
@@ -1083,11 +1083,11 @@ msgstr ""
 
 #: frontend/src/pages/PersonaForm.vue:115
 msgid "Business Owner / Team Lead"
-msgstr ""
+msgstr "صاحب عمل / قائد فريق"
 
 #: frontend/src/components/CourseCardOverlay.vue:53
 msgid "Buy this course"
-msgstr ""
+msgstr "شراء هذه الدورة"
 
 #: lms/templates/emails/lms_message.html:11
 msgid "By"
@@ -1147,7 +1147,7 @@ msgstr "اسم التصنيف"
 
 #: frontend/src/components/Settings/Categories.vue:124
 msgid "Category added successfully"
-msgstr ""
+msgstr "تمت إضافة الفئة بنجاح"
 
 #: frontend/src/utils/index.js:821
 msgid "Category created successfully"
@@ -1179,11 +1179,11 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:139
 msgid "Certificate of completion"
-msgstr ""
+msgstr "شهادة إتمام"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:107
 msgid "Certificate price"
-msgstr ""
+msgstr "سعر الشهادة"
 
 #: frontend/src/components/Modals/Event.vue:339
 msgid "Certificate saved successfully"
@@ -1225,7 +1225,7 @@ msgstr ""
 #: lms/lms/doctype/lms_enrollment/lms_enrollment.json
 #: lms/lms/workspace/learning/learning.json
 msgid "Certification"
-msgstr ""
+msgstr "الشهادات"
 
 #. Label of the certification_details (Section Break) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -1256,11 +1256,11 @@ msgstr ""
 #. Label of the certifications (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Certifications"
-msgstr ""
+msgstr "الشهادات"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:10
 msgid "Certified"
-msgstr ""
+msgstr "معتمد"
 
 #. Label of the certified_members (Check) field in DocType 'LMS Settings'
 #: frontend/src/pages/CertifiedParticipants.vue:20
@@ -1269,7 +1269,7 @@ msgstr ""
 #: frontend/src/pages/Statistics.vue:46
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Certified Members"
-msgstr ""
+msgstr "الأعضاء الحاصلون على شهادة"
 
 #: lms/www/_lms.py:333
 msgid "Certified Participants"
@@ -1282,7 +1282,7 @@ msgstr "تغيير"
 
 #: frontend/src/components/Assignment.vue:363
 msgid "Changes saved successfully"
-msgstr ""
+msgstr "تم حفظ التغييرات بنجاح"
 
 #. Label of the chapter (Link) field in DocType 'Chapter Reference'
 #. Label of the chapter (Link) field in DocType 'LMS Course Progress'
@@ -1302,23 +1302,23 @@ msgstr ""
 
 #: frontend/src/components/Modals/ChapterModal.vue:147
 msgid "Chapter added successfully"
-msgstr ""
+msgstr "تمت إضافة الفصل بنجاح"
 
 #: frontend/src/components/CourseOutline.vue:248
 msgid "Chapter deleted successfully"
-msgstr ""
+msgstr "تم حذف الفصل بنجاح"
 
 #: frontend/src/components/CourseOutline.vue:237
 msgid "Chapter moved successfully"
-msgstr ""
+msgstr "تم نقل الفصل بنجاح"
 
 #: frontend/src/components/CourseOutline.vue:265
 msgid "Chapter renamed successfully"
-msgstr ""
+msgstr "تمت إعادة تسمية الفصل بنجاح"
 
 #: frontend/src/components/Modals/ChapterModal.vue:182
 msgid "Chapter updated successfully"
-msgstr ""
+msgstr "تم تحديث الفصل بنجاح"
 
 #. Label of the chapters (Table) field in DocType 'LMS Course'
 #: frontend/src/pages/Courses/CourseDetail.vue:134
@@ -1341,7 +1341,7 @@ msgstr "التحقق من"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:18
 msgid "Check All Submissions"
-msgstr ""
+msgstr "مراجعة جميع التسليمات"
 
 #: lms/templates/emails/mention_template.html:10
 msgid "Check Discussion"
@@ -1349,12 +1349,12 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:103
 msgid "Check Submission"
-msgstr ""
+msgstr "التحقق من التسليم"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:56
 #: frontend/src/pages/QuizForm.vue:39
 msgid "Check Submissions"
-msgstr ""
+msgstr "مراجعة الإجابات"
 
 #: lms/templates/certificates_section.html:24
 msgid "Check out the {0} to know more about certification."
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: frontend/src/components/NoPermission.vue:17
 msgid "Checkout Courses"
-msgstr ""
+msgstr "تصفح الدورات"
 
 #: lms/templates/emails/published_batch_notification.html:52
 msgid "Checkout the batch"
@@ -1389,7 +1389,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/Question.vue:11
 msgid "Choose an existing question"
-msgstr ""
+msgstr "اختر سؤالًا موجودًا"
 
 #: frontend/src/components/Controls/IconPicker.vue:25
 msgid "Choose an icon"
@@ -1397,7 +1397,7 @@ msgstr "اختر رمزًا"
 
 #: frontend/src/components/Quiz.vue:923
 msgid "Choose one answer"
-msgstr ""
+msgstr "اختر إجابة واحدة"
 
 #. Label of the city (Data) field in DocType 'User'
 #. Label of the location (Data) field in DocType 'Job Opportunity'
@@ -1430,7 +1430,7 @@ msgstr "انقر هنا"
 
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:19
 msgid "Click to upload an image."
-msgstr ""
+msgstr "انقر لرفع صورة."
 
 #. Label of the client_id (Data) field in DocType 'LMS Zoom Settings'
 #. Label of the client_id (Data) field in DocType 'Zoom Settings'
@@ -1454,7 +1454,7 @@ msgstr "أغلق"
 
 #: frontend/src/pages/Courses/CourseDetail.vue:69
 msgid "Close student view"
-msgstr ""
+msgstr "إغلاق عرض الطالب"
 
 #. Option for the 'Status' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -1504,7 +1504,7 @@ msgstr "اللون"
 
 #: frontend/src/pages/Batches/BatchForm.vue:272
 msgid "Comma separated keywords"
-msgstr ""
+msgstr "كلمات مفتاحية مفصولة بفواصل"
 
 #: frontend/src/pages/Courses/CourseOverviewSection.vue:71
 msgid "Comma separated keywords for SEO"
@@ -1519,7 +1519,7 @@ msgstr "تعليقات"
 
 #: frontend/src/components/Assignment.vue:162
 msgid "Comments by Evaluator"
-msgstr ""
+msgstr "ملاحظات المقيّم"
 
 #. Description of the 'Meta Keywords' (Small Text) field in DocType 'LMS
 #. Settings'
@@ -1529,11 +1529,11 @@ msgstr ""
 
 #: frontend/src/pages/Lesson.vue:1082
 msgid "Community"
-msgstr ""
+msgstr "المجتمع"
 
 #: frontend/src/pages/PersonaForm.vue:113
 msgid "Community Manager"
-msgstr ""
+msgstr "مدير المجتمع"
 
 #. Label of the company (Data) field in DocType 'LMS Job Application'
 #. Label of the company (Data) field in DocType 'Work Experience'
@@ -1586,7 +1586,7 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:72
 msgid "Compiler Message"
-msgstr ""
+msgstr "رسالة المترجم"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Course Progress'
 #: frontend/src/pages/Batches/components/BatchStudentProgress.vue:29
@@ -1615,7 +1615,7 @@ msgstr ""
 #: frontend/src/components/Sidebar/AppSidebar.vue:106
 #: frontend/src/components/Sidebar/AppSidebar.vue:132
 msgid "Complete your profile"
-msgstr ""
+msgstr "أكمل ملفك الشخصي"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Certificate Request'
 #: frontend/src/components/StudentLessonSidebar.vue:9
@@ -1631,12 +1631,12 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:458
 msgid "Completion Rate"
-msgstr ""
+msgstr "معدل الإكمال"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:62
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:75
 msgid "Completion certificate"
-msgstr ""
+msgstr "شهادة إتمام"
 
 #. Label of the condition (Code) field in DocType 'LMS Badge'
 #: frontend/src/components/Settings/BadgeForm.vue:75
@@ -1658,7 +1658,7 @@ msgstr ""
 
 #: frontend/src/pages/Batches/BatchForm.vue:218
 msgid "Conferencing"
-msgstr ""
+msgstr "الاجتماعات المرئية"
 
 #. Label of the conferencing_provider (Select) field in DocType 'LMS Batch'
 #. Label of the conferencing_provider (Select) field in DocType 'LMS Live
@@ -1688,19 +1688,19 @@ msgstr "أكد"
 
 #: frontend/src/components/UpcomingEvaluations.vue:196
 msgid "Confirm Cancellation?"
-msgstr ""
+msgstr "تأكيد الإلغاء؟"
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:95
 msgid "Confirm Enrollment"
-msgstr ""
+msgstr "تأكيد التسجيل"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:256
 msgid "Confirm Your Action"
-msgstr ""
+msgstr "تأكيد الإجراء"
 
 #: frontend/src/components/Sidebar/UserDropdown.vue:236
 msgid "Confirm clearing demo data?"
-msgstr ""
+msgstr "تأكيد مسح البيانات التجريبية؟"
 
 #: frontend/src/pages/Batches/BatchForm.vue:557
 msgid "Confirm your action to delete"
@@ -1764,7 +1764,7 @@ msgstr "محتوى"
 
 #: frontend/src/components/CourseCardOverlay.vue:32
 msgid "Continue Learning"
-msgstr ""
+msgstr "متابعة التعلم"
 
 #. Option for the 'Type' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -1781,11 +1781,11 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:224
 msgid "Correct"
-msgstr ""
+msgstr "صحيح"
 
 #: frontend/src/components/Modals/Question.vue:88
 msgid "Correct Answer"
-msgstr ""
+msgstr "الإجابة الصحيحة"
 
 #: lms/lms/course_import_export.py:196
 msgid "Could not create the course ZIP file. Please try again later. Error: {0}"
@@ -1793,7 +1793,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:330
 msgid "Could not delete the quiz"
-msgstr ""
+msgstr "تعذّر حذف الاختبار"
 
 #: frontend/src/pages/Batches/BatchDetail.vue:271
 #: frontend/src/pages/Courses/CourseDetail.vue:256
@@ -1825,19 +1825,19 @@ msgstr "رمز الكوبون"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:106
 msgid "Coupon Details"
-msgstr ""
+msgstr "تفاصيل القسيمة"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:148
 msgid "Coupon created successfully"
-msgstr ""
+msgstr "تم إنشاء القسيمة بنجاح"
 
 #: frontend/src/components/Settings/Coupons/CouponList.vue:148
 msgid "Coupon deleted successfully"
-msgstr ""
+msgstr "تم حذف القسيمة بنجاح"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:156
 msgid "Coupon updated successfully"
-msgstr ""
+msgstr "تم تحديث القسيمة بنجاح"
 
 #: frontend/src/components/Settings/Coupons/CouponList.vue:135
 msgid "Coupon(s) deleted successfully"
@@ -1915,11 +1915,11 @@ msgstr ""
 
 #: frontend/src/pages/Statistics.vue:37
 msgid "Course Completions"
-msgstr ""
+msgstr "إتمامات الدورة"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:110
 msgid "Course Content coming soon!"
-msgstr ""
+msgstr "محتوى الدورة قريبًا!"
 
 #. Label of the course_count (Int) field in DocType 'LMS Program'
 #: lms/lms/doctype/lms_program/lms_program.json
@@ -1960,16 +1960,16 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseOverviewSection.vue:11
 msgid "Course Description"
-msgstr ""
+msgstr "وصف الدورة"
 
 #: frontend/src/components/Settings/BadgeForm.vue:226
 #: frontend/src/components/Settings/Badges.vue:207
 msgid "Course Enrollment"
-msgstr ""
+msgstr "التسجيل في الدورة"
 
 #: frontend/src/pages/Statistics.vue:28
 msgid "Course Enrollments"
-msgstr ""
+msgstr "تسجيلات الدورة"
 
 #. Name of a DocType
 #: lms/lms/doctype/course_evaluator/course_evaluator.json
@@ -2048,31 +2048,31 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseOverview.vue:93
 msgid "Course content"
-msgstr ""
+msgstr "محتوى الدورة"
 
 #: frontend/src/pages/Courses/NewCourseModal.vue:315
 msgid "Course created successfully"
-msgstr ""
+msgstr "تم إنشاء الدورة بنجاح"
 
 #: frontend/src/components/CourseCreatorCard.vue:138
 msgid "Course creator"
-msgstr ""
+msgstr "منشئ الدورة"
 
 #: frontend/src/pages/Courses/CourseForm.vue:248
 msgid "Course deleted successfully"
-msgstr ""
+msgstr "تم حذف الدورة بنجاح"
 
 #: frontend/src/pages/Courses/NewCourseModal.vue:79
 msgid "Course description"
-msgstr ""
+msgstr "وصف الدورة"
 
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:4
 msgid "Course details"
-msgstr ""
+msgstr "تفاصيل الدورة"
 
 #: frontend/src/pages/Courses/CourseDetail.vue:317
 msgid "Course editor"
-msgstr ""
+msgstr "محرر الدورة"
 
 #: lms/lms/doctype/lms_certificate/lms_certificate.py:69
 msgid "Course or Batch is required to issue a certificate."
@@ -2080,29 +2080,29 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseOverviewSection.vue:4
 msgid "Course overview"
-msgstr ""
+msgstr "نظرة عامة على الدورة"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:53
 msgid "Course price"
-msgstr ""
+msgstr "سعر الدورة"
 
 #: frontend/src/pages/Courses/CourseDetail.vue:248
 msgid "Course published"
-msgstr ""
+msgstr "تم نشر الدورة"
 
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:4
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:26
 #: frontend/src/pages/Courses/NewCourseModal.vue:64
 msgid "Course thumbnail"
-msgstr ""
+msgstr "صورة مصغرة للدورة"
 
 #: frontend/src/pages/Courses/CourseDetail.vue:248
 msgid "Course unpublished"
-msgstr ""
+msgstr "تم إلغاء نشر الدورة"
 
 #: frontend/src/pages/Courses/CourseForm.vue:224
 msgid "Course updated successfully"
-msgstr ""
+msgstr "تم تحديث الدورة بنجاح"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:64
 msgid "Course {0} has already been added to this batch."
@@ -2132,7 +2132,7 @@ msgstr ""
 #: lms/lms/doctype/lms_settings/lms_settings.json
 #: lms/workspace_sidebar/learning.json
 msgid "Courses"
-msgstr ""
+msgstr "الدورات"
 
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:28
@@ -2141,15 +2141,15 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:113
 msgid "Courses Created"
-msgstr ""
+msgstr "الدورات التي تم إنشاؤها"
 
 #: frontend/src/pages/Batches/components/BatchCourses.vue:137
 msgid "Courses deleted successfully"
-msgstr ""
+msgstr "تم حذف الدورات بنجاح"
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:39
 msgid "Courses in this Program"
-msgstr ""
+msgstr "الدورات في هذا البرنامج"
 
 #: frontend/src/pages/Programs/ProgramDetail.vue:21
 msgid "Courses must be completed in order. You can only start the next course after completing the previous one."
@@ -2180,7 +2180,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:191
 msgid "Create Course"
-msgstr ""
+msgstr "إنشاء دورة"
 
 #: frontend/src/components/Controls/Link.vue:65
 #: frontend/src/components/Controls/Link.vue:71
@@ -2190,11 +2190,11 @@ msgstr "انشاء جديد"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:7
 msgid "Create Program"
-msgstr ""
+msgstr "إنشاء برنامج"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:8
 msgid "Create Programming Exercise"
-msgstr ""
+msgstr "إنشاء تمرين برمجي"
 
 #: lms/templates/onboarding_header.html:19
 msgid "Create a Course"
@@ -2202,27 +2202,27 @@ msgstr ""
 
 #: frontend/src/components/Modals/LiveClassModal.vue:4
 msgid "Create a Live Class"
-msgstr ""
+msgstr "إنشاء حصة مباشرة"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:598
 msgid "Create a batch"
-msgstr ""
+msgstr "إنشاء دفعة"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:589
 msgid "Create a course"
-msgstr ""
+msgstr "إنشاء دورة"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:599
 msgid "Create a live class"
-msgstr ""
+msgstr "إنشاء حصة مباشرة"
 
 #: frontend/src/components/Settings/BadgeForm.vue:122
 msgid "Create a new Badge"
-msgstr ""
+msgstr "إنشاء شارة جديدة"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:8
 msgid "Create an Assignment"
-msgstr ""
+msgstr "إنشاء واجب"
 
 #: frontend/src/components/Settings/EmailTemplates.vue:5
 msgid "Create and manage reusable email templates for your notifications."
@@ -2230,19 +2230,19 @@ msgstr ""
 
 #: frontend/src/components/CourseOutline.vue:34
 msgid "Create chapter"
-msgstr ""
+msgstr "إنشاء فصل"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:523
 msgid "Create your first batch"
-msgstr ""
+msgstr "أنشئ أول دفعة لك"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:449
 msgid "Create your first course"
-msgstr ""
+msgstr "أنشئ أول دورة لك"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:501
 msgid "Create your first quiz"
-msgstr ""
+msgstr "أنشئ أول اختبار لك"
 
 #: frontend/src/pages/Courses/Courses.vue:320
 msgid "Created"
@@ -2250,11 +2250,11 @@ msgstr "أنشأ"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:595
 msgid "Creating a batch"
-msgstr ""
+msgstr "إنشاء دفعة"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:586
 msgid "Creating a course"
-msgstr ""
+msgstr "إنشاء دورة"
 
 #. Label of the currency (Link) field in DocType 'LMS Batch'
 #. Label of the currency (Link) field in DocType 'LMS Course'
@@ -2276,15 +2276,15 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:29
 msgid "Current Streak"
-msgstr ""
+msgstr "السلسلة الحالية"
 
 #: frontend/src/pages/Batches/components/BatchDashboard.vue:7
 msgid "Curriculum"
-msgstr ""
+msgstr "المنهج"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:622
 msgid "Custom Certificate Templates"
-msgstr ""
+msgstr "قوالب شهادات مخصصة"
 
 #. Label of the custom_component (Code) field in DocType 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
@@ -2405,27 +2405,27 @@ msgstr "حذف"
 
 #: frontend/src/components/ChapterRow.vue:55
 msgid "Delete Chapter"
-msgstr ""
+msgstr "حذف الفصل"
 
 #: frontend/src/pages/Courses/CourseForm.vue:256
 msgid "Delete Course"
-msgstr ""
+msgstr "حذف الدورة"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:555
 msgid "Delete Program"
-msgstr ""
+msgstr "حذف البرنامج"
 
 #: frontend/src/pages/QuizForm.vue:42 frontend/src/pages/QuizForm.vue:45
 msgid "Delete quiz"
-msgstr ""
+msgstr "حذف الاختبار"
 
 #: frontend/src/components/CourseOutline.vue:361
 msgid "Delete this chapter?"
-msgstr ""
+msgstr "حذف هذا الفصل؟"
 
 #: frontend/src/components/Settings/Coupons/CouponList.vue:121
 msgid "Delete this coupon?"
-msgstr ""
+msgstr "حذف هذه القسيمة؟"
 
 #: frontend/src/components/CourseOutline.vue:335
 msgid "Delete this lesson?"
@@ -2433,11 +2433,11 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:313
 msgid "Delete this quiz?"
-msgstr ""
+msgstr "حذف هذا الاختبار؟"
 
 #: frontend/src/components/Settings/Members.vue:286
 msgid "Delete user"
-msgstr ""
+msgstr "حذف المستخدم"
 
 #: frontend/src/components/Settings/Members.vue:108
 msgid "Delete {0}?"
@@ -2478,7 +2478,7 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/UserDropdown.vue:258
 msgid "Demo data cleared successfully"
-msgstr ""
+msgstr "تم مسح البيانات التجريبية بنجاح"
 
 #. Label of the description (Text Editor) field in DocType 'Job Opportunity'
 #. Label of a field in the job-opportunity Web Form
@@ -2515,11 +2515,11 @@ msgstr "تفاصيل"
 
 #: frontend/src/components/Modals/DiscussionModal.vue:70
 msgid "Details cannot be empty."
-msgstr ""
+msgstr "لا يمكن أن تكون التفاصيل فارغة."
 
 #: frontend/src/pages/Courses/CourseImportModal.vue:28
 msgid "Device"
-msgstr ""
+msgstr "جهاز"
 
 #. Label of the disable_pwa (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -2632,7 +2632,7 @@ msgstr "المدة الزمنية"
 #: frontend/src/components/Modals/LiveClassModal.vue:33
 #: frontend/src/pages/QuizForm.vue:170 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Duration (in minutes)"
-msgstr ""
+msgstr "المدة (بالدقائق)"
 
 #: frontend/src/components/Settings/BadgeForm.vue:57
 msgid "Each user can only receive this badge one time."
@@ -2648,40 +2648,40 @@ msgstr "تصحيح"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:9
 msgid "Edit Assignment"
-msgstr ""
+msgstr "تعديل الواجب"
 
 #: frontend/src/components/Settings/BadgeForm.vue:121
 msgid "Edit Badge"
-msgstr ""
+msgstr "تعديل الشارة"
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:7
 msgid "Edit Badge Assignment"
-msgstr ""
+msgstr "تعديل تخصيص الشارة"
 
 #: frontend/src/components/ChapterRow.vue:48
 #: frontend/src/components/Modals/ChapterModal.vue:4
 msgid "Edit Chapter"
-msgstr ""
+msgstr "تعديل الفصل"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:3
 msgid "Edit Coupon"
-msgstr ""
+msgstr "تعديل القسيمة"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:5
 msgid "Edit Email Template"
-msgstr ""
+msgstr "تعديل قالب البريد الإلكتروني"
 
 #: frontend/src/components/Settings/GoogleMeetAccountForm.vue:105
 msgid "Edit Google Meet Account"
-msgstr ""
+msgstr "تعديل حساب Google Meet"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:4
 msgid "Edit Member"
-msgstr ""
+msgstr "تعديل العضو"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:69
 msgid "Edit Payment Gateway"
-msgstr ""
+msgstr "تعديل بوابة الدفع"
 
 #: frontend/src/components/Modals/EditProfile.vue:6
 #: frontend/src/pages/Profile.vue:124
@@ -2690,27 +2690,27 @@ msgstr "تعديل الملف الشخصي"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:7
 msgid "Edit Program"
-msgstr ""
+msgstr "تعديل البرنامج"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:9
 msgid "Edit Programming Exercise"
-msgstr ""
+msgstr "تعديل التمرين البرمجي"
 
 #: frontend/src/pages/QuizForm.vue:250
 msgid "Edit Question"
-msgstr ""
+msgstr "تعديل السؤال"
 
 #: frontend/src/components/Settings/ZoomAccountForm.vue:114
 msgid "Edit Zoom Account"
-msgstr ""
+msgstr "تعديل حساب Zoom"
 
 #: frontend/src/components/Modals/LessonModal.vue:62
 msgid "Edit lesson"
-msgstr ""
+msgstr "تعديل الدرس"
 
 #: frontend/src/components/Settings/Members.vue:282
 msgid "Edit member"
-msgstr ""
+msgstr "تعديل العضو"
 
 #. Label of the education (Table) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -2766,7 +2766,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/NewMemberModal.vue:168
 msgid "Email is required"
-msgstr ""
+msgstr "البريد الإلكتروني مطلوب"
 
 #: frontend/src/components/ContactUsEmail.vue:51
 #: frontend/src/pages/JobApplications.vue:300
@@ -2795,7 +2795,7 @@ msgstr ""
 #. Label of the enable_negative_marking (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:233 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Enable Negative Marking"
-msgstr ""
+msgstr "تفعيل خصم الدرجات"
 
 #: frontend/src/pages/Batches/BatchForm.vue:131
 msgid "Enable evaluations for batch participants."
@@ -2862,7 +2862,7 @@ msgstr ""
 #: frontend/src/pages/Home/AdminHome.vue:100
 #: frontend/src/pages/Home/StudentHome.vue:65
 msgid "Ended"
-msgstr ""
+msgstr "منتهية"
 
 #. Label of the enforce_assignment_completion (Check) field in DocType 'LMS
 #. Settings'
@@ -2891,24 +2891,24 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseDetail.vue:82
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:41
 msgid "Enroll"
-msgstr ""
+msgstr "التسجيل"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:171
 msgid "Enroll Member to Program"
-msgstr ""
+msgstr "تسجيل عضو في البرنامج"
 
 #: frontend/src/components/CourseCardOverlay.vue:76
 #: frontend/src/pages/Batches/components/BatchOverlay.vue:101
 msgid "Enroll Now"
-msgstr ""
+msgstr "سجّل الآن"
 
 #: frontend/src/components/Modals/StudentModal.vue:4
 msgid "Enroll a Student"
-msgstr ""
+msgstr "تسجيل طالب"
 
 #: frontend/src/pages/Billing.vue:209
 msgid "Enroll for Free"
-msgstr ""
+msgstr "سجّل مجانًا"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:35
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:132
@@ -2922,21 +2922,21 @@ msgstr ""
 #: frontend/src/pages/Courses/Courses.vue:323
 #: frontend/src/pages/Programs/StudentPrograms.vue:101
 msgid "Enrolled"
-msgstr ""
+msgstr "مسجَّل"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:293
 #: frontend/src/pages/Courses/CourseDashboard.vue:442
 msgid "Enrolled On"
-msgstr ""
+msgstr "تاريخ التسجيل"
 
 #: frontend/src/components/CourseCard.vue:62
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:64
 msgid "Enrolled Students"
-msgstr ""
+msgstr "الطلاب المسجلون"
 
 #: frontend/src/pages/Batches/BatchForm.vue:83
 msgid "Enrollment & Certification"
-msgstr ""
+msgstr "التسجيل والشهادات"
 
 #: frontend/src/pages/Batches/BatchForm.vue:170
 msgid "Enrollment Confirmation Email Template"
@@ -2953,7 +2953,7 @@ msgstr ""
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:5
 msgid "Enrollment for Program {0}"
-msgstr ""
+msgstr "التسجيل في البرنامج {0}"
 
 #. Label of the enrollment_from_batch (Link) field in DocType 'LMS Enrollment'
 #: lms/lms/doctype/lms_enrollment/lms_enrollment.json
@@ -2972,11 +2972,11 @@ msgstr ""
 #: lms/lms/doctype/lms_course/lms_course.json
 #: lms/lms/workspace/learning/learning.json lms/workspace_sidebar/learning.json
 msgid "Enrollments"
-msgstr ""
+msgstr "التسجيلات"
 
 #: frontend/src/components/Settings/BrandSettings.vue:32
 msgid "Enter Brand Name"
-msgstr ""
+msgstr "أدخل اسم العلامة التجارية"
 
 #: lms/lms/doctype/lms_settings/lms_settings.py:32
 msgid "Enter Client Id and Client Secret in Google Settings to send calendar invites for evaluations."
@@ -2984,19 +2984,19 @@ msgstr ""
 
 #: frontend/src/pages/Billing.vue:64
 msgid "Enter a Coupon Code"
-msgstr ""
+msgstr "أدخل رمز القسيمة"
 
 #: frontend/src/components/Assignment.vue:129
 msgid "Enter a URL"
-msgstr ""
+msgstr "أدخل رابطًا"
 
 #: frontend/src/pages/JobApplications.vue:138
 msgid "Enter email subject"
-msgstr ""
+msgstr "أدخل موضوع البريد الإلكتروني"
 
 #: frontend/src/pages/JobApplications.vue:144
 msgid "Enter reply to email"
-msgstr ""
+msgstr "أدخل بريد الرد"
 
 #: frontend/src/pages/Batches/BatchForm.vue:545
 msgid "Error"
@@ -3004,7 +3004,7 @@ msgstr "خطأ"
 
 #: frontend/src/components/Controls/Uploader.vue:103
 msgid "Error Uploading File"
-msgstr ""
+msgstr "خطأ في رفع الملف"
 
 #: frontend/src/components/Settings/GoogleMeetAccountForm.vue:156
 msgid "Error creating Google Meet Account"
@@ -3012,15 +3012,15 @@ msgstr ""
 
 #: frontend/src/components/Settings/ZoomAccountForm.vue:168
 msgid "Error creating Zoom Account"
-msgstr ""
+msgstr "خطأ في إنشاء حساب Zoom"
 
 #: frontend/src/components/Settings/BadgeForm.vue:209
 msgid "Error creating badge"
-msgstr ""
+msgstr "خطأ في إنشاء الشارة"
 
 #: frontend/src/pages/Batches/components/NewBatchModal.vue:252
 msgid "Error creating batch"
-msgstr ""
+msgstr "خطأ في إنشاء الدفعة"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:123
 msgid "Error creating email template"
@@ -3032,7 +3032,7 @@ msgstr ""
 
 #: frontend/src/pages/Quizzes.vue:245
 msgid "Error creating quiz: {0}"
-msgstr ""
+msgstr "خطأ في إنشاء الاختبار: {0}"
 
 #: frontend/src/components/Settings/GoogleMeetSettings.vue:178
 msgid "Error deleting Google Meet Account"
@@ -3040,7 +3040,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/Badges.vue:199
 msgid "Error deleting badge"
-msgstr ""
+msgstr "خطأ في حذف الشارة"
 
 #: frontend/src/components/Settings/EmailTemplates.vue:139
 msgid "Error deleting email templates"
@@ -3060,7 +3060,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/ZoomAccountForm.vue:206
 msgid "Error updating Zoom Account"
-msgstr ""
+msgstr "خطأ في تحديث حساب Zoom"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:152
 msgid "Error updating email template"
@@ -3068,7 +3068,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:242
 msgid "Error uploading file"
-msgstr ""
+msgstr "خطأ في رفع الملف"
 
 #. Label of the evaluation (Check) field in DocType 'LMS Batch'
 #. Label of a Link in the Learning Workspace
@@ -3289,11 +3289,11 @@ msgstr ""
 
 #: frontend/src/pages/Profile.vue:284
 msgid "Failed to refresh session"
-msgstr ""
+msgstr "فشل تحديث الجلسة"
 
 #: frontend/src/components/ContactUsEmail.vue:57
 msgid "Failed to send email"
-msgstr ""
+msgstr "فشل إرسال البريد الإلكتروني"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:373
 msgid "Failed to submit. Please try again. {0}"
@@ -3309,7 +3309,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/BrandSettings.vue:94
 msgid "Favicon"
-msgstr ""
+msgstr "أيقونة الموقع"
 
 #. Label of the featured (Check) field in DocType 'LMS Course'
 #: frontend/src/components/CourseCard.vue:25
@@ -3360,24 +3360,24 @@ msgstr ""
 
 #: frontend/src/components/AssessmentPlugin.vue:54
 msgid "Filter assignments by course"
-msgstr ""
+msgstr "تصفية الواجبات حسب الدورة"
 
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:15
 msgid "Filter by Billing Name"
-msgstr ""
+msgstr "تصفية حسب اسم الفوترة"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:23
 msgid "Filter by Exercise"
-msgstr ""
+msgstr "تصفية حسب التمرين"
 
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:20
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:29
 msgid "Filter by Member"
-msgstr ""
+msgstr "تصفية حسب العضو"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:41
 msgid "Filter by Status"
-msgstr ""
+msgstr "تصفية حسب الحالة"
 
 #: frontend/src/components/Modals/EditProfile.vue:34
 #: frontend/src/components/Modals/EditProfile.vue:143
@@ -3430,7 +3430,7 @@ msgstr ""
 
 #: frontend/src/pages/PersonaForm.vue:106
 msgid "Freelancer / Consultant"
-msgstr ""
+msgstr "مستقل / استشاري"
 
 #. Option for the 'User Category' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json lms/templates/signup-form.html:27
@@ -3491,11 +3491,11 @@ msgstr "وظيفة"
 
 #: frontend/src/pages/Billing.vue:46
 msgid "GST Amount"
-msgstr ""
+msgstr "مبلغ الضريبة"
 
 #: frontend/src/pages/Billing.vue:167
 msgid "GST Number"
-msgstr ""
+msgstr "رقم الضريبة"
 
 #. Label of the gstin (Data) field in DocType 'LMS Payment'
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:147
@@ -3505,7 +3505,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/PaymentGateways.vue:157
 msgid "Gateway"
-msgstr ""
+msgstr "بوابة"
 
 #. Label of the general_tab (Tab Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -3514,7 +3514,7 @@ msgstr "عام"
 
 #: frontend/src/pages/Batches/BatchDetail.vue:287
 msgid "Generate Certificates"
-msgstr ""
+msgstr "إصدار الشهادات"
 
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.js:15
 msgid "Generate Google Meet Link"
@@ -3522,14 +3522,14 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:89
 msgid "Get Certificate"
-msgstr ""
+msgstr "احصل على الشهادة"
 
 #: frontend/src/components/CertificationLinks.vue:34
 #: frontend/src/components/CertificationLinks.vue:50
 #: frontend/src/components/CourseCard.vue:128
 #: frontend/src/pages/CertifiedParticipants.vue:12
 msgid "Get Certified"
-msgstr ""
+msgstr "احصل على شهادة"
 
 #: lms/templates/onboarding_header.html:8
 msgid "Get Started"
@@ -3537,7 +3537,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:168
 msgid "Get the Payments app"
-msgstr ""
+msgstr "احصل على تطبيق المدفوعات"
 
 #: frontend/src/components/InstallPrompt.vue:9
 msgid "Get the app on your device for easy access & a better experience!"
@@ -3549,7 +3549,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/EditProfile.vue:48
 msgid "GitHub ID"
-msgstr ""
+msgstr "معرّف GitHub"
 
 #. Label of the github (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -3626,12 +3626,12 @@ msgstr ""
 
 #: frontend/src/components/Assignment.vue:173
 msgid "Grading"
-msgstr ""
+msgstr "التصحيح"
 
 #: frontend/src/components/Settings/BadgeForm.vue:56
 #: frontend/src/components/Settings/Badges.vue:241
 msgid "Grant Only Once"
-msgstr ""
+msgstr "منح مرة واحدة فقط"
 
 #. Label of the grant_only_once (Check) field in DocType 'LMS Badge'
 #: lms/lms/doctype/lms_badge/lms_badge.json
@@ -3652,7 +3652,7 @@ msgstr "أخضر"
 
 #: frontend/src/pages/PersonaForm.vue:107
 msgid "HR / L&D Professional"
-msgstr ""
+msgstr "مختص موارد بشرية / تدريب وتطوير"
 
 #: lms/templates/signup-form.html:56
 msgid "Have an account? Login"
@@ -3696,7 +3696,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Home.vue:6
 msgid "Hey"
-msgstr ""
+msgstr "مرحبًا"
 
 #: lms/lms/notification/certificate_request_reminder/certificate_request_reminder.html:1
 #: lms/templates/emails/certificate_request_notification.html:1
@@ -3730,11 +3730,11 @@ msgstr "أبرز النقاط"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:16
 msgid "Highlight on the homepage."
-msgstr ""
+msgstr "إبراز في الصفحة الرئيسية."
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:110
 msgid "Highlight what makes you unique and show your skills."
-msgstr ""
+msgstr "أبرز ما يميزك وأظهر مهاراتك."
 
 #. Label of the highlighted_text (Small Text) field in DocType 'LMS Lesson
 #. Note'
@@ -3747,7 +3747,7 @@ msgstr ""
 #: frontend/src/pages/CertifiedParticipants.vue:53
 #: frontend/src/pages/Profile.vue:70 lms/fixtures/custom_field.json
 msgid "Hiring"
-msgstr ""
+msgstr "التوظيف"
 
 #: frontend/src/pages/Home/Home.vue:199
 msgid "Home"
@@ -3761,7 +3761,7 @@ msgstr ""
 #: frontend/src/components/LessonHelp.vue:2
 #: frontend/src/pages/Courses/CourseDetail.vue:51
 msgid "How to edit a lesson"
-msgstr ""
+msgstr "كيفية تعديل الدرس"
 
 #. Option for the 'Work Mode' (Select) field in DocType 'Job Opportunity'
 #: frontend/src/pages/JobForm.vue:294 frontend/src/pages/Jobs.vue:341
@@ -3784,7 +3784,7 @@ msgstr ""
 
 #: frontend/src/pages/ProfileEvaluator.vue:101
 msgid "I am unavailable"
-msgstr ""
+msgstr "أنا غير متاح"
 
 #: frontend/src/pages/Billing.vue:185
 msgid "I consent to my personal information being stored for invoicing"
@@ -3852,7 +3852,7 @@ msgstr "صورة"
 #: frontend/src/components/Modals/EditCoverImage.vue:58
 #: frontend/src/components/UnsplashImageBrowser.vue:52
 msgid "Image search powered by"
-msgstr ""
+msgstr "بحث الصور مدعوم من"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:269
 msgid "Image: Corrupted Data Stream"
@@ -3865,15 +3865,15 @@ msgstr "استيراد"
 
 #: frontend/src/pages/Batches/Batches.vue:18
 msgid "Import Batch"
-msgstr ""
+msgstr "استيراد دفعة"
 
 #: frontend/src/pages/Courses/Courses.vue:338
 msgid "Import via Data Import Tool"
-msgstr ""
+msgstr "الاستيراد عبر أداة استيراد البيانات"
 
 #: frontend/src/pages/Courses/Courses.vue:348
 msgid "Import via ZIP"
-msgstr ""
+msgstr "الاستيراد عبر ZIP"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Certificate
 #. Evaluation'
@@ -3899,7 +3899,7 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:10
 msgid "Include in preview"
-msgstr ""
+msgstr "تضمين في المعاينة"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Course Progress'
 #: lms/lms/doctype/lms_course_progress/lms_course_progress.json
@@ -3908,7 +3908,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:231
 msgid "Incorrect"
-msgstr ""
+msgstr "غير صحيح"
 
 #. Option for the 'Collaboration Preference' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -3933,12 +3933,12 @@ msgstr ""
 
 #: frontend/src/components/InstallPrompt.vue:18
 msgid "Install"
-msgstr ""
+msgstr "تثبيت"
 
 #: frontend/src/components/InstallPrompt.vue:4
 #: frontend/src/components/InstallPrompt.vue:32
 msgid "Install Frappe Learning"
-msgstr ""
+msgstr "تثبيت Frappe Learning"
 
 #. Label of the institution_name (Data) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
@@ -3965,7 +3965,7 @@ msgstr ""
 
 #: frontend/src/pages/LessonForm.vue:47
 msgid "Instructor notes"
-msgstr ""
+msgstr "ملاحظات المدرب"
 
 #. Label of the instructors (Table MultiSelect) field in DocType 'LMS Batch'
 #. Label of the instructors (Rating) field in DocType 'LMS Batch Feedback'
@@ -4040,7 +4040,7 @@ msgstr "استعلام بحث غير صالح."
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:512
 msgid "Invite your team and students"
-msgstr ""
+msgstr "ادعُ فريقك وطلابك"
 
 #. Label of the is_correct (Check) field in DocType 'LMS Option'
 #. Label of the is_correct_1 (Check) field in DocType 'LMS Question'
@@ -4083,7 +4083,7 @@ msgstr "تاريخ القضية"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:619
 msgid "Issue a Certificate"
-msgstr ""
+msgstr "إصدار شهادة"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:64
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:77
@@ -4131,7 +4131,7 @@ msgstr ""
 
 #: frontend/src/pages/JobForm.vue:22
 msgid "Job Details"
-msgstr ""
+msgstr "تفاصيل الوظيفة"
 
 #: lms/www/_lms.py:192
 msgid "Job Openings"
@@ -4171,11 +4171,11 @@ msgstr "انضم"
 
 #: frontend/src/components/UpcomingEvaluations.vue:93
 msgid "Join Call"
-msgstr ""
+msgstr "الانضمام إلى المكالمة"
 
 #: frontend/src/components/Modals/Event.vue:79
 msgid "Join Meeting"
-msgstr ""
+msgstr "الانضمام إلى الاجتماع"
 
 #. Label of the join_url (Small Text) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -4190,15 +4190,15 @@ msgstr ""
 
 #: frontend/src/components/Modals/LiveClassAttendance.vue:16
 msgid "Joined at"
-msgstr ""
+msgstr "انضم في"
 
 #: frontend/src/components/CommandPalette/CommandPalette.vue:194
 msgid "Jump to"
-msgstr ""
+msgstr "الانتقال إلى"
 
 #: frontend/src/pages/Home/Streak.vue:13
 msgid "Keep going,"
-msgstr ""
+msgstr "واصل التقدم،"
 
 #. Name of a DocType
 #: lms/lms/doctype/lms_assessment/lms_assessment.json
@@ -4509,11 +4509,11 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:2
 msgid "Learning Consistency"
-msgstr ""
+msgstr "انتظام التعلّم"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:603
 msgid "Learning Paths"
-msgstr ""
+msgstr "مسارات التعلم"
 
 #. Label of the left_at (Datetime) field in DocType 'LMS Live Class
 #. Participant'
@@ -4523,7 +4523,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/LiveClassAttendance.vue:19
 msgid "Left at"
-msgstr ""
+msgstr "غادر في"
 
 #. Label of the lesson (Link) field in DocType 'Lesson Reference'
 #. Label of the lesson (Link) field in DocType 'LMS Assignment Submission'
@@ -4547,7 +4547,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:231
 msgid "Lesson Completion"
-msgstr ""
+msgstr "إتمام الدرس"
 
 #. Label of the lesson_dwell_time (Int) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -4560,11 +4560,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:451
 msgid "Lesson Index"
-msgstr ""
+msgstr "فهرس الدرس"
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:42
 msgid "Lesson Progress"
-msgstr ""
+msgstr "تقدم الدرس"
 
 #. Name of a DocType
 #: lms/lms/doctype/lesson_reference/lesson_reference.json
@@ -4578,27 +4578,27 @@ msgstr ""
 
 #: frontend/src/components/Modals/LessonModal.vue:170
 msgid "Lesson created"
-msgstr ""
+msgstr "تم إنشاء الدرس"
 
 #: frontend/src/pages/LessonForm.vue:600
 msgid "Lesson created successfully"
-msgstr ""
+msgstr "تم إنشاء الدرس بنجاح"
 
 #: frontend/src/components/CourseOutline.vue:210
 msgid "Lesson deleted successfully"
-msgstr ""
+msgstr "تم حذف الدرس بنجاح"
 
 #: frontend/src/components/CourseOutline.vue:226
 msgid "Lesson moved successfully"
-msgstr ""
+msgstr "تم نقل الدرس بنجاح"
 
 #: frontend/src/pages/LessonForm.vue:31
 msgid "Lesson title"
-msgstr ""
+msgstr "عنوان الدرس"
 
 #: frontend/src/components/Modals/LessonModal.vue:148
 msgid "Lesson updated"
-msgstr ""
+msgstr "تم تحديث الدرس"
 
 #. Label of the lessons (Table) field in DocType 'Course Chapter'
 #. Group in Course Chapter's connections
@@ -4610,7 +4610,7 @@ msgstr ""
 #: lms/lms/doctype/course_chapter/course_chapter.json
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Lessons"
-msgstr ""
+msgstr "الدروس"
 
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:36
@@ -4619,7 +4619,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:23
 msgid "Let users enroll themselves."
-msgstr ""
+msgstr "السماح للمستخدمين بالتسجيل الذاتي."
 
 #: lms/templates/onboarding_header.html:11
 msgid "Lets start setting up your content on the LMS so that you can reclaim time and focus on growth."
@@ -4633,7 +4633,7 @@ msgstr ""
 #. Label of the limit_questions_to (Int) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:227 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Limit Questions To"
-msgstr ""
+msgstr "تحديد عدد الأسئلة بـ"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:53
 msgid "Limit cannot be greater than or equal to the number of questions in the quiz."
@@ -4641,7 +4641,7 @@ msgstr ""
 
 #: frontend/src/pages/ProfileAbout.vue:96
 msgid "LinkedIn"
-msgstr ""
+msgstr "لينكدإن"
 
 #. Label of the linkedin (Data) field in DocType 'User'
 #: frontend/src/components/Modals/EditProfile.vue:46
@@ -4713,11 +4713,11 @@ msgstr "تسجيل الدخول إلى Frappe Cloud؟"
 
 #: frontend/src/pages/JobDetail.vue:74
 msgid "Login to apply"
-msgstr ""
+msgstr "سجّل الدخول للتقديم"
 
 #: frontend/src/pages/Home/Streak.vue:37
 msgid "Longest Streak"
-msgstr ""
+msgstr "أطول سلسلة"
 
 #: frontend/src/components/Modals/EditProfile.vue:61
 msgid "Looking for new work or hiring talent?"
@@ -4729,7 +4729,7 @@ msgstr ""
 
 #: frontend/src/pages/Batches/BatchDetail.vue:68
 msgid "Make Announcement"
-msgstr ""
+msgstr "نشر إعلان"
 
 #. Label of the default_home (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -4750,11 +4750,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:150
 msgid "Manage templates"
-msgstr ""
+msgstr "إدارة القوالب"
 
 #: frontend/src/pages/Home/Home.vue:170
 msgid "Manage your courses and batches at a glance"
-msgstr ""
+msgstr "أدر دوراتك ودفعاتك بنظرة واحدة"
 
 #. Option for the 'User Category' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json lms/templates/signup-form.html:24
@@ -4773,7 +4773,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:148
 msgid "Mark"
-msgstr ""
+msgstr "تعليم"
 
 #: frontend/src/components/Notifications/NotificationPanel.vue:25
 msgid "Mark all as read"
@@ -4781,7 +4781,7 @@ msgstr "وضع علامة \"مقروءة\" على الكل"
 
 #: frontend/src/components/Quiz.vue:251
 msgid "Mark for review"
-msgstr ""
+msgstr "وضع علامة للمراجعة"
 
 #: frontend/src/components/Modals/Question.vue:89
 msgid "Mark this option as a correct answer."
@@ -4815,16 +4815,16 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:239
 msgid "Marks to Deduct"
-msgstr ""
+msgstr "الدرجات المخصومة"
 
 #. Label of the max_attempts (Int) field in DocType 'LMS Quiz'
 #: frontend/src/pages/Quizzes.vue:282 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Max Attempts"
-msgstr ""
+msgstr "الحد الأقصى للمحاولات"
 
 #: frontend/src/pages/QuizForm.vue:164
 msgid "Maximum Attempts"
-msgstr ""
+msgstr "الحد الأقصى للمحاولات"
 
 #. Label of the medium (Select) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:162
@@ -5004,7 +5004,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/NewMemberModal.vue:185
 msgid "Member added successfully"
-msgstr ""
+msgstr "تمت إضافة العضو بنجاح"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:461
 msgid "Member added to program successfully"
@@ -5024,7 +5024,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/NewMemberModal.vue:211
 msgid "Member updated"
-msgstr ""
+msgstr "تم تحديث العضو"
 
 #: lms/lms/doctype/lms_program/lms_program.py:32
 msgid "Member {0} has already been added to this program."
@@ -5076,7 +5076,7 @@ msgstr "رسالة"
 
 #: frontend/src/pages/JobApplications.vue:296
 msgid "Message is required"
-msgstr ""
+msgstr "الرسالة مطلوبة"
 
 #. Label of the meta_description (Small Text) field in DocType 'LMS Settings'
 #: frontend/src/pages/Batches/BatchForm.vue:262
@@ -5109,7 +5109,7 @@ msgstr "وصف الميتا"
 
 #: frontend/src/pages/Courses/CourseOverviewSection.vue:68
 msgid "Meta keywords"
-msgstr ""
+msgstr "الكلمات المفتاحية (ميتا)"
 
 #: lms/lms/api.py:1676
 msgid "Meta tags should be a list."
@@ -5166,7 +5166,7 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:295
 msgid "Modified"
-msgstr ""
+msgstr "معدَّل"
 
 #: lms/lms/doctype/lms_badge/lms_badge.js:38
 msgid "Modified By"
@@ -5189,7 +5189,7 @@ msgstr "يوم الاثنين"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:627
 msgid "Monetization"
-msgstr ""
+msgstr "تحقيق الدخل"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:52
 msgid "More"
@@ -5202,27 +5202,27 @@ msgstr ""
 
 #: frontend/src/pages/Home/StudentHome.vue:112
 msgid "My Batches"
-msgstr ""
+msgstr "دفعاتي"
 
 #: frontend/src/pages/Home/StudentHome.vue:80
 msgid "My Courses"
-msgstr ""
+msgstr "دوراتي"
 
 #: frontend/src/components/Notes/Notes.vue:3
 msgid "My Notes"
-msgstr ""
+msgstr "ملاحظاتي"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:121
 msgid "My Profile"
-msgstr ""
+msgstr "ملفي الشخصي"
 
 #: frontend/src/pages/ProfileEvaluator.vue:4
 msgid "My availability"
-msgstr ""
+msgstr "أوقات توفري"
 
 #: frontend/src/pages/ProfileEvaluator.vue:136
 msgid "My calendar"
-msgstr ""
+msgstr "تقويمي"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:21
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:288
@@ -5247,27 +5247,27 @@ msgstr "جديد"
 
 #: frontend/src/pages/Batches/Batches.vue:11 lms/www/_lms.py:164
 msgid "New Batch"
-msgstr ""
+msgstr "دفعة جديدة"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:3
 msgid "New Coupon"
-msgstr ""
+msgstr "قسيمة جديدة"
 
 #: frontend/src/pages/Courses/Courses.vue:331 lms/www/_lms.py:102
 msgid "New Course"
-msgstr ""
+msgstr "دورة جديدة"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:5
 msgid "New Email Template"
-msgstr ""
+msgstr "قالب بريد إلكتروني جديد"
 
 #: frontend/src/components/Settings/GoogleMeetAccountForm.vue:104
 msgid "New Google Meet Account"
-msgstr ""
+msgstr "حساب Google Meet جديد"
 
 #: frontend/src/pages/JobForm.vue:313 frontend/src/pages/JobForm.vue:325
 msgid "New Job"
-msgstr ""
+msgstr "وظيفة جديدة"
 
 #: lms/job/doctype/lms_job_application/lms_job_application.py:31
 msgid "New Job Applicant"
@@ -5275,11 +5275,11 @@ msgstr ""
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:68
 msgid "New Payment Gateway"
-msgstr ""
+msgstr "بوابة دفع جديدة"
 
 #: frontend/src/pages/QuizForm.vue:73
 msgid "New Question"
-msgstr ""
+msgstr "سؤال جديد"
 
 #: lms/www/new-sign-up.html:3
 msgid "New Sign Up"
@@ -5287,7 +5287,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/ZoomAccountForm.vue:114
 msgid "New Zoom Account"
-msgstr ""
+msgstr "حساب Zoom جديد"
 
 #: lms/lms/utils.py:471
 msgid "New comment in batch {0}"
@@ -5295,7 +5295,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/LessonModal.vue:62
 msgid "New lesson"
-msgstr ""
+msgstr "درس جديد"
 
 #: lms/lms/utils.py:462
 msgid "New reply on the topic {0} in course {1}"
@@ -5317,7 +5317,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/BadgeAssignments.vue:78
 msgid "No Assignments"
-msgstr ""
+msgstr "لا توجد واجبات"
 
 #: lms/templates/notifications.html:26
 msgid "No Notifications"
@@ -5325,7 +5325,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:408
 msgid "No Quiz submissions found"
-msgstr ""
+msgstr "لم يتم العثور على إجابات اختبار"
 
 #. Option for the 'Auto Recording' (Select) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -5334,7 +5334,7 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:13
 msgid "No Submissions"
-msgstr ""
+msgstr "لا توجد تسليمات"
 
 #: lms/templates/upcoming_evals.html:43
 msgid "No Upcoming Evaluations"
@@ -5358,11 +5358,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDetail.vue:23
 msgid "No changes to save"
-msgstr ""
+msgstr "لا توجد تغييرات لحفظها"
 
 #: frontend/src/components/CourseOutline.vue:29
 msgid "No chapters yet"
-msgstr ""
+msgstr "لا توجد فصول بعد"
 
 #: frontend/src/components/Settings/Coupons/CouponList.vue:117
 msgid "No coupons selected for deletion"
@@ -5375,12 +5375,12 @@ msgstr ""
 
 #: frontend/src/pages/Programs/ProgramForm.vue:98
 msgid "No courses added yet."
-msgstr ""
+msgstr "لم تتم إضافة دورات بعد."
 
 #: frontend/src/pages/Home/AdminHome.vue:172
 #: lms/templates/courses_created.html:14
 msgid "No courses created"
-msgstr ""
+msgstr "لم يتم إنشاء أي دورات"
 
 #: lms/templates/courses_under_review.html:14
 msgid "No courses under review"
@@ -5388,23 +5388,23 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:73
 msgid "No feedback received yet."
-msgstr ""
+msgstr "لم يتم استلام أي ملاحظات بعد."
 
 #: frontend/src/pages/ProfileAbout.vue:29
 msgid "No introduction"
-msgstr ""
+msgstr "لا يوجد مقدمة"
 
 #: frontend/src/pages/Batches/components/LiveClass.vue:105
 msgid "No live classes scheduled"
-msgstr ""
+msgstr "لا توجد حصص مباشرة مجدولة"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:162
 msgid "No members added yet."
-msgstr ""
+msgstr "لم تتم إضافة أعضاء بعد."
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:62
 msgid "No members found."
-msgstr ""
+msgstr "لم يتم العثور على أعضاء."
 
 #: frontend/src/pages/Courses/CourseOverviewSection.vue:38
 msgid "No other published courses available"
@@ -5416,19 +5416,19 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:128
 msgid "No questions added yet"
-msgstr ""
+msgstr "لم تتم إضافة أسئلة بعد"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:87
 msgid "No quizzes added yet."
-msgstr ""
+msgstr "لم تتم إضافة اختبارات بعد."
 
 #: frontend/src/components/Notifications/NotificationPanel.vue:127
 msgid "No read notifications"
-msgstr ""
+msgstr "لا توجد إشعارات مقروءة"
 
 #: frontend/src/components/Controls/MultiSelect.vue:74
 msgid "No results found"
-msgstr ""
+msgstr "لم يتم العثور على نتائج"
 
 #: frontend/src/components/Modals/EvaluationModal.vue:60
 msgid "No slots available for the selected course."
@@ -5442,11 +5442,11 @@ msgstr ""
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:127
 #: frontend/src/pages/Courses/CourseDashboard.vue:29
 msgid "No students enrolled yet"
-msgstr ""
+msgstr "لا يوجد طلاب مسجلون بعد"
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:93
 msgid "No students in this batch"
-msgstr ""
+msgstr "لا يوجد طلاب في هذه الدفعة"
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:126
 #: frontend/src/pages/Courses/CourseDashboard.vue:130
@@ -5455,15 +5455,15 @@ msgstr ""
 
 #: frontend/src/pages/AssignmentSubmissionList.vue:67
 msgid "No submissions"
-msgstr ""
+msgstr "لا توجد تسليمات"
 
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:34
 msgid "No thumbnail"
-msgstr ""
+msgstr "لا توجد صورة مصغرة"
 
 #: frontend/src/components/Notifications/NotificationPanel.vue:126
 msgid "No unread notifications"
-msgstr ""
+msgstr "لا توجد إشعارات غير مقروءة"
 
 #: lms/templates/course_list.html:13
 msgid "No {0}"
@@ -5471,7 +5471,7 @@ msgstr "لا {0}"
 
 #: frontend/src/components/Layouts/EmptyStateLayout.vue:37
 msgid "No {0} Found"
-msgstr ""
+msgstr "لم يتم العثور على {0}"
 
 #: lms/lms/user.py:29
 msgid "Not Allowed"
@@ -5516,7 +5516,7 @@ msgstr "لم يتم الحفظ"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:9
 msgid "Not yet open for enrollment."
-msgstr ""
+msgstr "غير مفتوح للتسجيل بعد."
 
 #. Label of the note (Text Editor) field in DocType 'LMS Lesson Note'
 #: lms/lms/doctype/lms_lesson_note/lms_lesson_note.json
@@ -5552,11 +5552,11 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:161
 msgid "Number of Students"
-msgstr ""
+msgstr "عدد الطلاب"
 
 #: frontend/src/pages/Batches/BatchForm.vue:76
 msgid "Number of seats available"
-msgstr ""
+msgstr "عدد المقاعد المتاحة"
 
 #. Label of the sb_00 (Section Break) field in DocType 'Zoom Settings'
 #: lms/lms/doctype/zoom_settings/zoom_settings.json
@@ -5577,11 +5577,11 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:108
 msgid "On demand course video"
-msgstr ""
+msgstr "فيديو الدورة عند الطلب"
 
 #: frontend/src/pages/JobForm.vue:293
 msgid "On site"
-msgstr ""
+msgstr "في الموقع"
 
 #. Option for the 'Work Mode' (Select) field in DocType 'Job Opportunity'
 #: frontend/src/pages/Jobs.vue:340
@@ -5610,11 +5610,11 @@ msgstr ""
 
 #: frontend/src/utils/index.js:698
 msgid "Only PDF files are allowed."
-msgstr ""
+msgstr "يُسمح فقط بملفات PDF."
 
 #: frontend/src/utils/index.js:704
 msgid "Only ZIP files are allowed."
-msgstr ""
+msgstr "يُسمح فقط بملفات ZIP."
 
 #: frontend/src/utils/index.js:701
 msgid "Only document file of type .doc or .docx are allowed."
@@ -5642,11 +5642,11 @@ msgstr ""
 
 #: frontend/src/components/Modals/ChapterModal.vue:204
 msgid "Only zip files are allowed"
-msgstr ""
+msgstr "يُسمح فقط بملفات zip"
 
 #: frontend/src/utils/index.js:709
 msgid "Only {0} file is allowed."
-msgstr ""
+msgstr "يُسمح بملف {0} فقط."
 
 #. Option for the 'Status' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -5673,7 +5673,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:16
 msgid "Open the "
-msgstr ""
+msgstr "افتح "
 
 #. Label of the open_to (Select) field in DocType 'User'
 #: frontend/src/components/Modals/EditProfile.vue:60
@@ -5685,7 +5685,7 @@ msgstr ""
 #: frontend/src/pages/CertifiedParticipants.vue:48
 #: frontend/src/pages/Profile.vue:69
 msgid "Open to Work"
-msgstr ""
+msgstr "متاح للعمل"
 
 #. Label of the option (Data) field in DocType 'LMS Option'
 #: frontend/src/components/Modals/Question.vue:67
@@ -5782,11 +5782,11 @@ msgstr "بدلات أخرى"
 
 #: frontend/src/pages/Home/StudentHome.vue:81
 msgid "Our Popular Courses"
-msgstr ""
+msgstr "أشهر دوراتنا"
 
 #: frontend/src/pages/Home/StudentHome.vue:113
 msgid "Our Upcoming Batches"
-msgstr ""
+msgstr "دفعاتنا القادمة"
 
 #. Label of the output (Data) field in DocType 'LMS Test Case Submission'
 #: lms/lms/doctype/lms_test_case_submission/lms_test_case_submission.json
@@ -5827,7 +5827,7 @@ msgstr "ملف PDF"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:414
 msgid "Page deleted successfully"
-msgstr ""
+msgstr "تم حذف الصفحة بنجاح"
 
 #. Label of the paid_batch (Check) field in DocType 'LMS Batch'
 #: frontend/src/pages/Batches/BatchForm.vue:104
@@ -5847,11 +5847,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:84
 msgid "Paid certificate"
-msgstr ""
+msgstr "شهادة مدفوعة"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:33
 msgid "Paid course"
-msgstr ""
+msgstr "دورة مدفوعة"
 
 #. Option for the 'Type' (Select) field in DocType 'Job Opportunity'
 #. Option in a Select field in the job-opportunity Web Form
@@ -5900,7 +5900,7 @@ msgstr "كلمة السر"
 
 #: frontend/src/components/Controls/VideoPreviewField.vue:85
 msgid "Paste a YouTube link"
-msgstr ""
+msgstr "الصق رابط يوتيوب"
 
 #: frontend/src/components/Controls/VideoPreviewField.vue:107
 msgid "Paste a YouTube link, or upload a video file (MP4, WebM, or OGG) to show a preview on the course page."
@@ -5929,15 +5929,15 @@ msgstr ""
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:35
 msgid "Payment For Certificate"
-msgstr ""
+msgstr "الدفع مقابل الشهادة"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:74
 msgid "Payment For Document"
-msgstr ""
+msgstr "الدفع مقابل المستند"
 
 #: frontend/src/components/Settings/Transactions/TransactionDetails.vue:67
 msgid "Payment For Document Type"
-msgstr ""
+msgstr "الدفع مقابل نوع المستند"
 
 #. Label of the payment_gateway (Data) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -5972,7 +5972,7 @@ msgstr ""
 
 #: frontend/src/pages/Billing.vue:20
 msgid "Payment for "
-msgstr ""
+msgstr "الدفع مقابل "
 
 #. Label of the payment_for_certificate (Check) field in DocType 'LMS Payment'
 #: frontend/src/components/Settings/Transactions/TransactionList.vue:30
@@ -6009,7 +6009,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:165
 msgid "Payments app required"
-msgstr ""
+msgstr "تطبيق المدفوعات مطلوب"
 
 #. Option for the 'Status' (Select) field in DocType 'LMS Certificate
 #. Evaluation'
@@ -6022,7 +6022,7 @@ msgstr "معلق"
 
 #: frontend/src/pages/Profile.vue:296
 msgid "People"
-msgstr ""
+msgstr "الأشخاص"
 
 #. Option for the 'Discount Type' (Select) field in DocType 'LMS Coupon'
 #. Label of the percentage (Int) field in DocType 'LMS Quiz Submission'
@@ -6104,11 +6104,11 @@ msgstr ""
 
 #: frontend/src/pages/Billing.vue:371
 msgid "Please enter a coupon code"
-msgstr ""
+msgstr "يرجى إدخال رمز القسيمة"
 
 #: frontend/src/components/Modals/LiveClassModal.vue:200
 msgid "Please enter a title."
-msgstr ""
+msgstr "يرجى إدخال عنوان."
 
 #: lms/lms/doctype/lms_settings/lms_settings.py:56
 msgid "Please enter a valid Contact Us Email."
@@ -6205,7 +6205,7 @@ msgstr ""
 
 #: frontend/src/pages/Programs/ProgramForm.vue:422
 msgid "Please select a course"
-msgstr ""
+msgstr "يرجى اختيار دورة"
 
 #: frontend/src/components/Modals/EvaluationModal.vue:57
 msgid "Please select a course to view available slots."
@@ -6213,11 +6213,11 @@ msgstr ""
 
 #: frontend/src/components/Modals/LiveClassModal.vue:203
 msgid "Please select a date."
-msgstr ""
+msgstr "يرجى اختيار تاريخ."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:227
 msgid "Please select a duration."
-msgstr ""
+msgstr "يرجى اختيار المدة."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:224
 msgid "Please select a future date and time."
@@ -6225,7 +6225,7 @@ msgstr ""
 
 #: frontend/src/pages/Programs/ProgramForm.vue:446
 msgid "Please select a member"
-msgstr ""
+msgstr "يرجى اختيار عضو"
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:93
 msgid "Please select a payment for the purchased certificate."
@@ -6233,7 +6233,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/QuizInVideo.vue:179
 msgid "Please select a quiz"
-msgstr ""
+msgstr "يرجى اختيار اختبار"
 
 #: frontend/src/components/Modals/EvaluationModal.vue:103
 msgid "Please select a slot for your evaluation."
@@ -6245,15 +6245,15 @@ msgstr ""
 
 #: frontend/src/components/Modals/LiveClassModal.vue:206
 msgid "Please select a time."
-msgstr ""
+msgstr "يرجى اختيار وقت."
 
 #: frontend/src/components/Modals/LiveClassModal.vue:209
 msgid "Please select a timezone."
-msgstr ""
+msgstr "يرجى اختيار المنطقة الزمنية."
 
 #: frontend/src/components/Quiz.vue:791
 msgid "Please select an option"
-msgstr ""
+msgstr "يرجى اختيار خيار"
 
 #: lms/templates/emails/job_report.html:6
 msgid "Please take appropriate action at {0}"
@@ -6274,11 +6274,11 @@ msgstr ""
 
 #: frontend/src/components/Modals/Question.vue:54
 msgid "Possibilities"
-msgstr ""
+msgstr "الخيارات"
 
 #: frontend/src/components/Modals/Question.vue:114
 msgid "Possibility"
-msgstr ""
+msgstr "خيار"
 
 #. Label of the possibility_1 (Small Text) field in DocType 'LMS Question'
 #: lms/lms/doctype/lms_question/lms_question.json
@@ -6341,7 +6341,7 @@ msgstr "الرمز البريدي"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:204
 msgid "Powered by Frappe Learning"
-msgstr ""
+msgstr "مدعوم بواسطة Frappe Learning"
 
 #. Name of a DocType
 #: lms/lms/doctype/preferred_function/preferred_function.json
@@ -6387,7 +6387,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:81
 msgid "Preview video"
-msgstr ""
+msgstr "معاينة الفيديو"
 
 #: frontend/src/pages/Lesson.vue:139 frontend/src/pages/Lesson.vue:172
 msgid "Previous"
@@ -6405,7 +6405,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:28
 msgid "Pricing and certification"
-msgstr ""
+msgstr "التسعير والشهادات"
 
 #. Label of the exception_country (Table MultiSelect) field in DocType 'LMS
 #. Settings'
@@ -6429,7 +6429,7 @@ msgstr ""
 
 #: frontend/src/pages/Billing.vue:209
 msgid "Proceed to Payment"
-msgstr ""
+msgstr "المتابعة إلى الدفع"
 
 #. Label of the profession (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -6439,7 +6439,7 @@ msgstr ""
 #: frontend/src/components/Modals/EditProfile.vue:27
 #: frontend/src/components/Modals/EditProfile.vue:145
 msgid "Profile Image"
-msgstr ""
+msgstr "صورة الملف الشخصي"
 
 #. Label of the program_courses (Table) field in DocType 'LMS Program'
 #: lms/lms/doctype/lms_program/lms_program.json
@@ -6448,7 +6448,7 @@ msgstr ""
 
 #: frontend/src/pages/Programs/ProgramForm.vue:200
 msgid "Program Member"
-msgstr ""
+msgstr "عضو البرنامج"
 
 #. Label of the program_members (Table) field in DocType 'LMS Program'
 #: lms/lms/doctype/lms_program/lms_program.json
@@ -6457,19 +6457,19 @@ msgstr ""
 
 #: frontend/src/pages/Programs/ProgramForm.vue:382
 msgid "Program created successfully"
-msgstr ""
+msgstr "تم إنشاء البرنامج بنجاح"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:567
 msgid "Program deleted successfully"
-msgstr ""
+msgstr "تم حذف البرنامج بنجاح"
 
 #: frontend/src/pages/Programs/ProgramForm.vue:401
 msgid "Program updated successfully"
-msgstr ""
+msgstr "تم تحديث البرنامج بنجاح"
 
 #: frontend/src/pages/Batches/components/Assessments.vue:245
 msgid "Programming Exercise"
-msgstr ""
+msgstr "تمرين برمجي"
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:129
 msgid "Programming Exercise Progress"
@@ -6504,13 +6504,13 @@ msgstr ""
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:354
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Programming Exercises"
-msgstr ""
+msgstr "التمارين البرمجية"
 
 #: frontend/src/pages/Programs/ProgramDetail.vue:123
 #: frontend/src/pages/Programs/Programs.vue:223
 #: frontend/src/pages/Programs/Programs.vue:229 lms/www/_lms.py:326
 msgid "Programs"
-msgstr ""
+msgstr "البرامج"
 
 #. Label of the progress (Float) field in DocType 'LMS Enrollment'
 #. Label of the progress (Int) field in DocType 'LMS Program Member'
@@ -6528,16 +6528,16 @@ msgstr "تقدم (٪)"
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:28
 msgid "Progress Distribution"
-msgstr ""
+msgstr "توزيع التقدم"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:150
 #: frontend/src/pages/Programs/ProgramForm.vue:120
 msgid "Progress Summary"
-msgstr ""
+msgstr "ملخص التقدم"
 
 #: frontend/src/pages/Programs/ProgramProgressSummary.vue:4
 msgid "Progress Summary for {0}"
-msgstr ""
+msgstr "ملخص التقدم لـ {0}"
 
 #: lms/lms/doctype/lms_course_progress/lms_course_progress.py:19
 msgid "Progress is already recorded for this lesson."
@@ -6578,7 +6578,7 @@ msgstr "نشرت"
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:4
 msgid "Published Courses"
-msgstr ""
+msgstr "الدورات المنشورة"
 
 #. Label of the published_on (Date) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
@@ -6635,7 +6635,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/Question.vue:373
 msgid "Question added successfully"
-msgstr ""
+msgstr "تمت إضافة السؤال بنجاح"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:306
 msgid "Question not found in this quiz."
@@ -6647,12 +6647,12 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:143
 msgid "Question {0}"
-msgstr ""
+msgstr "السؤال {0}"
 
 #. Label of the questions (Table) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:67 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Questions"
-msgstr ""
+msgstr "الأسئلة"
 
 #: frontend/src/pages/QuizForm.vue:483
 msgid "Questions deleted successfully"
@@ -6660,7 +6660,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:338
 msgid "Questions marked for review"
-msgstr ""
+msgstr "الأسئلة المعلّمة للمراجعة"
 
 #. Label of the quiz (Link) field in DocType 'LMS Quiz Submission'
 #. Label of a Link in the Learning Workspace
@@ -6680,7 +6680,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:78
 msgid "Quiz Progress"
-msgstr ""
+msgstr "تقدم الاختبار"
 
 #. Label of a Link in the Learning Workspace
 #: frontend/src/components/Settings/BadgeForm.vue:220
@@ -6692,11 +6692,11 @@ msgstr ""
 #: frontend/src/pages/QuizSubmission.vue:133
 #: frontend/src/pages/QuizSubmissionList.vue:136
 msgid "Quiz Submissions"
-msgstr ""
+msgstr "إجابات الاختبار"
 
 #: frontend/src/components/Quiz.vue:353
 msgid "Quiz Summary"
-msgstr ""
+msgstr "ملخص الاختبار"
 
 #. Label of the quiz_title (Data) field in DocType 'LMS Quiz Submission'
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json
@@ -6705,7 +6705,7 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:326
 msgid "Quiz deleted successfully"
-msgstr ""
+msgstr "تم حذف الاختبار بنجاح"
 
 #: lms/plugins.py:97
 msgid "Quiz is not available to Guest users. Please login to continue."
@@ -6713,15 +6713,15 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:129
 msgid "Quiz topic"
-msgstr ""
+msgstr "موضوع الاختبار"
 
 #: frontend/src/components/CourseCardOverlay.vue:130
 msgid "Quiz topics"
-msgstr ""
+msgstr "مواضيع الاختبار"
 
 #: frontend/src/pages/QuizForm.vue:406
 msgid "Quiz updated successfully"
-msgstr ""
+msgstr "تم تحديث الاختبار بنجاح"
 
 #. Description of the 'Quiz ID' (Data) field in DocType 'Course Lesson'
 #: lms/lms/doctype/course_lesson/course_lesson.json
@@ -6734,15 +6734,15 @@ msgstr ""
 #: frontend/src/pages/Quizzes.vue:308 frontend/src/pages/Quizzes.vue:318
 #: lms/www/_lms.py:276
 msgid "Quizzes"
-msgstr ""
+msgstr "الاختبارات"
 
 #: frontend/src/pages/Quizzes.vue:256
 msgid "Quizzes deleted successfully"
-msgstr ""
+msgstr "تم حذف الاختبارات بنجاح"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:29
 msgid "Quizzes in this video"
-msgstr ""
+msgstr "الاختبارات في هذا الفيديو"
 
 #: frontend/src/pages/QuizForm.vue:221
 msgid "Randomize the order of questions for each attempt."
@@ -6778,7 +6778,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:72
 msgid "Redemptions Count"
-msgstr ""
+msgstr "عدد مرات الاستخدام"
 
 #. Label of the reference_docname (Dynamic Link) field in DocType 'LMS Batch
 #. Timetable'
@@ -6813,7 +6813,7 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/BatchOverlay.vue:84
 msgid "Register Now"
-msgstr ""
+msgstr "سجّل الآن"
 
 #: lms/lms/user.py:36
 msgid "Registered but disabled"
@@ -6843,11 +6843,11 @@ msgstr "حذف"
 
 #: frontend/src/components/Notes/InlineLessonMenu.vue:49
 msgid "Remove Highlight"
-msgstr ""
+msgstr "إزالة التمييز"
 
 #: frontend/src/components/Settings/Coupons/CouponItems.vue:46
 msgid "Remove row"
-msgstr ""
+msgstr "إزالة الصف"
 
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:18
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:72
@@ -6863,16 +6863,16 @@ msgstr "استبدل"
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:23
 #: frontend/src/pages/JobApplications.vue:143
 msgid "Reply To"
-msgstr ""
+msgstr "الرد على"
 
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:102
 msgid "Reply To is required"
-msgstr ""
+msgstr "حقل الرد على مطلوب"
 
 #: frontend/src/components/DiscussionReplies.vue:182
 #: frontend/src/components/DiscussionReplies.vue:205
 msgid "Reply cannot be empty."
-msgstr ""
+msgstr "لا يمكن أن يكون الرد فارغًا."
 
 #: lms/lms/widgets/RequestInvite.html:7
 msgid "Request Invite"
@@ -6895,11 +6895,11 @@ msgstr "استئنف"
 #: frontend/src/components/Quiz.vue:108 frontend/src/components/Quiz.vue:129
 #: frontend/src/components/Quiz.vue:389
 msgid "Resume Video"
-msgstr ""
+msgstr "استئناف الفيديو"
 
 #: frontend/src/pages/Home/Home.vue:193
 msgid "Resume where you left off"
-msgstr ""
+msgstr "تابع من حيث توقفت"
 
 #. Label of the review (Small Text) field in DocType 'LMS Course Review'
 #. Label of a Link in the Learning Workspace
@@ -6925,7 +6925,7 @@ msgstr ""
 
 #: frontend/src/pages/ProfileRoles.vue:110
 msgid "Role updated successfully"
-msgstr ""
+msgstr "تم تحديث الدور بنجاح"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:44
 #: frontend/src/components/Sidebar/AppSidebar.vue:639
@@ -6960,7 +6960,7 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:59
 msgid "Run"
-msgstr ""
+msgstr "تشغيل"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:59
 msgid "Running"
@@ -7065,7 +7065,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/EvaluationModal.vue:4
 msgid "Schedule your evaluation"
-msgstr ""
+msgstr "حدّد موعد تقييمك"
 
 #. Name of a DocType
 #: lms/lms/doctype/scheduled_flow/scheduled_flow.json
@@ -7074,7 +7074,7 @@ msgstr ""
 
 #: frontend/src/pages/PersonaForm.vue:109
 msgid "School / University Admin"
-msgstr ""
+msgstr "إداري مدرسة / جامعة"
 
 #. Label of the score (Int) field in DocType 'LMS Quiz Submission'
 #: frontend/src/pages/Courses/StudentCourseProgress.vue:81
@@ -7104,11 +7104,11 @@ msgstr "البحث"
 
 #: frontend/src/components/Modals/VideoStatistics.vue:14
 msgid "Search by Member"
-msgstr ""
+msgstr "البحث حسب العضو"
 
 #: frontend/src/components/Controls/IconPicker.vue:34
 msgid "Search for an icon"
-msgstr ""
+msgstr "البحث عن أيقونة"
 
 #: frontend/src/components/Controls/MultiSelect.vue:24
 msgid "Search..."
@@ -7124,7 +7124,7 @@ msgstr ""
 #: frontend/src/pages/Batches/components/BatchCard.vue:18
 #: frontend/src/pages/Batches/components/BatchOverlay.vue:21
 msgid "Seat Left"
-msgstr ""
+msgstr "مقعد متبقٍ"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:96
 msgid "Seat count cannot be negative."
@@ -7133,30 +7133,30 @@ msgstr ""
 #: frontend/src/pages/Batches/components/BatchCard.vue:18
 #: frontend/src/pages/Batches/components/BatchOverlay.vue:21
 msgid "Seats Left"
-msgstr ""
+msgstr "المقاعد المتبقية"
 
 #: frontend/src/pages/Home/AdminHome.vue:122
 #: frontend/src/pages/Home/AdminHome.vue:150
 #: frontend/src/pages/Home/StudentHome.vue:91
 #: frontend/src/pages/Home/StudentHome.vue:123
 msgid "See all"
-msgstr ""
+msgstr "عرض الكل"
 
 #: frontend/src/components/CourseReviews.vue:81
 msgid "See less"
-msgstr ""
+msgstr "عرض أقل"
 
 #: frontend/src/components/CourseReviews.vue:81
 msgid "See more"
-msgstr ""
+msgstr "عرض المزيد"
 
 #: frontend/src/components/Settings/BadgeAssignmentForm.vue:41
 msgid "Select Date"
-msgstr ""
+msgstr "اختر التاريخ"
 
 #: frontend/src/components/Settings/PaymentGatewayDetails.vue:24
 msgid "Select Payment Gateway"
-msgstr ""
+msgstr "اختر بوابة الدفع"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseModal.vue:21
 msgid "Select a Programming Exercise"
@@ -7168,7 +7168,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/Question.vue:143
 msgid "Select a question"
-msgstr ""
+msgstr "اختر سؤالًا"
 
 #: frontend/src/components/Discussions.vue:72
 msgid "Select a question to view the thread"
@@ -7176,25 +7176,25 @@ msgstr ""
 
 #: frontend/src/components/AssessmentPlugin.vue:27
 msgid "Select a quiz"
-msgstr ""
+msgstr "اختر اختبارًا"
 
 #: frontend/src/components/AssessmentPlugin.vue:40
 #: frontend/src/components/AssessmentPlugin.vue:48
 msgid "Select an Assignment"
-msgstr ""
+msgstr "اختر واجبًا"
 
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:18
 msgid "Select category"
-msgstr ""
+msgstr "اختر الفئة"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:44
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:98
 msgid "Select currency"
-msgstr ""
+msgstr "اختر العملة"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:117
 msgid "Select evaluator"
-msgstr ""
+msgstr "اختر المقيّم"
 
 #: frontend/src/components/Modals/Question.vue:12
 msgid "Select from questions you have already created"
@@ -7205,21 +7205,21 @@ msgstr ""
 #: frontend/src/pages/Courses/CourseInstructorsField.vue:11
 #: frontend/src/pages/Courses/NewCourseModal.vue:28
 msgid "Select instructors"
-msgstr ""
+msgstr "اختر المدربين"
 
 #: frontend/src/pages/Courses/CourseOverviewSection.vue:37
 msgid "Select related courses"
-msgstr ""
+msgstr "اختر دورات ذات صلة"
 
 #: frontend/src/pages/Batches/BatchForm.vue:65
 #: frontend/src/pages/Batches/components/NewBatchModal.vue:51
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:127
 msgid "Select timezone"
-msgstr ""
+msgstr "اختر المنطقة الزمنية"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:22
 msgid "Self enrollment"
-msgstr ""
+msgstr "التسجيل الذاتي"
 
 #: frontend/src/pages/Courses/CoursePublishSettings.vue:86
 msgid "Sell an evaluator-graded certificate alongside this free course."
@@ -7248,7 +7248,7 @@ msgstr "إرسال بريد الإلكتروني"
 
 #: frontend/src/pages/JobApplications.vue:122
 msgid "Send Email to {0}"
-msgstr ""
+msgstr "إرسال بريد إلكتروني إلى {0}"
 
 #. Label of the send_notification_for_published_batches (Select) field in
 #. DocType 'LMS Settings'
@@ -7282,11 +7282,11 @@ msgstr ""
 
 #: frontend/src/pages/Batches/BatchForm.vue:53
 msgid "Session End Time"
-msgstr ""
+msgstr "وقت انتهاء الجلسة"
 
 #: frontend/src/pages/Batches/BatchForm.vue:45
 msgid "Session Start Time"
-msgstr ""
+msgstr "وقت بدء الجلسة"
 
 #: frontend/src/pages/Profile.vue:280
 msgid "Session refreshed successfully"
@@ -7294,7 +7294,7 @@ msgstr ""
 
 #: frontend/src/components/Controls/ColorSwatches.vue:11
 msgid "Set Color"
-msgstr ""
+msgstr "تحديد اللون"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:5
 msgid "Set the discount, validity, and the courses or batches this coupon applies to."
@@ -7310,11 +7310,11 @@ msgstr ""
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:582
 msgid "Setting up"
-msgstr ""
+msgstr "الإعداد"
 
 #: frontend/src/components/Sidebar/AppSidebar.vue:632
 msgid "Setting up payment gateway"
-msgstr ""
+msgstr "إعداد بوابة الدفع"
 
 #: frontend/src/components/Settings/Settings.vue:9
 #: frontend/src/components/Sidebar/AppSidebar.vue:637
@@ -7327,11 +7327,11 @@ msgstr "إعدادات"
 
 #: frontend/src/pages/ProfileAbout.vue:84
 msgid "Share on"
-msgstr ""
+msgstr "مشاركة على"
 
 #: frontend/src/pages/Batches/BatchForm.vue:182
 msgid "Short Description"
-msgstr ""
+msgstr "وصف مختصر"
 
 #. Label of the short_introduction (Small Text) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
@@ -7340,7 +7340,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:69
 msgid "Short description"
-msgstr ""
+msgstr "وصف مختصر"
 
 #: frontend/src/pages/Batches/BatchForm.vue:185
 msgid "Short description of the batch"
@@ -7348,7 +7348,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses/NewCourseModal.vue:72
 msgid "Short introduction"
-msgstr ""
+msgstr "مقدمة مختصرة"
 
 #. Label of the show_answer (Check) field in DocType 'LMS Assignment'
 #: lms/lms/doctype/lms_assignment/lms_assignment.json
@@ -7364,7 +7364,7 @@ msgstr ""
 #. Label of the show_submission_history (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:213 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Show Submission History"
-msgstr ""
+msgstr "عرض سجل التسليمات"
 
 #. Label of the column_break_2 (Column Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -7389,7 +7389,7 @@ msgstr ""
 #. Label of the shuffle_questions (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:219 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Shuffle Questions"
-msgstr ""
+msgstr "خلط الأسئلة"
 
 #. Label of the sidebar_tab (Tab Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -7417,7 +7417,7 @@ msgstr ""
 #. Label of a chart in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
 msgid "Signups"
-msgstr ""
+msgstr "الاشتراكات"
 
 #. Label of the skill (Table MultiSelect) field in DocType 'User'
 #. Label of the skill (Data) field in DocType 'User Skill'
@@ -7450,15 +7450,15 @@ msgstr ""
 
 #: frontend/src/pages/ProfileEvaluator.vue:236
 msgid "Slot added successfully"
-msgstr ""
+msgstr "تمت إضافة الفترة بنجاح"
 
 #: frontend/src/pages/ProfileEvaluator.vue:275
 msgid "Slot deleted successfully"
-msgstr ""
+msgstr "تم حذف الفترة بنجاح"
 
 #: frontend/src/pages/Profile.vue:269
 msgid "Slots"
-msgstr ""
+msgstr "الفترات الزمنية"
 
 #: frontend/src/pages/PersonaForm.vue:112
 msgid "Software Developer"
@@ -7467,11 +7467,11 @@ msgstr "مطور برامج"
 #: frontend/src/pages/Batches/components/BatchCard.vue:27
 #: frontend/src/pages/Batches/components/BatchOverlay.vue:30
 msgid "Sold Out"
-msgstr ""
+msgstr "المقاعد ممتلئة"
 
 #: frontend/src/pages/Courses/CourseDashboard.vue:238
 msgid "Sort by"
-msgstr ""
+msgstr "ترتيب حسب"
 
 #. Label of the source (Link) field in DocType 'LMS Batch Enrollment'
 #. Label of the source (Link) field in DocType 'LMS Payment'
@@ -7542,7 +7542,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:104
 msgid "Start the Quiz"
-msgstr ""
+msgstr "ابدأ الاختبار"
 
 #. Option for the 'Company Type' (Select) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -7592,7 +7592,7 @@ msgstr "الحالة"
 
 #: frontend/src/pages/Batches/components/Assessments.vue:220
 msgid "Status/Percentage"
-msgstr ""
+msgstr "الحالة/النسبة المئوية"
 
 #: lms/templates/assessments.html:17
 msgid "Status/Score"
@@ -7612,11 +7612,11 @@ msgstr ""
 
 #: frontend/src/pages/Batches/components/BatchStudentProgress.vue:5
 msgid "Student Details"
-msgstr ""
+msgstr "تفاصيل الطالب"
 
 #: frontend/src/pages/Courses/CourseDetail.vue:70
 msgid "Student View"
-msgstr ""
+msgstr "عرض الطالب"
 
 #: frontend/src/pages/Courses/CourseEnrollmentModal.vue:78
 msgid "Student enrolled successfully"
@@ -7649,29 +7649,29 @@ msgstr "موضوع"
 #: frontend/src/pages/Batches/components/AnnouncementModal.vue:96
 #: frontend/src/pages/JobApplications.vue:293
 msgid "Subject is required"
-msgstr ""
+msgstr "الموضوع مطلوب"
 
 #: frontend/src/components/Assignment.vue:32
 msgid "Submission"
-msgstr ""
+msgstr "التسليم"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:22
 msgid "Submission Type"
-msgstr ""
+msgstr "نوع التسليم"
 
 #: frontend/src/components/Assignment.vue:13
 #: frontend/src/components/Assignment.vue:16
 msgid "Submission by"
-msgstr ""
+msgstr "تسليم بواسطة"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:368
 msgid "Submission saved!"
-msgstr ""
+msgstr "تم حفظ الإجابة!"
 
 #: frontend/src/pages/AssignmentSubmission.vue:62
 #: frontend/src/pages/QuizSubmissionList.vue:130
 msgid "Submissions"
-msgstr ""
+msgstr "التسليمات"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:263
 msgid "Submissions deleted successfully"
@@ -7687,11 +7687,11 @@ msgstr "تسجيل"
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:56
 msgid "Submit Feedback"
-msgstr ""
+msgstr "إرسال الملاحظات"
 
 #: frontend/src/pages/PersonaForm.vue:47
 msgid "Submit and Continue"
-msgstr ""
+msgstr "إرسال ومتابعة"
 
 #: frontend/src/components/Modals/JobApplicationModal.vue:21
 msgid "Submit your resume to proceed with your application for this position. Upon submission, it will be shared with the job poster."
@@ -7721,7 +7721,7 @@ msgstr ""
 
 #: frontend/src/components/Controls/ColorSwatches.vue:50
 msgid "Swatches"
-msgstr ""
+msgstr "عينات الألوان"
 
 #. Name of a role
 #: lms/job/doctype/job_opportunity/job_opportunity.json
@@ -7778,15 +7778,15 @@ msgstr "بطاقات"
 
 #: frontend/src/components/InstallPrompt.vue:51
 msgid "Tap"
-msgstr ""
+msgstr "اضغط"
 
 #: frontend/src/components/CourseCreatorCard.vue:139
 msgid "Taught by"
-msgstr ""
+msgstr "يُدرّس بواسطة"
 
 #: frontend/src/components/CourseCreatorCard.vue:140
 msgid "Taught by a team of {0}"
-msgstr ""
+msgstr "يقدّمها فريق مكوّن من {0}"
 
 #: frontend/src/pages/PersonaForm.vue:123
 msgid "Teaching students in a school/university"
@@ -7831,15 +7831,15 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:23 frontend/src/pages/QuizPage.vue:66
 msgid "Test Quiz"
-msgstr ""
+msgstr "اختبار تجريبي"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseForm.vue:87
 msgid "Test this Exercise"
-msgstr ""
+msgstr "اختبار هذا التمرين"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:96
 msgid "Test {0}"
-msgstr ""
+msgstr "اختبار {0}"
 
 #. Option for the 'Type' (Select) field in DocType 'LMS Assignment'
 #. Option for the 'Type' (Select) field in DocType 'LMS Assignment Submission'
@@ -7925,7 +7925,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:178
 msgid "There are no courses currently. Create your first course to get started!"
-msgstr ""
+msgstr "لا توجد دورات حاليًا. أنشئ أول دورة لك للبدء!"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:100
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:74
@@ -7975,7 +7975,7 @@ msgstr ""
 #: frontend/src/pages/Home/AdminHome.vue:94
 #: frontend/src/pages/Home/StudentHome.vue:59
 msgid "This class has ended"
-msgstr ""
+msgstr "انتهت هذه الحصة"
 
 #: lms/lms/utils.py:2049
 msgid "This coupon has expired."
@@ -7991,7 +7991,7 @@ msgstr ""
 
 #: frontend/src/components/CourseCardOverlay.vue:94
 msgid "This course includes:"
-msgstr ""
+msgstr "تتضمن هذه الدورة:"
 
 #: lms/lms/utils.py:1980
 msgid "This course is free."
@@ -8011,7 +8011,7 @@ msgstr ""
 
 #: frontend/src/pages/Lesson.vue:31
 msgid "This lesson is locked"
-msgstr ""
+msgstr "هذا الدرس مغلق"
 
 #: frontend/src/pages/Lesson.vue:36
 msgid "This lesson is not available for preview. Please enroll in the course to access it."
@@ -8040,7 +8040,7 @@ msgstr ""
 #: frontend/src/components/Sidebar/AppSidebar.vue:91
 #: frontend/src/components/Sidebar/AppSidebar.vue:177
 msgid "This site is being updated. You will not be able to make any changes. Full access will be restored shortly."
-msgstr ""
+msgstr "يتم حاليًا تحديث هذا الموقع. لن تتمكن من إجراء أي تغييرات. سيتم استعادة الوصول الكامل قريبًا."
 
 #: lms/lms/api.py:1598
 msgid "This user cannot be deleted."
@@ -8048,7 +8048,7 @@ msgstr ""
 
 #: frontend/src/components/VideoBlock.vue:5
 msgid "This video contains {0} {1}:"
-msgstr ""
+msgstr "يحتوي هذا الفيديو على {0} {1}:"
 
 #: frontend/src/components/Controls/VideoPreviewField.vue:161
 msgid "This video's codec can't be played in browsers (e.g. HEVC/H.265). Please upload an H.264 MP4 or a WebM."
@@ -8080,15 +8080,15 @@ msgstr ""
 
 #: frontend/src/components/VideoBlock.vue:144
 msgid "Time for a Quiz"
-msgstr ""
+msgstr "حان وقت الاختبار"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:7
 msgid "Time in Video"
-msgstr ""
+msgstr "الوقت في الفيديو"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:213
 msgid "Time in Video (minutes)"
-msgstr ""
+msgstr "الوقت في الفيديو (دقائق)"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:166
 msgid "Time in video exceeds the total duration of the video."
@@ -8194,12 +8194,12 @@ msgstr "اللقب"
 
 #: frontend/src/components/Modals/DiscussionModal.vue:66
 msgid "Title cannot be empty."
-msgstr ""
+msgstr "لا يمكن أن يكون العنوان فارغًا."
 
 #: frontend/src/components/Modals/ChapterModal.vue:159
 #: frontend/src/components/Modals/LessonModal.vue:131
 msgid "Title is required"
-msgstr ""
+msgstr "العنوان مطلوب"
 
 #. Label of the unavailable_to (Date) field in DocType 'Course Evaluator'
 #: frontend/src/pages/ProfileEvaluator.vue:120
@@ -8236,7 +8236,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:434
 msgid "Total Questions"
-msgstr ""
+msgstr "إجمالي الأسئلة"
 
 #: lms/lms/web_template/lms_statistics/lms_statistics.html:14
 #: lms/templates/statistics.html:12
@@ -8245,7 +8245,7 @@ msgstr ""
 
 #: frontend/src/pages/PersonaForm.vue:105
 msgid "Trainer / Instructor"
-msgstr ""
+msgstr "مدرّب / معلّم"
 
 #: frontend/src/components/Modals/FeedbackModal.vue:6
 msgid "Training Feedback"
@@ -8279,7 +8279,7 @@ msgstr "حاول مرة أخرى"
 #: frontend/src/pages/Batches/components/AdminBatchDashboard.vue:131
 #: frontend/src/pages/Courses/CourseDashboard.vue:131
 msgid "Try a different name."
-msgstr ""
+msgstr "جرّب اسمًا آخر."
 
 #. Option for the 'Day' (Select) field in DocType 'Evaluator Schedule'
 #. Option for the 'Day' (Select) field in DocType 'LMS Certificate Request'
@@ -8290,7 +8290,7 @@ msgstr "الثلاثاء"
 
 #: frontend/src/pages/ProfileAbout.vue:108
 msgid "Twitter"
-msgstr ""
+msgstr "تويتر"
 
 #. Label of the twitter (Data) field in DocType 'User'
 #: frontend/src/components/Modals/EditProfile.vue:51
@@ -8326,11 +8326,11 @@ msgstr ""
 
 #: frontend/src/pages/Courses/CourseDetailsSection.vue:70
 msgid "Type something"
-msgstr ""
+msgstr "اكتب شيئًا"
 
 #: frontend/src/components/Quiz.vue:924
 msgid "Type your answer"
-msgstr ""
+msgstr "اكتب إجابتك"
 
 #. Option for the 'Grade Type' (Select) field in DocType 'Education Detail'
 #: lms/lms/doctype/education_detail/education_detail.json
@@ -8351,19 +8351,19 @@ msgstr "UUID"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:190
 msgid "Unable to add member"
-msgstr ""
+msgstr "تعذّرت إضافة العضو"
 
 #: frontend/src/utils/index.js:826
 msgid "Unable to create category"
-msgstr ""
+msgstr "تعذّر إنشاء الفئة"
 
 #: frontend/src/components/Modals/NewMemberModal.vue:215
 msgid "Unable to update member"
-msgstr ""
+msgstr "تعذّر تحديث العضو"
 
 #: frontend/src/components/Quiz.vue:450
 msgid "Unattempted Questions"
-msgstr ""
+msgstr "الأسئلة غير المجاب عنها"
 
 #. Label of the unavailability_section (Section Break) field in DocType 'Course
 #. Evaluator'
@@ -8393,7 +8393,7 @@ msgstr "إلغاء النشر"
 #: frontend/src/pages/Courses/Courses.vue:321
 #: frontend/src/pages/Programs/Programs.vue:196
 msgid "Unpublished"
-msgstr ""
+msgstr "غير منشور"
 
 #: lms/lms/course_import_export.py:774
 msgid "Unsafe file path detected"
@@ -8402,7 +8402,7 @@ msgstr ""
 #: frontend/src/components/Modals/EditCoverImage.vue:60
 #: frontend/src/components/UnsplashImageBrowser.vue:54
 msgid "Unsplash"
-msgstr ""
+msgstr "Unsplash"
 
 #. Label of the unsplash_access_key (Data) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -8416,7 +8416,7 @@ msgstr ""
 
 #: frontend/src/pages/Quizzes.vue:232
 msgid "Untitled Quiz"
-msgstr ""
+msgstr "اختبار بدون عنوان"
 
 #: lms/lms/api.py:613
 msgid "Untitled lesson"
@@ -8434,17 +8434,17 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:141
 msgid "Upcoming Batches"
-msgstr ""
+msgstr "الدفعات القادمة"
 
 #: frontend/src/components/UpcomingEvaluations.vue:5
 #: frontend/src/pages/Home/AdminHome.vue:6 lms/templates/upcoming_evals.html:3
 msgid "Upcoming Evaluations"
-msgstr ""
+msgstr "التقييمات القادمة"
 
 #: frontend/src/pages/Home/AdminHome.vue:42
 #: frontend/src/pages/Home/StudentHome.vue:7
 msgid "Upcoming Live Classes"
-msgstr ""
+msgstr "الحصص المباشرة القادمة"
 
 #: frontend/src/components/Settings/BrandSettings.vue:13
 #: frontend/src/components/Settings/SettingDetails.vue:13
@@ -8459,7 +8459,7 @@ msgstr "تحديث كلمة المرور"
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:335
 #: frontend/src/pages/Quizzes.vue:296
 msgid "Updated On"
-msgstr ""
+msgstr "تاريخ التحديث"
 
 #: frontend/src/components/Controls/ImageUploader.vue:15
 #: frontend/src/components/Controls/Uploader.vue:42
@@ -8468,11 +8468,11 @@ msgstr "تحميل"
 
 #: frontend/src/components/Assignment.vue:74
 msgid "Upload Assignment"
-msgstr ""
+msgstr "رفع الواجب"
 
 #: frontend/src/components/Assignment.vue:98
 msgid "Upload File"
-msgstr ""
+msgstr "رفع ملف"
 
 #: frontend/src/pages/Courses/NewCourseModal.vue:189
 msgid "Upload a 750×422 image (.jpg, .jpeg, .gif, or .png) — shown on the catalog card and lesson hero."
@@ -8484,15 +8484,15 @@ msgstr ""
 
 #: frontend/src/components/Controls/VideoPreviewField.vue:172
 msgid "Upload failed"
-msgstr ""
+msgstr "فشل الرفع"
 
 #: frontend/src/pages/Courses/CourseThumbnailField.vue:110
 msgid "Upload image instead"
-msgstr ""
+msgstr "رفع صورة بدلاً من ذلك"
 
 #: frontend/src/components/Controls/VideoPreviewField.vue:97
 msgid "Upload video"
-msgstr ""
+msgstr "رفع فيديو"
 
 #: frontend/src/components/Controls/VideoPreviewField.vue:73
 msgid "Uploaded video — students see it on the course page. Remove it to use a YouTube link instead."
@@ -8507,7 +8507,7 @@ msgstr "جاري التحميل"
 #: frontend/src/components/Assignment.vue:97
 #: frontend/src/components/Controls/ImageUploader.vue:12
 msgid "Uploading {0}%"
-msgstr ""
+msgstr "جارٍ الرفع {0}%"
 
 #. Label of the usage_limit (Int) field in DocType 'LMS Coupon'
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:66
@@ -8565,7 +8565,7 @@ msgstr ""
 
 #: frontend/src/components/Settings/Members.vue:273
 msgid "User deleted"
-msgstr ""
+msgstr "تم حذف المستخدم"
 
 #: lms/lms/api.py:1920
 msgid "User does not have permission to access this user's profile details."
@@ -8616,7 +8616,7 @@ msgstr ""
 #: frontend/src/components/Modals/VideoStatistics.vue:2
 #: frontend/src/pages/Courses/CourseDetail.vue:41
 msgid "Video Statistics"
-msgstr ""
+msgstr "إحصائيات الفيديو"
 
 #: frontend/src/pages/Lesson.vue:902
 msgid "Video failed to load — this lesson will still be marked complete after you spend some time on it."
@@ -8624,24 +8624,24 @@ msgstr ""
 
 #: frontend/src/pages/JobDetail.vue:31
 msgid "View Applications"
-msgstr ""
+msgstr "عرض الطلبات"
 
 #: frontend/src/components/CertificationLinks.vue:10
 #: frontend/src/components/Modals/Event.vue:68
 msgid "View Certificate"
-msgstr ""
+msgstr "عرض الشهادة"
 
 #: frontend/src/pages/JobApplications.vue:318
 msgid "View Resume"
-msgstr ""
+msgstr "عرض السيرة الذاتية"
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:20
 msgid "View all feedback"
-msgstr ""
+msgstr "عرض جميع الملاحظات"
 
 #: frontend/src/components/CourseReviews.vue:89
 msgid "View all reviews"
-msgstr ""
+msgstr "عرض جميع التقييمات"
 
 #. Option for the 'Color' (Select) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
@@ -8654,7 +8654,7 @@ msgstr "الرؤية"
 
 #: frontend/src/pages/JobDetail.vue:52
 msgid "Visit Website"
-msgstr ""
+msgstr "زيارة الموقع"
 
 #: lms/templates/emails/batch_confirmation.html:25
 msgid "Visit the following link to view your "
@@ -8677,7 +8677,7 @@ msgstr ""
 
 #: frontend/src/components/Modals/VideoStatistics.vue:33
 msgid "Watch Time (mins)"
-msgstr ""
+msgstr "مدة المشاهدة (دقائق)"
 
 #: lms/templates/emails/batch_confirmation.html:6
 msgid "We are pleased to inform you that you have been enrolled in our upcoming batch. Congratulations!"
@@ -8699,7 +8699,7 @@ msgstr "صفحة على الإنترنت"
 
 #: frontend/src/components/Modals/PageModal.vue:79
 msgid "Web page added to sidebar"
-msgstr ""
+msgstr "تمت إضافة صفحة الويب إلى الشريط الجانبي"
 
 #. Option for the 'Day' (Select) field in DocType 'Evaluator Schedule'
 #. Option for the 'Day' (Select) field in DocType 'LMS Certificate Request'
@@ -8734,7 +8734,7 @@ msgstr ""
 
 #: frontend/src/pages/Billing.vue:162
 msgid "Where did you hear about us?"
-msgstr ""
+msgstr "كيف سمعت عنا؟"
 
 #: lms/templates/emails/certification.html:10
 msgid "With this certification, you can now showcase your updated skills and share your achievement with your colleagues and on LinkedIn. To access your certificate, please click on the link provided below. Make sure you are logged in to the portal."
@@ -8771,11 +8771,11 @@ msgstr ""
 #: frontend/src/components/CourseReviews.vue:20
 #: frontend/src/components/Modals/ReviewModal.vue:4
 msgid "Write a Review"
-msgstr ""
+msgstr "اكتب تقييمًا"
 
 #: frontend/src/components/Assignment.vue:139
 msgid "Write your answer here"
-msgstr ""
+msgstr "اكتب إجابتك هنا"
 
 #. Option for the 'Color' (Select) field in DocType 'LMS Course'
 #. Option for the 'Color' (Select) field in DocType 'LMS Lesson Note'
@@ -8855,7 +8855,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:11
 msgid "You can do better,"
-msgstr ""
+msgstr "يمكنك أن تفعل أفضل من ذلك،"
 
 #: lms/templates/emails/job_application.html:6
 msgid "You can find their resume attached to this email."
@@ -9024,7 +9024,7 @@ msgstr ""
 
 #: frontend/src/pages/JobDetail.vue:68
 msgid "You have applied"
-msgstr ""
+msgstr "لقد تقدمت بطلب"
 
 #: frontend/src/pages/Batches/components/BatchOverlay.vue:143
 msgid "You have been enrolled in this batch"
@@ -9056,15 +9056,15 @@ msgstr ""
 
 #: frontend/src/pages/Home/Home.vue:153 frontend/src/pages/Home/Home.vue:176
 msgid "You have {0} upcoming {1} and {2} {3} scheduled."
-msgstr ""
+msgstr "لديك {0} {1} قادمة و {2} {3} مجدولة."
 
 #: frontend/src/pages/Home/Home.vue:160 frontend/src/pages/Home/Home.vue:183
 msgid "You have {0} upcoming {1}."
-msgstr ""
+msgstr "لديك {0} {1} قادمة."
 
 #: frontend/src/pages/Home/Home.vue:165 frontend/src/pages/Home/Home.vue:188
 msgid "You have {0} {1} scheduled."
-msgstr ""
+msgstr "لديك {0} {1} مجدولة."
 
 #: lms/lms/doctype/lms_batch_enrollment/lms_batch_enrollment.py:31
 msgid "You must be a Moderator or Batch Evaluator to enroll users in a batch."
@@ -9088,7 +9088,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:14
 msgid "You rock,"
-msgstr ""
+msgstr "أنت رائع،"
 
 #: frontend/src/components/Quiz.vue:21
 msgid "You will have to complete the quiz to continue the video"
@@ -9132,7 +9132,7 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:124
 msgid "Your Output"
-msgstr ""
+msgstr "الناتج"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:462
 msgid "Your batch {0} is starting tomorrow"
@@ -9144,7 +9144,7 @@ msgstr ""
 
 #: frontend/src/pages/ProfileEvaluator.vue:143
 msgid "Your calendar is set."
-msgstr ""
+msgstr "تم ضبط تقويمك."
 
 #: lms/lms/doctype/lms_live_class/lms_live_class.py:173
 msgid "Your class on {0} is today"
@@ -9172,7 +9172,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/Streak.vue:49
 msgid "Your learning streak counts the number of days in a row you’ve kept up your learning, whether it’s a lesson, quiz, or assignment. Don’t worry, weekends don’t break your streak."
-msgstr ""
+msgstr "تحسب سلسلة التعلّم عدد الأيام المتتالية التي حافظت فيها على التعلّم، سواء كان ذلك درسًا أو اختبارًا أو واجبًا. لا تقلق، فعطلات نهاية الأسبوع لا تُنهي سلسلتك."
 
 #: lms/templates/emails/mentor_request_status_update_email.html:4
 msgid "Your request to join us as a mentor for the course"
@@ -9184,7 +9184,7 @@ msgstr ""
 
 #: frontend/src/pages/Lesson.vue:9 frontend/src/pages/Lesson.vue:128
 msgid "Zen Mode"
-msgstr ""
+msgstr "وضع التركيز"
 
 #. Option for the 'Conferencing Provider' (Select) field in DocType 'LMS Batch'
 #. Option for the 'Conferencing Provider' (Select) field in DocType 'LMS Live
@@ -9239,15 +9239,15 @@ msgstr ""
 
 #: frontend/src/components/JobCard.vue:26 frontend/src/pages/JobDetail.vue:127
 msgid "applicant"
-msgstr ""
+msgstr "متقدم"
 
 #: frontend/src/components/JobCard.vue:26 frontend/src/pages/JobDetail.vue:127
 msgid "applicants"
-msgstr ""
+msgstr "المتقدمون"
 
 #: frontend/src/components/VideoBlock.vue:15
 msgid "at {0} minutes"
-msgstr ""
+msgstr "عند الدقيقة {0}"
 
 #: lms/templates/emails/payment_reminder.html:4
 msgid "but didn’t complete your payment"
@@ -9283,7 +9283,7 @@ msgstr ""
 
 #: frontend/src/components/CourseReviews.vue:10
 msgid "course rating"
-msgstr ""
+msgstr "تقييم الدورة"
 
 #: frontend/src/pages/Programs/StudentPrograms.vue:29
 msgid "courses"
@@ -9291,11 +9291,11 @@ msgstr "المقررات الدراسية"
 
 #: frontend/src/components/CourseReviews.vue:187
 msgid "day ago"
-msgstr ""
+msgstr "منذ يوم"
 
 #: frontend/src/pages/Home/Streak.vue:19
 msgid "day streak"
-msgstr ""
+msgstr "يوم متتالٍ من التعلّم"
 
 #: frontend/src/pages/Home/Streak.vue:32 frontend/src/pages/Home/Streak.vue:40
 msgid "days"
@@ -9303,15 +9303,15 @@ msgstr "أيام"
 
 #: frontend/src/components/CourseReviews.vue:187
 msgid "days ago"
-msgstr ""
+msgstr "منذ أيام"
 
 #: frontend/src/components/Settings/BadgeForm.vue:28
 msgid "e.g. Course Champion"
-msgstr ""
+msgstr "مثال: بطل الدورة"
 
 #: frontend/src/components/Settings/Coupons/CouponDetails.vue:32
 msgid "e.g. WELCOME10"
-msgstr ""
+msgstr "مثال: WELCOME10"
 
 #: frontend/src/components/CourseCardOverlay.vue:101
 msgid "enrolled"
@@ -9323,7 +9323,7 @@ msgstr "تقييم"
 
 #: frontend/src/pages/Home/Home.vue:151 frontend/src/pages/Home/Home.vue:174
 msgid "evaluations"
-msgstr ""
+msgstr "تقييمات"
 
 #: lms/lms/doctype/course_lesson/course_lesson.py:158
 msgid "file_url must be a string"
@@ -9335,7 +9335,7 @@ msgstr ""
 
 #: frontend/src/components/StudentHeatmap.vue:8
 msgid "in the last"
-msgstr ""
+msgstr "في آخر"
 
 #: lms/templates/signup-form.html:12
 msgid "jane@example.com"
@@ -9343,25 +9343,25 @@ msgstr "jane@example.com"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:208
 msgid "lesson"
-msgstr ""
+msgstr "درس"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:208
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:60
 msgid "lessons"
-msgstr ""
+msgstr "دروس"
 
 #: frontend/src/pages/Home/Home.vue:149 frontend/src/pages/Home/Home.vue:173
 msgid "live class"
-msgstr ""
+msgstr "حصة مباشرة"
 
 #: frontend/src/pages/Home/Home.vue:149 frontend/src/pages/Home/Home.vue:173
 msgid "live classes"
-msgstr ""
+msgstr "حصص مباشرة"
 
 #: frontend/src/pages/Programs/Programs.vue:73
 #: frontend/src/pages/Programs/StudentPrograms.vue:36
 msgid "member"
-msgstr ""
+msgstr "عضو"
 
 #: frontend/src/pages/Programs/Programs.vue:73
 #: frontend/src/pages/Programs/StudentPrograms.vue:36
@@ -9374,11 +9374,11 @@ msgstr "الدقائق"
 
 #: frontend/src/components/CourseReviews.vue:183
 msgid "month ago"
-msgstr ""
+msgstr "منذ شهر"
 
 #: frontend/src/components/CourseReviews.vue:183
 msgid "months ago"
-msgstr ""
+msgstr "منذ أشهر"
 
 #: lms/lms/api.py:1086
 msgid "name must be a string"
@@ -9402,7 +9402,7 @@ msgstr "خاص"
 
 #: frontend/src/pages/QuizForm.vue:442
 msgid "question_detail"
-msgstr ""
+msgstr "تفاصيل السؤال"
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:75
 msgid "rating"
@@ -9418,11 +9418,11 @@ msgstr "الجزء"
 
 #: frontend/src/pages/Courses/CourseOverview.vue:202
 msgid "sections"
-msgstr ""
+msgstr "أقسام"
 
 #: frontend/src/pages/Programs/ProgramEnrollment.vue:67
 msgid "students"
-msgstr ""
+msgstr "طلاب"
 
 #: lms/templates/emails/published_batch_notification.html:7
 #: lms/templates/emails/published_course_notification.html:7
@@ -9447,7 +9447,7 @@ msgstr "للاختيار"
 
 #: frontend/src/pages/Batches/components/BatchFeedback.vue:33
 msgid "to view your feedback."
-msgstr ""
+msgstr "لعرض ملاحظاتك."
 
 #: lms/lms/api.py:1596
 msgid "user must be a string"
@@ -9455,15 +9455,15 @@ msgstr ""
 
 #: frontend/src/components/CourseReviews.vue:14
 msgid "user rating"
-msgstr ""
+msgstr "تقييم المستخدم"
 
 #: frontend/src/components/CourseReviews.vue:15
 msgid "user ratings"
-msgstr ""
+msgstr "تقييمات المستخدمين"
 
 #: frontend/src/components/StudentHeatmap.vue:10
 msgid "weeks"
-msgstr ""
+msgstr "أسابيع"
 
 #: lms/templates/emails/mentor_request_creation_email.html:5
 msgid "you can"
@@ -9471,15 +9471,15 @@ msgstr ""
 
 #: frontend/src/pages/Assignments.vue:30
 msgid "{0} Assignments"
-msgstr ""
+msgstr "{0} واجبات"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:43
 msgid "{0} Exercises"
-msgstr ""
+msgstr "{0} تمارين"
 
 #: frontend/src/pages/Quizzes.vue:21
 msgid "{0} Quizzes"
-msgstr ""
+msgstr "{0} اختبارات"
 
 #: lms/lms/api.py:885 lms/lms/api.py:893
 msgid "{0} Settings not found"
@@ -9487,7 +9487,7 @@ msgstr ""
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:12
 msgid "{0} Submissions"
-msgstr ""
+msgstr "{0} تسليمات"
 
 #: lms/templates/emails/job_application.html:2
 msgid "{0} has applied for the job position {1}"
@@ -9543,15 +9543,15 @@ msgstr "لم يتم العثور على {0}"
 
 #: frontend/src/components/Discussions.vue:52
 msgid "{0} replies"
-msgstr ""
+msgstr "{0} ردود"
 
 #: frontend/src/components/Discussions.vue:51
 msgid "{0} reply"
-msgstr ""
+msgstr "{0} رد"
 
 #: frontend/src/pages/Jobs.vue:36
 msgid "{0} {1} Jobs"
-msgstr ""
+msgstr "{0} {1} وظيفة"
 
 #. Count format of shortcut in the Learning Workspace
 #: lms/lms/workspace/learning/learning.json
@@ -9583,3 +9583,24 @@ msgstr ""
 msgid "{} Published"
 msgstr ""
 
+
+
+#: frontend/src/pages/Statistics.vue
+msgid "Course Completion"
+msgstr "إتمام الدورة"
+
+#: frontend/src/pages/Statistics.vue
+msgid "Signups per day"
+msgstr "الاشتراكات يوميًا"
+
+#: frontend/src/pages/Statistics.vue
+msgid "Enrollments per day"
+msgstr "التسجيلات يوميًا"
+
+#: frontend/src/pages/Statistics.vue
+msgid "Certifications per day"
+msgstr "الشهادات يوميًا"
+
+#: frontend/src/pages/Statistics.vue
+msgid "Completions"
+msgstr "الإتمامات"

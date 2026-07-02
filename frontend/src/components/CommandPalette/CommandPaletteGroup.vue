@@ -1,7 +1,7 @@
 <template>
 	<div v-for="result in list" class="px-2.5 space-y-2">
 		<div class="text-ink-gray-5 px-2">
-			{{ result.title }}
+			{{ __(result.title) }}
 		</div>
 		<div class="">
 			<div
