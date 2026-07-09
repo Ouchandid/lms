@@ -153,27 +153,36 @@ scheduler_events = {
 	],
 }
 
+fixture_auto_order = True
+
+# Order matters: several doctype controllers validate that related records
+# already exist (e.g. Course Lesson checks its embedded quiz id, LMS
+# Certificate checks the member is already enrolled), and that check runs
+# even during fixture import (only Link-field existence is skipped, not
+# custom validate()/on_update() logic). fixture_auto_order prefixes the
+# exported filenames so they sort in this exact sequence regardless of
+# doctype name.
 fixtures = [
 	"Custom Field",
 	"Function",
 	"Industry",
 	"LMS Category",
 	"Website Settings",
+	{
+		"doctype": "User",
+		"filters": [["name", "like", "%@example.com"]],
+	},
 	"LMS Course",
+	"LMS Question",
+	"LMS Quiz",
 	"Course Chapter",
 	"Course Lesson",
-	"LMS Quiz",
-	"LMS Question",
 	"LMS Program",
 	"LMS Batch",
 	"LMS Enrollment",
 	"LMS Course Progress",
 	"LMS Batch Enrollment",
 	"LMS Certificate",
-	{
-		"doctype": "User",
-		"filters": [["name", "like", "%@example.com"]],
-	},
 ]
 
 # Testing

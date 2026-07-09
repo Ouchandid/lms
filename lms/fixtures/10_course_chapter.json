@@ -798,37 +798,6 @@
   "title": "الفيزياء: حالات المادة وتحولاتها"
  },
  {
-  "course": "pjk2oak4r3",
-  "course_title": "الاجتماعيات",
-  "docstatus": 0,
-  "doctype": "Course Chapter",
-  "is_scorm_package": 0,
-  "launch_file": null,
-  "lessons": [
-   {
-    "lesson": "0408 قارات العالم وخصائصها"
-   },
-   {
-    "lesson": "0409 النطاقات المناخية في العالم"
-   },
-   {
-    "lesson": "0410 التوزيع الجغرافي للسكان في العالم"
-   },
-   {
-    "lesson": "0411 العولمة والتبادلات الدولية"
-   },
-   {
-    "lesson": "0445 اختبار الفصل: الجغرافيا العامة"
-   }
-  ],
-  "manifest_file": null,
-  "modified": "2026-07-09 01:51:50.834351",
-  "name": "0407 الجغرافيا العامة: القارات والمناخات",
-  "scorm_package": null,
-  "scorm_package_path": null,
-  "title": "الجغرافيا العامة: القارات والمناخات"
- },
- {
   "course": "d3lofmsrrt",
   "course_title": "اللغة الفرنسية",
   "docstatus": 0,
@@ -951,6 +920,37 @@
   "scorm_package": null,
   "scorm_package_path": null,
   "title": "الفيزياء: الكهرباء"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0408 قارات العالم وخصائصها"
+   },
+   {
+    "lesson": "0409 النطاقات المناخية في العالم"
+   },
+   {
+    "lesson": "0410 التوزيع الجغرافي للسكان في العالم"
+   },
+   {
+    "lesson": "0411 العولمة والتبادلات الدولية"
+   },
+   {
+    "lesson": "0445 اختبار الفصل: الجغرافيا العامة"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.834351",
+  "name": "0407 الجغرافيا العامة: القارات والمناخات",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الجغرافيا العامة: القارات والمناخات"
  },
  {
   "course": "pjk2oak4r3",
