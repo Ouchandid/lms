@@ -1,3 +1,4 @@
+import json
 import os
 import shutil
 
@@ -5,12 +6,22 @@ import frappe
 
 
 def copy_seed_files():
-	"""Copy bundled demo media (course covers, lesson PDFs) into this site's
-	public files folder so records restored from fixtures don't end up with
-	broken attachment links on a fresh install."""
+	"""Copy bundled demo media (course covers, lesson PDFs, site logo) into
+	this site's public files folder, and ensure the matching File doctype
+	records exist, so records restored from fixtures don't end up with
+	broken attachment links on a fresh install.
+
+	This intentionally does not rely on fixture-importing the File doctype
+	itself: a plain fixture import re-writes the file's bytes through
+	File.save_file(), and on a site where a file of that name already
+	exists (e.g. a second migrate run), Frappe treats it as new content and
+	renames it with a random suffix — leaving doctype fields (e.g. Website
+	Settings.banner_image) pointing at a filename that no longer has a
+	File record. Creating the File record directly with
+	copy_from_existing_file sidesteps that rewrite and is idempotent.
+	"""
 	app_path = frappe.get_app_path("lms")
-	seed_dir = os.path.join(app_path, "..", "fixtures_media")
-	seed_dir = os.path.abspath(seed_dir)
+	seed_dir = os.path.abspath(os.path.join(app_path, "..", "fixtures_media"))
 	if not os.path.isdir(seed_dir):
 		return
 
@@ -22,3 +33,65 @@ def copy_seed_files():
 		dest = os.path.join(site_files_dir, filename)
 		if os.path.isfile(src) and not os.path.exists(dest):
 			shutil.copy2(src, dest)
+
+	_ensure_file_records()
+
+
+def _ensure_file(file_url, attached_to_doctype, attached_to_name):
+	if not file_url or not file_url.startswith("/files/"):
+		return
+
+	existing = frappe.db.get_value(
+		"File",
+		{"attached_to_doctype": attached_to_doctype, "attached_to_name": attached_to_name},
+		["name", "file_url"],
+	)
+	if existing and existing[1] == file_url:
+		return
+	if existing and existing[1] != file_url:
+		frappe.delete_doc("File", existing[0], ignore_permissions=True, delete_permanently=True)
+
+	filename = file_url.split("/files/")[-1]
+	local_path = os.path.join(frappe.get_site_path("public", "files"), filename)
+	if not os.path.exists(local_path):
+		return
+
+	file_doc = frappe.new_doc("File")
+	file_doc.update(
+		{
+			"file_name": filename,
+			"file_url": file_url,
+			"attached_to_doctype": attached_to_doctype,
+			"attached_to_name": attached_to_name,
+			"is_private": 0,
+			"folder": "Home",
+		}
+	)
+	file_doc.flags.copy_from_existing_file = True
+	file_doc.insert(ignore_permissions=True)
+
+
+def _ensure_file_records():
+	ws = frappe.get_single("Website Settings")
+	for field in ["banner_image", "app_logo", "footer_logo", "favicon"]:
+		_ensure_file(ws.get(field), "Website Settings", "Website Settings")
+
+	for course in frappe.get_all("LMS Course", fields=["name", "image"]):
+		_ensure_file(course.image, "LMS Course", course.name)
+
+	for lesson in frappe.get_all("Course Lesson", fields=["name", "content"]):
+		if not lesson.content:
+			continue
+		try:
+			data = json.loads(lesson.content)
+		except Exception:
+			continue
+		for block in data.get("blocks", []):
+			btype = block.get("type")
+			bdata = block.get("data", {})
+			if btype == "upload" and bdata.get("file_url"):
+				_ensure_file(bdata["file_url"], "Course Lesson", lesson.name)
+			if btype == "image" and bdata.get("file", {}).get("url"):
+				_ensure_file(bdata["file"]["url"], "Course Lesson", lesson.name)
+
+	frappe.db.commit()
