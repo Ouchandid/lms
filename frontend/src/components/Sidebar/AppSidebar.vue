@@ -641,12 +641,7 @@ const articles = ref([
 ])
 
 const setUpOnboarding = () => {
-	if (userResource.data?.is_system_manager) {
-		onboardingDetails = useOnboarding('learning')
-		onboardingDetails.setUp(steps)
-		isOnboardingStepsCompleted = onboardingDetails.isOnboardingStepsCompleted
-		showOnboarding.value = true
-	}
+	showOnboarding.value = false
 }
 
 watch(userResource, async () => {
