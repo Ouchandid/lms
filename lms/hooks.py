@@ -75,9 +75,15 @@ after_install = "lms.install.after_install"
 after_sync = "lms.install.after_sync"
 before_uninstall = "lms.install.before_uninstall"
 setup_wizard_complete = "lms.demo.demo_data.create_demo_data"
+# Must run before schema/fixture sync: the fixture-imported "File" records
+# read their bytes back off disk on insert, so the physical files need to
+# already be in place before sync_fixtures() (part of the main migrate
+# step) processes them.
+before_migrate = [
+	"lms.demo.seed_demo_media.copy_seed_files",
+]
 after_migrate = [
 	"lms.sqlite.build_index_in_background",
-	"lms.demo.seed_demo_media.copy_seed_files",
 ]
 
 # Desk Notifications
@@ -183,6 +189,16 @@ fixtures = [
 	"LMS Course Progress",
 	"LMS Batch Enrollment",
 	"LMS Certificate",
+	{
+		"doctype": "File",
+		"filters": [
+			[
+				"attached_to_doctype",
+				"in",
+				["LMS Course", "Course Lesson", "Website Settings"],
+			]
+		],
+	},
 ]
 
 # Testing

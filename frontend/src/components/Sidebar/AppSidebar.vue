@@ -150,7 +150,7 @@
 				:isSidebarCollapsed="sidebarStore.isSidebarCollapsed"
 			/>
 			<GettingStartedBanner
-				v-if="showOnboarding && !isOnboardingStepsCompleted"
+				v-if="false"
 				:isSidebarCollapsed="sidebarStore.isSidebarCollapsed"
 				appName="learning"
 			/>
