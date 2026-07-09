@@ -1,0 +1,116 @@
+[
+ {
+  "course_count": 3,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 6,
+  "modified": "2026-07-09 02:30:07.296497",
+  "name": "مسار اللغات",
+  "program_courses": [
+   {
+    "course": "774map39c2",
+    "course_title": "اللغة العربية"
+   },
+   {
+    "course": "d3lofmsrrt",
+    "course_title": "اللغة الفرنسية"
+   },
+   {
+    "course": "g98dtn36i7",
+    "course_title": "اللغة الإنجليزية"
+   }
+  ],
+  "program_members": [
+   {
+    "full_name": "فاطمة الزهراء بنعلي",
+    "member": "fatima.benali@example.com",
+    "progress": 67
+   },
+   {
+    "full_name": "محمد الإدريسي",
+    "member": "mohamed.idrissi@example.com",
+    "progress": 18
+   },
+   {
+    "full_name": "سلمى الفاسي",
+    "member": "salma.fassi@example.com",
+    "progress": 18
+   },
+   {
+    "full_name": "زينب السباعي",
+    "member": "zineb.sebbai@example.com",
+    "progress": 34
+   },
+   {
+    "full_name": "مريم الغزواني",
+    "member": "meryem.ghazouani@example.com",
+    "progress": 0
+   },
+   {
+    "full_name": "خديجة بوزيان",
+    "member": "khadija.bouzian@example.com",
+    "progress": 9
+   }
+  ],
+  "published": 1,
+  "title": "مسار اللغات"
+ },
+ {
+  "course_count": 3,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 6,
+  "modified": "2026-07-09 02:30:07.272571",
+  "name": "مسار العلوم والدراسات الاجتماعية",
+  "program_courses": [
+   {
+    "course": "jdmprgcfb1",
+    "course_title": "الرياضيات"
+   },
+   {
+    "course": "m3bjdn9g0p",
+    "course_title": "العلوم"
+   },
+   {
+    "course": "pjk2oak4r3",
+    "course_title": "الاجتماعيات"
+   }
+  ],
+  "program_members": [
+   {
+    "full_name": "فاطمة الزهراء بنعلي",
+    "member": "fatima.benali@example.com",
+    "progress": 0
+   },
+   {
+    "full_name": "سلمى الفاسي",
+    "member": "salma.fassi@example.com",
+    "progress": 14
+   },
+   {
+    "full_name": "زينب السباعي",
+    "member": "zineb.sebbai@example.com",
+    "progress": 14
+   },
+   {
+    "full_name": "أنس المرابط",
+    "member": "anas.mrabet@example.com",
+    "progress": 9
+   },
+   {
+    "full_name": "محمد الإدريسي",
+    "member": "mohamed.idrissi@example.com",
+    "progress": 18
+   },
+   {
+    "full_name": "يوسف الشرقاوي",
+    "member": "youssef.chargui@example.com",
+    "progress": 67
+   }
+  ],
+  "published": 1,
+  "title": "مسار العلوم والدراسات الاجتماعية"
+ }
+]

@@ -5,46 +5,20 @@
 		style="min-height: 350px"
 	>
 		<div
-			class="w-[100%] h-[168px] bg-cover bg-center bg-no-repeat border-t border-x rounded-t-md"
-			:style="
-				course.image
-					? { backgroundImage: `url('${encodeURI(course.image)}')` }
-					: {
-							backgroundImage: gradientColor,
-							backgroundBlendMode: 'screen',
-					  }
-			"
+			class="relative w-[100%] h-[168px] border-t border-x rounded-t-md overflow-hidden course-card-thumb"
+			:class="brandTone"
 		>
-			<!-- <div class="flex items-center flex-wrap relative top-4 px-2 w-fit">
-				<div
-					v-if="course.featured"
-					class="flex items-center gap-x-1 text-xs text-ink-amber-6 bg-surface-base border border-outline-amber-1 px-2 py-0.5 rounded-md me-1 mb-1"
-				>
-					<Star class="size-3 stroke-2" />
-					<span>
-						{{ __('Featured') }}
-					</span>
-				</div>
-				<div
-					v-if="course.tags"
-					v-for="tag in course.tags?.split(', ')"
-					class="text-xs border bg-surface-base text-ink-gray-9 px-2 py-0.5 rounded-md mb-1 me-1"
-				>
-					{{ tag }}
-				</div>
-			</div> -->
+			<div class="course-card-thumb-pattern" />
+			<span
+				class="course-card-thumb-icon"
+				:class="brandIcon"
+			/>
 			<div
-				v-if="!course.image"
-				class="flex items-center justify-center text-white flex-1 font-extrabold my-auto px-5 text-center leading-6 h-full"
-				:class="
-					course.title.length > 32
-						? 'text-xl'
-						: course.title.length > 20
-						? 'text-3xl'
-						: 'text-4xl'
-				"
+				v-if="badgeLabel"
+				class="absolute bottom-2.5 inset-inline-start-2.5 flex items-center gap-1.5 bg-surface-white/90 text-ink-gray-8 text-xs font-medium px-2.5 py-1 rounded-full shadow-sm"
 			>
-				{{ course.title }}
+				<span class="size-1.5 rounded-full bg-surface-green-3" />
+				{{ badgeLabel }}
 			</div>
 		</div>
 		<div class="flex flex-col flex-auto p-4 border-x-2 border-b-2 rounded-b-md">
@@ -84,7 +58,6 @@
 			</div>
 
 			<div
-				v-if="course.image"
 				class="font-semibold leading-6"
 				:class="course.title.length > 32 ? 'text-xl' : 'text-3xl'"
 			>
@@ -138,12 +111,10 @@
 import { sessionStore } from '@/stores/session'
 import { Tooltip } from 'frappe-ui'
 import { formatAmount, formatRating } from '@/utils'
-import { theme } from '@/utils/theme'
-import { computed, watch } from 'vue'
+import { computed } from 'vue'
 import CourseInstructors from '@/components/CourseInstructors.vue'
 import UserAvatar from '@/components/UserAvatar.vue'
 import ProgressBar from '@/components/ProgressBar.vue'
-import colors from '@/utils/frappe-ui-colors.json'
 
 const { user } = sessionStore()
 
@@ -154,14 +125,52 @@ const props = defineProps({
 	},
 })
 
-const gradientColor = computed(() => {
-	let themeMode = theme.value === 'dark' ? 'darkMode' : 'lightMode'
-	let color = props.course.card_gradient?.toLowerCase() || 'blue'
-	let colorMap = colors[themeMode][color]
-	return `linear-gradient(to top right, black, ${colorMap[400]})`
+// Brand-styled thumbnail (gradient + zellige pattern + icon) replaces photo
+// covers as the default card look, matching the reference design. Tone
+// alternates deterministically per course so a course list doesn't render
+// as a wall of identical cards.
+const toneList = ['navy', 'emerald']
+const brandTone = computed(() => {
+	const key = props.course.name || props.course.title || ''
+	let hash = 0
+	for (let i = 0; i < key.length; i++) hash = (hash + key.charCodeAt(i)) % toneList.length
+	return `course-card-thumb--${toneList[hash]}`
 })
+const brandIcon = computed(() => 'lucide-book-open')
+const badgeLabel = computed(() => props.course.category || '')
 </script>
 <style>
+.course-card-thumb--navy {
+	background-image: linear-gradient(160deg, #123150 0%, #0b2137 70%, #0a1929 100%);
+}
+.course-card-thumb--emerald {
+	background-image: linear-gradient(160deg, #14795c 0%, #0a4d39 70%, #0b2137 100%);
+}
+.course-card-thumb-pattern {
+	position: absolute;
+	inset: 0;
+	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMS4xJyBvcGFjaXR5PScwLjUnPjxyZWN0IHg9JzE2JyB5PScxNicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJy8+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInIHRyYW5zZm9ybT0ncm90YXRlKDQ1IDMyIDMyKScvPjxjaXJjbGUgY3g9JzMyJyBjeT0nMzInIHI9JzYnLz48L2c+PC9zdmc+');
+	background-size: 42px 42px;
+	opacity: 0.35;
+	filter: brightness(4);
+	mask-image: radial-gradient(circle at 50% 45%, transparent 0%, transparent 22%, black 55%);
+	-webkit-mask-image: radial-gradient(
+		circle at 50% 45%,
+		transparent 0%,
+		transparent 22%,
+		black 55%
+	);
+}
+.course-card-thumb-icon {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 44px;
+	height: 44px;
+	color: rgba(255, 255, 255, 0.85);
+}
+
 .course-card-pills {
 	background: #ffffff;
 	margin-left: 0;

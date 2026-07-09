@@ -355,7 +355,7 @@ msgstr "الكل"
 
 #: frontend/src/pages/Batches/Batches.vue:53
 msgid "All Batches"
-msgstr "جميع الدفعات"
+msgstr "جميع الأقسام"
 
 #: frontend/src/pages/Courses/Courses.vue:37 lms/lms/widgets/BreadCrumb.html:3
 msgid "All Courses"
@@ -364,7 +364,7 @@ msgstr "جميع الدورات"
 #: frontend/src/pages/Programs/Programs.vue:25
 #: frontend/src/pages/Programs/StudentPrograms.vue:5
 msgid "All Programs"
-msgstr "جميع البرامج"
+msgstr "جميع المسارات"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:58
 msgid "All questions should have the same marks if the limit is set."
@@ -1005,7 +1005,7 @@ msgstr "الدفعات:"
 #: lms/lms/doctype/lms_settings/lms_settings.json
 #: lms/workspace_sidebar/learning.json lms/www/_lms.py:132
 msgid "Batches"
-msgstr "الدفعات"
+msgstr "الأقسام"
 
 #: lms/templates/emails/batch_confirmation.html:33
 #: lms/templates/emails/batch_start_reminder.html:31
@@ -2575,7 +2575,11 @@ msgstr "نوع الخصم"
 #: frontend/src/pages/Batches/BatchDetail.vue:94
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Discussions"
-msgstr ""
+msgstr "المناقشات"
+
+#: frontend/src/pages/Batches/BatchDetail.vue:222
+msgid "Classes"
+msgstr "الحصص"
 
 #: frontend/src/pages/QuizForm.vue:207
 msgid "Display correct answers after each question is attempted."
@@ -6510,7 +6514,7 @@ msgstr "التمارين البرمجية"
 #: frontend/src/pages/Programs/Programs.vue:223
 #: frontend/src/pages/Programs/Programs.vue:229 lms/www/_lms.py:326
 msgid "Programs"
-msgstr "البرامج"
+msgstr "المسارات"
 
 #. Label of the progress (Float) field in DocType 'LMS Enrollment'
 #. Label of the progress (Int) field in DocType 'LMS Program Member'
@@ -7938,7 +7942,7 @@ msgstr ""
 
 #: frontend/src/components/Layouts/EmptyStateLayout.vue:43
 msgid "There are no {0} currently. Keep an eye out, fresh learning experiences are on the way!"
-msgstr ""
+msgstr "لا يوجد {0} حالياً. ترقبوا تجارب تعليمية جديدة قريباً!"
 
 #: lms/templates/course_list.html:14
 msgid "There are no {0} on this site."
@@ -8434,7 +8438,7 @@ msgstr ""
 
 #: frontend/src/pages/Home/AdminHome.vue:141
 msgid "Upcoming Batches"
-msgstr "الدفعات القادمة"
+msgstr "الأقسام القادمة"
 
 #: frontend/src/components/UpcomingEvaluations.vue:5
 #: frontend/src/pages/Home/AdminHome.vue:6 lms/templates/upcoming_evals.html:3
@@ -9604,3 +9608,31 @@ msgstr "الشهادات يوميًا"
 #: frontend/src/pages/Statistics.vue
 msgid "Completions"
 msgstr "الإتمامات"
+
+#: frontend/src/utils/index.js
+msgid "Nav Courses"
+msgstr "دروس"
+
+#: frontend/src/utils/index.js
+msgid "Nav Programs"
+msgstr "المسارات"
+
+#: frontend/src/utils/index.js
+msgid "Nav Assignments"
+msgstr "واجبات"
+
+#: frontend/src/utils/index.js
+msgid "Nav Programming Exercises"
+msgstr "التمارين"
+
+#: frontend/src/utils/index.js
+msgid "Nav Batches"
+msgstr "الأقسام"
+
+#: frontend/src/utils/index.js
+msgid "Nav Group Learning"
+msgstr "مساحتي"
+
+#: frontend/src/utils/index.js
+msgid "Nav Group Assessments"
+msgstr "التقييمات"

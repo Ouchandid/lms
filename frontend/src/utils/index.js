@@ -495,24 +495,22 @@ const getSidebarItems = (forMobile = false) => {
 					label: 'Notifications',
 					icon: 'Bell',
 					panel: 'notifications',
-					condition: () => {
-						return !forMobile && userResource?.data
-					},
+					condition: () => false,
 				},
 			],
 		},
 		{
-			label: 'Learning',
-			hideLabel: true,
+			label: 'Nav Group Learning',
+			hideLabel: false,
 			items: [
 				{
-					label: 'Courses',
+					label: 'Nav Courses',
 					icon: 'BookOpen',
 					to: 'Courses',
 					activeFor: ['Courses', 'CourseDetail', 'Lesson'],
 				},
 				{
-					label: 'Programs',
+					label: 'Nav Programs',
 					icon: 'Route',
 					to: 'Programs',
 					activeFor: ['Programs', 'ProgramDetail'],
@@ -522,7 +520,7 @@ const getSidebarItems = (forMobile = false) => {
 					},
 				},
 				{
-					label: 'Batches',
+					label: 'Nav Batches',
 					icon: 'Users',
 					to: 'Batches',
 					activeFor: ['Batches', 'BatchDetail', 'Batch', 'BatchForm'],
@@ -541,6 +539,7 @@ const getSidebarItems = (forMobile = false) => {
 					icon: 'Briefcase',
 					to: 'Jobs',
 					activeFor: ['Jobs', 'JobDetail'],
+					condition: () => false,
 				},
 				{
 					label: 'Statistics',
@@ -566,8 +565,8 @@ const getSidebarItems = (forMobile = false) => {
 			],
 		},
 		{
-			label: 'Assessments',
-			hideLabel: true,
+			label: 'Nav Group Assessments',
+			hideLabel: false,
 			items: [
 				{
 					label: 'Quizzes',
@@ -585,7 +584,7 @@ const getSidebarItems = (forMobile = false) => {
 					],
 				},
 				{
-					label: 'Assignments',
+					label: 'Nav Assignments',
 					icon: 'Pencil',
 					to: 'Assignments',
 					condition: () => {
@@ -598,7 +597,7 @@ const getSidebarItems = (forMobile = false) => {
 					],
 				},
 				{
-					label: 'Programming Exercises',
+					label: 'Nav Programming Exercises',
 					icon: 'Code',
 					to: 'ProgrammingExercises',
 					condition: () => {

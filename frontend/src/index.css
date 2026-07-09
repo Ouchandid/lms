@@ -1,11 +1,307 @@
 @import 'frappe-ui/style.css';
 @import './styles/codemirror.css';
 @import './styles/blockEditor.css';
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400%3B700&family=Amiri:ital,wght@0,400%3B0,700%3B1,400&family=Tajawal:wght@300%3B400%3B500%3B700%3B800&display=swap');
 
-/* This build makes --surface-sidebar transparent in dark mode; point it at
-   gray-1 so the sidebar keeps a visible surface. */
+/* ---------------------------------------------------------------------
+   Islamic academy theme — Moroccan emerald/gold palette on a warm
+   cream/beige surface, replacing frappe-ui's default gray/white tokens.
+   Overriding the CSS custom properties here retints the whole app (every
+   component that uses the semantic surface, text-ink and outline classes)
+   without editing each component individually.
+   --------------------------------------------------------------------- */
+/* IMPORTANT: frappe-ui's Tailwind preset wraps every semantic color in
+   `rgb(var(--x))` (see `withOpacity()` in frappe-ui/tailwind/colors.js), so
+   these custom properties must hold space-separated "R G B" triplets, NOT
+   hex strings — `rgb(#ffffff)` is invalid CSS and silently fails, leaving
+   text/backgrounds on frappe-ui's unthemed default. Alpha/rgba() values are
+   flattened to an opaque approximate solid for the same reason. */
+:root {
+	/* backgrounds — exact values from Noor - Standalone.html */
+	--surface-white: 255 253 248; /* --paper #fffdf8 */
+	--surface-cards: 255 253 248;
+	--surface-modal: 255 253 248;
+	--surface-menu-bar: 247 241 227; /* --bg-1 #f7f1e3 */
+	--surface-selected: 242 230 198; /* --gold-soft #f2e6c6 */
+	--surface-gray-1: 247 241 227; /* --bg-1 soft panel */
+	--surface-gray-2: 251 246 236; /* --paper-2 card alt #fbf6ec */
+	--surface-gray-3: 242 230 198; /* --gold-soft */
+	--surface-gray-4: 228 220 196; /* #e4dcc4 */
+	--surface-gray-5: 10 77 57; /* --emerald-deep #0a4d39 */
+	--surface-gray-6: 11 33 55; /* --night #0b2137 */
+	--surface-gray-7: 23 50 43; /* --text #17322b */
+	--surface-sidebar: 15 107 79; /* --emerald #0f6b4f */
+
+	/* text */
+	--text-ink-gray-9: 23 50 43; /* --text #17322b */
+	--text-ink-gray-8: 23 50 43;
+	--text-ink-gray-7: 90 107 100; /* --text-muted #5a6b64 */
+	--text-ink-gray-6: 90 107 100;
+	--text-ink-gray-5: 138 150 143; /* --text-dim #8a968f */
+	--text-ink-gray-4: 138 150 143;
+	--text-ink-gray-3: 179 186 181; /* #b3bab5 */
+	--text-ink-gray-2: 214 218 215; /* #d6dad7 */
+	--text-ink-gray-1: 236 238 236; /* #eceeec */
+
+	/* borders — solid approximations of the reference's rgba(15,74,57,x) lines */
+	--outline-gray-1: 228 220 196; /* #e4dcc4 */
+	--outline-gray-2: 216 205 169; /* #d8cda9 */
+	--outline-gray-3: 184 145 47; /* --gold #b8912f */
+	--outline-gray-4: 138 150 143; /* #8a968f */
+	--outline-gray-5: 23 50 43; /* #17322b */
+	--outline-gray-modals: 228 220 196;
+	--outline-white: 255 253 248;
+
+	/* brand green = --emerald family */
+	--surface-green-1: 228 240 234; /* --emerald-soft #e4f0ea */
+	--surface-green-2: 228 240 234;
+	--surface-green-3: 15 107 79; /* --emerald #0f6b4f */
+	--text-ink-green-1: 228 240 234;
+	--text-ink-green-2: 10 77 57; /* --emerald-deep #0a4d39 */
+	--text-ink-green-3: 10 77 57;
+	--outline-green-1: 15 107 79;
+	--outline-green-2: 10 77 57;
+
+	/* states — --safe/--info/--warn/--alert */
+	--surface-red-2: 247 221 211; /* #f7ddd3 */
+	--text-ink-red-2: 192 86 47; /* --alert #c0562f */
+	--text-ink-red-3: 192 86 47;
+	--outline-red-2: 192 86 47;
+	--surface-amber-1: 245 239 224; /* --cream #f5efe0 */
+	--text-ink-amber-2: 192 138 46; /* --warn #c08a2e */
+	--surface-blue-1: 228 238 244; /* #e4eef4 */
+	--text-ink-blue-2: 44 110 155; /* --info #2c6e9b */
+	--text-ink-blue-3: 44 110 155;
+}
+
+html,
+body {
+	background-color: #efe7d5; /* --bg-0 — kills any white sliver at the
+	viewport edges behind the app root */
+}
+body {
+	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMS4xJyBvcGFjaXR5PScwLjUnPjxyZWN0IHg9JzE2JyB5PScxNicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJy8+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInIHRyYW5zZm9ybT0ncm90YXRlKDQ1IDMyIDMyKScvPjxjaXJjbGUgY3g9JzMyJyBjeT0nMzInIHI9JzYnLz48L2c+PC9zdmc+');
+	background-size: 64px 64px;
+}
+
+/* Style the scrollbar itself — an unstyled native scrollbar (track/buttons)
+   renders in the OS's default light theme and can look like a white bar
+   leaking through at the viewport edge. */
+::-webkit-scrollbar {
+	width: 12px;
+	height: 12px;
+}
+::-webkit-scrollbar-track {
+	background: #f7f1e3;
+}
+::-webkit-scrollbar-thumb {
+	background: #d8cda9;
+	border-radius: 8px;
+	border: 2px solid #f7f1e3;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #b8912f;
+}
+.bg-surface-sidebar ::-webkit-scrollbar-track {
+	background: #0a4d39;
+}
+.bg-surface-sidebar ::-webkit-scrollbar-thumb {
+	background: rgba(184, 145, 47, 0.5);
+	border-color: #0a4d39;
+}
+
+body,
+input,
+button,
+select,
+textarea {
+	font-family: 'Tajawal', 'Noto Sans Arabic', 'Inter', sans-serif;
+}
+
+/* Page/section headings use the app's size utilities rather than <h1-h3>
+   tags, so target those directly for the calligraphic display font
+   (matches --font-display in the reference). */
+.text-4xl-semibold,
+.text-3xl-semibold,
+.text-2xl-semibold,
+h1,
+h2,
+h3 {
+	font-family: 'Aref Ruqaa', 'Amiri', serif;
+}
+
+/* Cards: rounded + soft shadow, matching .card { border-radius: var(--radius) }.
+   Scoped to -lg/-xl only — .rounded/.rounded-md is also used on small chips
+   and icon buttons that would look odd blown up to card-sized corners. */
+.rounded-lg,
+.rounded-xl {
+	border-radius: 14px !important;
+	box-shadow: 0 4px 16px -8px rgba(11, 33, 55, 0.14);
+}
+
+/* App background: the 8-fold star pattern, applied straight on the Vue
+   mount root (#app) rather than <body>. The app's own layout fills the
+   whole viewport with its own (opaque) surface color, so a pattern on
+   <body> — behind #app — never actually became visible; #app itself is
+   where the genuinely empty page gaps live. */
+/* div-qualified so it never hits `input.bg-surface-base` (frappe-ui uses that
+   class combo for an input's focus-state background — a patterned textbox
+   would be a bug, not a feature). */
+#app,
+div.bg-surface-base {
+	background-color: #efe7d5;
+	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC4wNSc+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInLz48cmVjdCB4PScxNicgeT0nMTYnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdHJhbnNmb3JtPSdyb3RhdGUoNDUgMzIgMzIpJy8+PGNpcmNsZSBjeD0nMzInIGN5PSczMicgcj0nNicvPjwvZz48L3N2Zz4=');
+	background-size: 120px 120px;
+}
+#app {
+	min-height: 100vh;
+}
+
+/* Sidebar: deep emerald gradient with a soft golden halo — exact values from
+   the reference .sidebar rule — plus its own faded zellige texture. */
+.bg-surface-sidebar {
+	position: relative;
+	overflow: hidden;
+	background-color: transparent;
+	background-image: radial-gradient(
+			340px 200px at 80% 0%,
+			rgba(184, 145, 47, 0.22),
+			transparent 60%
+		),
+		linear-gradient(180deg, #0f6b4f 0%, #0b5540 55%, #0a4d39 100%);
+}
+.bg-surface-sidebar::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMS4xJyBvcGFjaXR5PScwLjUnPjxyZWN0IHg9JzE2JyB5PScxNicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJy8+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInIHRyYW5zZm9ybT0ncm90YXRlKDQ1IDMyIDMyKScvPjxjaXJjbGUgY3g9JzMyJyBjeT0nMzInIHI9JzYnLz48L2c+PC9zdmc+');
+	background-size: 74px 74px;
+	opacity: 0.16;
+	filter: brightness(4);
+	mask-image: linear-gradient(180deg, black, transparent 70%);
+	-webkit-mask-image: linear-gradient(180deg, black, transparent 70%);
+}
+.bg-surface-sidebar,
+.bg-surface-sidebar * {
+	--text-ink-gray-9: 255 255 255;
+	--text-ink-gray-8: 255 255 255;
+	--text-ink-gray-7: 243 238 223; /* .nav-item — ~cream, was rgba(...,0.82) */
+	--text-ink-gray-5: 147 179 158; /* .nav-label — muted sage-cream, was rgba(...,0.55) */
+}
+/* The CSS-variable route above should be enough, but something in the
+   bundle still wins with a plain `color:` on these utility classes, so
+   force it directly as a belt-and-braces fix. */
+.bg-surface-sidebar .text-ink-gray-9,
+.bg-surface-sidebar .text-ink-gray-8,
+.bg-surface-sidebar button,
+.bg-surface-sidebar button span,
+.bg-surface-sidebar button svg {
+	color: rgb(255, 255, 255) !important;
+}
+.bg-surface-sidebar .text-ink-gray-5,
+.bg-surface-sidebar .mt-3.text-base-medium {
+	color: rgb(147, 179, 158) !important;
+}
+.bg-surface-sidebar :is(img, svg) {
+	position: relative;
+	z-index: 1;
+}
+
+/* Nav links: translucent-white hover/active instead of the light-mode
+   cream chip — matches .nav-item:hover / .nav-item.active in the reference.
+   `.bg-surface-elevation-3` (active) and `.bg-surface-gray-2` (hover) are
+   hardcoded literals in frappe-ui, not CSS vars, so they're re-pointed here
+   directly rather than through a custom property. */
+.bg-surface-sidebar button:hover {
+	background-color: rgba(255, 255, 255, 0.1) !important;
+}
+.bg-surface-sidebar button.bg-surface-elevation-3 {
+	background: linear-gradient(
+		90deg,
+		rgba(255, 255, 255, 0.04),
+		rgba(255, 255, 255, 0.16)
+	) !important;
+	position: relative;
+}
+.bg-surface-sidebar button.bg-surface-elevation-3::before {
+	content: '';
+	position: absolute;
+	inset-inline-start: 0;
+	top: 15%;
+	bottom: 15%;
+	width: 3px;
+	border-radius: 2px;
+	background: #b8912f;
+	box-shadow: 0 0 10px rgba(184, 145, 47, 0.8);
+}
+
+/* Logo frame — matches .sidebar .brand-mark: a soft cream/gold card behind
+   the crest instead of it floating bare on the emerald gradient. */
+.bg-surface-sidebar img[src*='files'] {
+	background: linear-gradient(150deg, #fffdf8, #f2e6c6);
+	border: 1px solid rgba(184, 145, 47, 0.5);
+	border-radius: 14px;
+	padding: 6px;
+	box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.35);
+}
+
+/* Logo triangle accent — a small emerald/gold corner flag peeking from
+   behind the crest card, echoing the pennant motif used across the theme. */
+.sidebar-logo-wrap::before {
+	content: '';
+	position: absolute;
+	inset-inline-end: 6px;
+	bottom: 6px;
+	width: 24px;
+	height: 24px;
+	background: linear-gradient(135deg, #b8912f, #0f6b4f 65%);
+	clip-path: polygon(0 0, 0 100%, 100% 100%);
+	box-shadow: 0 2px 6px -2px rgba(0, 0, 0, 0.4);
+	z-index: 2;
+}
+
+/* Primary/solid buttons: gold gradient + glow, matching .btn-primary exactly. */
+button[class*='bg-surface-gray-1']:not([class*='hover:bg-surface-gray-3']) {
+	background-image: linear-gradient(180deg, #c6a15b, #b8912f);
+	border-color: transparent;
+	color: #2a2410;
+	box-shadow: 0 12px 30px -12px rgba(184, 145, 47, 0.6),
+		inset 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+/* Dark mode — exact values from body[data-theme="night"] in the reference. */
 [data-theme='dark'] {
-	--surface-sidebar: var(--surface-gray-1);
+	--surface-white: 15 41 66; /* --paper #0f2942 */
+	--surface-cards: 15 41 66;
+	--surface-modal: 15 41 66;
+	--surface-menu-bar: 10 25 41; /* --bg-0 #0a1929 */
+	--surface-gray-1: 10 25 41; /* --bg-0 */
+	--surface-gray-2: 15 41 66; /* --paper */
+	--surface-gray-3: 18 49 80; /* --paper-2 #123150 */
+	--surface-gray-4: 28 68 99; /* solid approx of --line-strong, was rgba(242,230,198,0.18) */
+	--surface-sidebar: 12 69 54; /* #0c4536 */
+	--text-ink-gray-9: 234 242 238; /* --text #eaf2ee */
+	--text-ink-gray-7: 169 187 180; /* --text-muted #a9bbb4 */
+	--text-ink-gray-5: 122 140 134; /* --text-dim #7a8c86 */
+	--outline-gray-1: 21 51 76; /* solid approx of --line, was rgba(242,230,198,0.1) */
+	--outline-gray-2: 39 81 114; /* solid approx of --line-strong #275172 */
+	--outline-gray-3: 217 180 90; /* --gold #d9b45a */
+	--surface-green-3: 47 185 138; /* --emerald #2fb98a */
+	--text-ink-green-2: 47 185 138;
+	--outline-green-1: 47 185 138;
+}
+[data-theme='dark'] body {
+	background-color: #0a1929;
+}
+/* night mode keeps a slightly deeper green sidebar, per the reference */
+[data-theme='dark'] .bg-surface-sidebar {
+	background-image: radial-gradient(
+			340px 200px at 80% 0%,
+			rgba(217, 180, 90, 0.2),
+			transparent 60%
+		),
+		linear-gradient(180deg, #0c4536 0%, #0a3a2e 55%, #082c24 100%);
 }
 
 /* frappe-ui beta.7 FormLabel differs from InputLabel; match standalone labels

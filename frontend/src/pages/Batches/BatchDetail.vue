@@ -50,7 +50,7 @@
 					{{ __('Enroll') }}
 				</Button>
 				<Tooltip
-					v-if="currentTabLabel === 'Announcements' && isAdmin && !readOnlyMode"
+					v-if="currentTabKey === 'Announcements' && isAdmin && !readOnlyMode"
 					:text="
 						batch.data?.students?.length
 							? ''
@@ -85,7 +85,7 @@
 				<Tabs :tabs="tabs" v-model="tabIndex">
 					<template #tab-panel="{ tab }">
 						<div
-							v-if="tab.label == 'Discussions'"
+							v-if="tab.key == 'Discussions'"
 							class="w-[90%] lg:w-[75%] mx-auto mt-5"
 						>
 							<Discussions
@@ -178,7 +178,7 @@ const updateTabIndex = () => {
 	const hash = route.hash
 	if (hash) {
 		tabs.value.forEach((tab, index) => {
-			if (tab.label?.toLowerCase() === hash.replace('#', '')) {
+			if (tab.key?.toLowerCase() === hash.replace('#', '')) {
 				tabIndex.value = index
 			}
 		})
@@ -187,8 +187,8 @@ const updateTabIndex = () => {
 
 watch(tabIndex, () => {
 	const tab = tabs.value[tabIndex.value]
-	if (tab.label != route.hash.replace('#', '')) {
-		router.push({ ...route, hash: `#${tab.label.toLowerCase()}` })
+	if (tab.key != route.hash.replace('#', '')) {
+		router.push({ ...route, hash: `#${tab.key.toLowerCase()}` })
 	}
 })
 
@@ -227,10 +227,11 @@ const updateTabs = () => {
 	}
 }
 
-const addToTabs = (label, component, icon) => {
-	if (!tabs.value.some((tab) => tab.label === label)) {
+const addToTabs = (key, component, icon) => {
+	if (!tabs.value.some((tab) => tab.key === key)) {
 		tabs.value.push({
-			label,
+			key,
+			label: __(key),
 			component,
 			icon,
 		})
@@ -245,7 +246,7 @@ const isStudent = computed(() => {
 	return batch.data?.students?.includes(user.data?.name)
 })
 
-const currentTabLabel = computed(() => tabs.value[tabIndex.value]?.label)
+const currentTabKey = computed(() => tabs.value[tabIndex.value]?.key)
 
 const openAnnouncementModal = () => {
 	showAnnouncementModal.value = true

@@ -1,0 +1,1203 @@
+[
+ {
+  "course": "cg8u8fn1uv",
+  "course_title": "فضل الاستغفار",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0004 فضل الاستغفار"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:26:23.360667",
+  "name": "0003 المقدمة",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "المقدمة"
+ },
+ {
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0120 Les articles définis et indéfinis"
+   },
+   {
+    "lesson": "0121 Le genre des noms (masculin/féminin)"
+   },
+   {
+    "lesson": "0122 Le pluriel des noms et des adjectifs"
+   },
+   {
+    "lesson": "0123 Les adjectifs qualificatifs et leur accord"
+   },
+   {
+    "lesson": "0154 Évaluation du chapitre : Grammaire de base"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:30:31.066789",
+  "name": "0119 Grammaire de base : les articles et le genre",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Grammaire de base : les articles et le genre"
+ },
+ {
+  "course": "g98dtn36i7",
+  "course_title": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0189 The Present Simple Tense"
+   },
+   {
+    "lesson": "0190 The Present Continuous Tense"
+   },
+   {
+    "lesson": "0191 Subject Pronouns and the Verb 'to be'"
+   },
+   {
+    "lesson": "0192 Question Words (Wh- questions)"
+   },
+   {
+    "lesson": "0224 Quiz for Chapter: Basic Grammar - Present Tenses"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:35:56.293923",
+  "name": "0188 Basic Grammar: Present Tenses",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Basic Grammar: Present Tenses"
+ },
+ {
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0257 الأعداد الصحيحة النسبية"
+   },
+   {
+    "lesson": "0258 الضرب والقسمة في الأعداد النسبية"
+   },
+   {
+    "lesson": "0259 أولوية العمليات الحسابية"
+   },
+   {
+    "lesson": "0260 القوى والجذور"
+   },
+   {
+    "lesson": "0292 اختبار الفصل: الأعداد والعمليات الحسابية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:41:17.578017",
+  "name": "0256 الأعداد والعمليات الحسابية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الأعداد والعمليات الحسابية"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0393 المغرب تحت الحماية الفرنسية والإسبانية"
+   },
+   {
+    "lesson": "0394 الحركة الوطنية والكفاح من أجل الاستقلال"
+   },
+   {
+    "lesson": "0395 استقلال المغرب وبناء الدولة الوطنية"
+   },
+   {
+    "lesson": "0396 المسيرة الخضراء واستكمال الوحدة الترابية"
+   },
+   {
+    "lesson": "0427 اختبار الفصل: تاريخ المغرب المعاصر"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.691249",
+  "name": "0392 تاريخ المغرب المعاصر",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "تاريخ المغرب المعاصر"
+ },
+ {
+  "course": "774map39c2",
+  "course_title": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0053 الميزان الصرفي"
+   },
+   {
+    "lesson": "0054 الفعل الماضي والمضارع والأمر"
+   },
+   {
+    "lesson": "0055 المشتقات: اسم الفاعل واسم المفعول"
+   },
+   {
+    "lesson": "0056 الجمع وأنواعه (سالم، تكسير)"
+   },
+   {
+    "lesson": "0091 اختبار الفصل: الصرف والاشتقاق"
+   },
+   {
+    "lesson": "0118 Untitled lesson"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:20:28.002702",
+  "name": "0052 الصرف والاشتقاق",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الصرف والاشتقاق"
+ },
+ {
+  "course": "cg8u8fn1uv",
+  "course_title": "فضل الاستغفار",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0012 آيات الاستغفار في القرآن الكريم"
+   },
+   {
+    "lesson": "0013 أحاديث نبوية في فضل الاستغفار"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:26:53.148892",
+  "name": "0011 فضل الاستغفار في القرآن والسنة",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "فضل الاستغفار في القرآن والسنة"
+ },
+ {
+  "course": "g98dtn36i7",
+  "course_title": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0194 Family and Relationships Vocabulary"
+   },
+   {
+    "lesson": "0195 School and Classroom Objects"
+   },
+   {
+    "lesson": "0196 Adjectives: Describing People and Things"
+   },
+   {
+    "lesson": "0197 Synonyms and Antonyms"
+   },
+   {
+    "lesson": "0230 Quiz for Chapter: Vocabulary Building"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:35:56.343588",
+  "name": "0193 Vocabulary Building",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Vocabulary Building"
+ },
+ {
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0262 جمع وطرح الكسور"
+   },
+   {
+    "lesson": "0263 ضرب وقسمة الكسور"
+   },
+   {
+    "lesson": "0264 الأعداد العشرية والعمليات عليها"
+   },
+   {
+    "lesson": "0265 النسبة المئوية"
+   },
+   {
+    "lesson": "0298 اختبار الفصل: الكسور والأعداد العشرية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:41:17.620055",
+  "name": "0261 الكسور والأعداد العشرية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الكسور والأعداد العشرية"
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "course_title": "العلوم",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0326 أعضاء الجهاز الهضمي"
+   },
+   {
+    "lesson": "0327 عملية الهضم والامتصاص"
+   },
+   {
+    "lesson": "0328 الفئات الغذائية والتغذية المتوازنة"
+   },
+   {
+    "lesson": "0329 أمراض الجهاز الهضمي والوقاية منها"
+   },
+   {
+    "lesson": "0360 اختبار الفصل: جهاز الهضم والتغذية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:45:51.900328",
+  "name": "0325 علوم الحياة: جهاز الهضم والتغذية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "علوم الحياة: جهاز الهضم والتغذية"
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "course_title": "العلوم",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0331 الجهاز التنفسي وآلية التنفس"
+   },
+   {
+    "lesson": "0332 القلب والدورة الدموية"
+   },
+   {
+    "lesson": "0333 مكونات الدم ووظائفها"
+   },
+   {
+    "lesson": "0334 الحفاظ على صحة الجهازين التنفسي والدوري"
+   },
+   {
+    "lesson": "0366 اختبار الفصل: التنفس والدورة الدموية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:45:51.944554",
+  "name": "0330 علوم الحياة: التنفس والدورة الدموية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "علوم الحياة: التنفس والدورة الدموية"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0398 الحضارات القديمة: مصر وبلاد الرافدين"
+   },
+   {
+    "lesson": "0399 الحضارة الإسلامية وازدهار العلوم"
+   },
+   {
+    "lesson": "0400 الاكتشافات الجغرافية الكبرى"
+   },
+   {
+    "lesson": "0401 الثورة الصناعية وتحولاتها"
+   },
+   {
+    "lesson": "0433 اختبار الفصل: الحضارات والاكتشافات الكبرى"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.740932",
+  "name": "0397 التاريخ العام: الحضارات والاكتشافات الكبرى",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "التاريخ العام: الحضارات والاكتشافات الكبرى"
+ },
+ {
+  "course": "774map39c2",
+  "course_title": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0048 الجملة الاسمية: المبتدأ والخبر"
+   },
+   {
+    "lesson": "0049 الجملة الفعلية: الفعل والفاعل"
+   },
+   {
+    "lesson": "0050 المفعول به وأنواع المفاعيل"
+   },
+   {
+    "lesson": "0051 حروف الجر ومعانيها"
+   },
+   {
+    "lesson": "0084 اختبار الفصل: القواعد النحوية الأساسية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:20:27.959521",
+  "name": "0047 القواعد النحوية الأساسية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "القواعد النحوية الأساسية"
+ },
+ {
+  "course": "cg8u8fn1uv",
+  "course_title": "فضل الاستغفار",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0015 سيد الاستغفار وصيغ واردة"
+   },
+   {
+    "lesson": "0016 ثمرات الاستغفار في الدنيا والآخرة"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:26:53.363481",
+  "name": "0014 آداب الاستغفار وثمراته",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "آداب الاستغفار وثمراته"
+ },
+ {
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0130 La famille et les relations"
+   },
+   {
+    "lesson": "0131 L'école et les fournitures scolaires"
+   },
+   {
+    "lesson": "0132 Les couleurs, les nombres et le temps"
+   },
+   {
+    "lesson": "0133 Les synonymes et les antonymes"
+   },
+   {
+    "lesson": "0167 Évaluation du chapitre : Le vocabulaire thématique"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:30:31.170531",
+  "name": "0129 Le vocabulaire thématique",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Le vocabulaire thématique"
+ },
+ {
+  "course": "g98dtn36i7",
+  "course_title": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0199 Reading a Short Story"
+   },
+   {
+    "lesson": "0200 Identifying Main Idea and Details"
+   },
+   {
+    "lesson": "0201 Understanding Context Clues"
+   },
+   {
+    "lesson": "0202 Reading a Descriptive Text"
+   },
+   {
+    "lesson": "0236 Quiz for Chapter: Reading Comprehension"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:35:56.392234",
+  "name": "0198 Reading Comprehension",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Reading Comprehension"
+ },
+ {
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0267 مفهوم المعادلة والمجهول"
+   },
+   {
+    "lesson": "0268 حل معادلة من الدرجة الأولى بمجهول واحد"
+   },
+   {
+    "lesson": "0269 المسائل التطبيقية على المعادلات"
+   },
+   {
+    "lesson": "0270 المتباينات من الدرجة الأولى"
+   },
+   {
+    "lesson": "0304 اختبار الفصل: المعادلات من الدرجة الأولى"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:41:17.664794",
+  "name": "0266 المعادلات من الدرجة الأولى",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "المعادلات من الدرجة الأولى"
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "course_title": "العلوم",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0336 أنواع الصخور"
+   },
+   {
+    "lesson": "0337 دورة الصخور والتجوية"
+   },
+   {
+    "lesson": "0338 تكوين التربة وخصائصها"
+   },
+   {
+    "lesson": "0339 حماية التربة من التعرية والتلوث"
+   },
+   {
+    "lesson": "0372 اختبار الفصل: الصخور والتربة"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:45:51.989009",
+  "name": "0335 علوم الأرض: الصخور والتربة",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "علوم الأرض: الصخور والتربة"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0403 التضاريس الكبرى بالمغرب"
+   },
+   {
+    "lesson": "0404 المناخ بالمغرب وتنوعه"
+   },
+   {
+    "lesson": "0405 الموارد المائية بالمغرب"
+   },
+   {
+    "lesson": "0406 الأقاليم الاقتصادية الكبرى بالمغرب"
+   },
+   {
+    "lesson": "0439 اختبار الفصل: جغرافيا المغرب"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.786804",
+  "name": "0402 جغرافيا المغرب: التضاريس والمناخ",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "جغرافيا المغرب: التضاريس والمناخ"
+ },
+ {
+  "course": "774map39c2",
+  "course_title": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0058 التشبيه وأركانه"
+   },
+   {
+    "lesson": "0059 الاستعارة والمجاز"
+   },
+   {
+    "lesson": "0060 أسلوب الاستفهام والنداء"
+   },
+   {
+    "lesson": "0061 المحسنات البديعية (الجناس والطباق)"
+   },
+   {
+    "lesson": "0098 اختبار الفصل: البلاغة والأساليب"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:20:28.042742",
+  "name": "0057 البلاغة والأساليب",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "البلاغة والأساليب"
+ },
+ {
+  "course": "774map39c2",
+  "course_title": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0063 قراءة نص سردي وتحليله"
+   },
+   {
+    "lesson": "0064 قراءة نص وصفي وتحليله"
+   },
+   {
+    "lesson": "0065 المقالة الأدبية"
+   },
+   {
+    "lesson": "0066 الحوار والمسرحية"
+   },
+   {
+    "lesson": "0104 اختبار الفصل: النصوص الأدبية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:20:28.083456",
+  "name": "0062 النصوص الأدبية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "النصوص الأدبية"
+ },
+ {
+  "course": "cg8u8fn1uv",
+  "course_title": "فضل الاستغفار",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0030 اختبار فضل الاستغفار"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:27:42.455249",
+  "name": "0029 التقييم",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "التقييم"
+ },
+ {
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0125 Le présent de l'indicatif : 1er groupe"
+   },
+   {
+    "lesson": "0126 Le présent de l'indicatif : 2e et 3e groupes"
+   },
+   {
+    "lesson": "0127 Le futur simple"
+   },
+   {
+    "lesson": "0128 Le passé composé"
+   },
+   {
+    "lesson": "0161 Évaluation du chapitre : La conjugaison"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:30:31.123189",
+  "name": "0124 La conjugaison : le présent de l'indicatif",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "La conjugaison : le présent de l'indicatif"
+ },
+ {
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0135 Lire et comprendre un texte narratif"
+   },
+   {
+    "lesson": "0136 Lire et comprendre un texte descriptif"
+   },
+   {
+    "lesson": "0137 Les figures de style : comparaison et métaphore"
+   },
+   {
+    "lesson": "0138 Le résumé de texte"
+   },
+   {
+    "lesson": "0174 Évaluation du chapitre : La compréhension de l'écrit"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:30:31.220327",
+  "name": "0134 La compréhension de l'écrit",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "La compréhension de l'écrit"
+ },
+ {
+  "course": "g98dtn36i7",
+  "course_title": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0204 Writing a Simple Paragraph"
+   },
+   {
+    "lesson": "0205 Writing a Friendly Letter/Email"
+   },
+   {
+    "lesson": "0206 Writing a Short Story"
+   },
+   {
+    "lesson": "0207 Punctuation and Capitalization"
+   },
+   {
+    "lesson": "0242 Quiz for Chapter: Writing Skills"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:35:56.436870",
+  "name": "0203 Writing Skills",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Writing Skills"
+ },
+ {
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0272 محيط ومساحة المربع والمستطيل"
+   },
+   {
+    "lesson": "0273 محيط ومساحة المثلث"
+   },
+   {
+    "lesson": "0274 محيط ومساحة الدائرة"
+   },
+   {
+    "lesson": "0275 المجسمات: المكعب ومتوازي المستطيلات"
+   },
+   {
+    "lesson": "0311 اختبار الفصل: الهندسة - المساحة والمحيط"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:41:17.710554",
+  "name": "0271 الهندسة: المساحة والمحيط",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الهندسة: المساحة والمحيط"
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "course_title": "العلوم",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0341 الحالات الثلاث للمادة"
+   },
+   {
+    "lesson": "0342 التحولات الفيزيائية للمادة"
+   },
+   {
+    "lesson": "0343 الكتلة والحجم والكثافة"
+   },
+   {
+    "lesson": "0344 خلائط المادة: المحاليل والمعلقات"
+   },
+   {
+    "lesson": "0378 اختبار الفصل: حالات المادة وتحولاتها"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:45:52.041703",
+  "name": "0340 الفيزياء: حالات المادة وتحولاتها",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الفيزياء: حالات المادة وتحولاتها"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0408 قارات العالم وخصائصها"
+   },
+   {
+    "lesson": "0409 النطاقات المناخية في العالم"
+   },
+   {
+    "lesson": "0410 التوزيع الجغرافي للسكان في العالم"
+   },
+   {
+    "lesson": "0411 العولمة والتبادلات الدولية"
+   },
+   {
+    "lesson": "0445 اختبار الفصل: الجغرافيا العامة"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.834351",
+  "name": "0407 الجغرافيا العامة: القارات والمناخات",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الجغرافيا العامة: القارات والمناخات"
+ },
+ {
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0140 Écrire un paragraphe cohérent"
+   },
+   {
+    "lesson": "0141 La lettre amicale"
+   },
+   {
+    "lesson": "0142 Le récit imaginaire"
+   },
+   {
+    "lesson": "0143 La description d'un lieu ou d'une personne"
+   },
+   {
+    "lesson": "0180 Évaluation du chapitre : L'expression écrite"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:30:31.272731",
+  "name": "0139 L'expression écrite",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "L'expression écrite"
+ },
+ {
+  "course": "g98dtn36i7",
+  "course_title": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0209 Common Everyday Expressions"
+   },
+   {
+    "lesson": "0210 Asking for and Giving Directions"
+   },
+   {
+    "lesson": "0211 Making Introductions and Small Talk"
+   },
+   {
+    "lesson": "0212 Listening Skills: Numbers and Time"
+   },
+   {
+    "lesson": "0248 Quiz for Chapter: Speaking and Listening"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:35:56.482438",
+  "name": "0208 Speaking and Listening",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Speaking and Listening"
+ },
+ {
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0277 جمع البيانات وتمثيلها"
+   },
+   {
+    "lesson": "0278 المتوسط الحسابي والوسيط"
+   },
+   {
+    "lesson": "0279 مقدمة في الاحتمالات"
+   },
+   {
+    "lesson": "0280 قراءة وتحليل الرسوم البيانية"
+   },
+   {
+    "lesson": "0317 اختبار الفصل: الإحصاء والاحتمالات"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:41:17.757347",
+  "name": "0276 الإحصاء والاحتمالات",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الإحصاء والاحتمالات"
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "course_title": "العلوم",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0346 الدارة الكهربائية البسيطة"
+   },
+   {
+    "lesson": "0347 الموصلات والعوازل الكهربائية"
+   },
+   {
+    "lesson": "0348 التوالي والتوازي في الدارات الكهربائية"
+   },
+   {
+    "lesson": "0349 قواعد السلامة الكهربائية"
+   },
+   {
+    "lesson": "0384 اختبار الفصل: الكهرباء"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:45:52.102914",
+  "name": "0345 الفيزياء: الكهرباء",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الفيزياء: الكهرباء"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0413 مفهوم المواطنة والانتماء"
+   },
+   {
+    "lesson": "0414 اتفاقية حقوق الطفل"
+   },
+   {
+    "lesson": "0415 حقوق الإنسان والحريات العامة"
+   },
+   {
+    "lesson": "0416 واجبات المواطن تجاه المجتمع"
+   },
+   {
+    "lesson": "0451 اختبار الفصل: الحقوق والواجبات"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.880490",
+  "name": "0412 التربية على المواطنة: الحقوق والواجبات",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "التربية على المواطنة: الحقوق والواجبات"
+ },
+ {
+  "course": "774map39c2",
+  "course_title": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0073 عناصر القصيدة العربية: الوزن والقافية"
+   },
+   {
+    "lesson": "0074 قصيدة من الشعر الجاهلي"
+   },
+   {
+    "lesson": "0075 قصيدة من الشعر الحديث"
+   },
+   {
+    "lesson": "0076 عروض وأوزان الشعر (بحر الطويل، البسيط)"
+   },
+   {
+    "lesson": "0117 اختبار الفصل: الشعر العربي"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:20:28.170113",
+  "name": "0072 الشعر العربي",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الشعر العربي"
+ },
+ {
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0145 Introduction aux fables de La Fontaine"
+   },
+   {
+    "lesson": "0146 Le conte : caractéristiques et exemples"
+   },
+   {
+    "lesson": "0147 La poésie française : rimes et strophes"
+   },
+   {
+    "lesson": "0148 Antoine de Saint-Exupéry et Le Petit Prince"
+   },
+   {
+    "lesson": "0187 Évaluation du chapitre : Découverte de la littérature française"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:30:31.321002",
+  "name": "0144 Découverte de la littérature française",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Découverte de la littérature française"
+ },
+ {
+  "course": "g98dtn36i7",
+  "course_title": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0214 Introduction to Fables: Aesop's Fables"
+   },
+   {
+    "lesson": "0215 Poetry Basics: Rhyme and Rhythm"
+   },
+   {
+    "lesson": "0216 Introduction to Shakespeare"
+   },
+   {
+    "lesson": "0217 Understanding Themes in Stories"
+   },
+   {
+    "lesson": "0255 Quiz for Chapter: Introduction to English Literature"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:35:56.534806",
+  "name": "0213 Introduction to English Literature",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "Introduction to English Literature"
+ },
+ {
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0282 مفهوم التناسب"
+   },
+   {
+    "lesson": "0283 الجدولة والتناسبية"
+   },
+   {
+    "lesson": "0284 مقدمة إلى الدوال الخطية"
+   },
+   {
+    "lesson": "0285 سرعة التناسب في الحياة اليومية"
+   },
+   {
+    "lesson": "0324 اختبار الفصل: الدوال والتناسب"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:41:17.806815",
+  "name": "0281 الدوال والتناسب",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الدوال والتناسب"
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "course_title": "العلوم",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0351 الذرة والعناصر الكيميائية"
+   },
+   {
+    "lesson": "0352 التفاعل الكيميائي: التعريف والمظاهر"
+   },
+   {
+    "lesson": "0353 الاحتراق: أنواعه وشروطه"
+   },
+   {
+    "lesson": "0354 الأحماض والقواعد: مقدمة"
+   },
+   {
+    "lesson": "0391 اختبار الفصل: المادة والتفاعلات الكيميائية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:45:52.162214",
+  "name": "0350 الكيمياء: المادة والتفاعلات",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "الكيمياء: المادة والتفاعلات"
+ },
+ {
+  "course": "pjk2oak4r3",
+  "course_title": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0418 الدستور المغربي ومبادئه"
+   },
+   {
+    "lesson": "0419 السلطات الثلاث في الدولة"
+   },
+   {
+    "lesson": "0420 الانتخابات والمشاركة السياسية"
+   },
+   {
+    "lesson": "0421 الجماعات الترابية واللامركزية"
+   },
+   {
+    "lesson": "0458 اختبار الفصل: المؤسسات والديمقراطية"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:51:50.935711",
+  "name": "0417 المؤسسات والديمقراطية",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "المؤسسات والديمقراطية"
+ },
+ {
+  "course": "774map39c2",
+  "course_title": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "is_scorm_package": 0,
+  "launch_file": null,
+  "lessons": [
+   {
+    "lesson": "0068 كتابة الفقرة: الوحدة والتماسك"
+   },
+   {
+    "lesson": "0069 التعبير الوصفي"
+   },
+   {
+    "lesson": "0070 التلخيص: تقنياته وخطواته"
+   },
+   {
+    "lesson": "0071 كتابة الرسالة والبريد الرسمي"
+   },
+   {
+    "lesson": "0110 اختبار الفصل: التعبير الكتابي"
+   }
+  ],
+  "manifest_file": null,
+  "modified": "2026-07-09 01:20:28.127526",
+  "name": "0067 التعبير الكتابي",
+  "scorm_package": null,
+  "scorm_package_path": null,
+  "title": "التعبير الكتابي"
+ }
+]

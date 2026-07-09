@@ -1,0 +1,38 @@
+[
+ {
+  "batch_name": null,
+  "batch_title": null,
+  "course": "jdmprgcfb1",
+  "course_title": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "LMS Certificate",
+  "evaluator": null,
+  "evaluator_name": null,
+  "expiry_date": null,
+  "issue_date": "2026-07-09",
+  "member": "yassine.alaoui@example.com",
+  "member_name": "ياسين العلوي",
+  "modified": "2026-07-09 02:44:55.330329",
+  "name": "on986i66u4",
+  "published": 1,
+  "template": "Certificate"
+ },
+ {
+  "batch_name": null,
+  "batch_title": null,
+  "course": "d3lofmsrrt",
+  "course_title": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "LMS Certificate",
+  "evaluator": null,
+  "evaluator_name": null,
+  "expiry_date": null,
+  "issue_date": "2026-07-09",
+  "member": "fatima.benali@example.com",
+  "member_name": "فاطمة الزهراء بنعلي",
+  "modified": "2026-07-09 02:44:55.555362",
+  "name": "onbn3c1p8l",
+  "published": 1,
+  "template": "Certificate"
+ }
+]

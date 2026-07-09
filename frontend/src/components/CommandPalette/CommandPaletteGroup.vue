@@ -16,7 +16,7 @@
 						:is="item.icon"
 						class="size-4 stroke-1.5 text-ink-gray-6"
 					/>
-					<div v-html="sanitizeRichHTML(item.title)"></div>
+					<div v-html="sanitizeRichHTML(__(item.title))"></div>
 				</div>
 				<div v-if="item.modified" class="text-ink-gray-5">
 					{{ dayjs.unix(item.modified).fromNow(true) }}

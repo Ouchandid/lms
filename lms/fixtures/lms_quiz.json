@@ -1,0 +1,2030 @@
+[
+ {
+  "course": "774map39c2",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0084 اختبار الفصل: القواعد النحوية الأساسية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:21:22.039738",
+  "name": "77n7pi6nos",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00077",
+    "question_detail": "«العلمُ نورٌ» ما إعراب كلمة «نورٌ»؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00078",
+    "question_detail": "الجملة الفعلية تبدأ دائماً بـ:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00079",
+    "question_detail": "الفاعل يكون دائماً:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00080",
+    "question_detail": "«قرأ الطالبُ الدرسَ»، كلمة «الدرسَ» تُعرب:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00081",
+    "question_detail": "من حروف الجر:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00082",
+    "question_detail": "الجملة الاسمية تتكون أساساً من:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00083",
+    "question_detail": "عبارة صحيحة أم خاطئة: المفعول به اسم مرفوع.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: القواعد النحوية الأساسية",
+  "total_marks": 14
+ },
+ {
+  "course": "774map39c2",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0091 اختبار الفصل: الصرف والاشتقاق",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:21:45.528153",
+  "name": "77nuu9q8o6",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00085",
+    "question_detail": "الميزان الصرفي يُبنى على الجذر:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00086",
+    "question_detail": "وزن كلمة «كاتِب» هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00087",
+    "question_detail": "الفعل الذي يُبنى دائماً هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00088",
+    "question_detail": "اسم المفعول من الفعل «فهمَ» هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00089",
+    "question_detail": "جمع المذكر السالم يُصاغ بزيادة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00090",
+    "question_detail": "عبارة صحيحة أم خاطئة: جمع التكسير تتغير فيه صورة المفرد.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الصرف والاشتقاق",
+  "total_marks": 12
+ },
+ {
+  "course": "774map39c2",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0098 اختبار الفصل: البلاغة والأساليب",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:20:28.056010",
+  "name": "77o6qf4k1k",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00092",
+    "question_detail": "أركان التشبيه أربعة، ما هي؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00093",
+    "question_detail": "الاستعارة التي يُذكر فيها المشبَّه به فقط تسمى:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00094",
+    "question_detail": "من أدوات النداء:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00095",
+    "question_detail": "الجناس هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00096",
+    "question_detail": "الطباق هو الجمع بين:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00097",
+    "question_detail": "عبارة صحيحة أم خاطئة: الاستفهام قد يخرج عن معناه الحقيقي إلى معنى بلاغي كالتعجب.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: البلاغة والأساليب",
+  "total_marks": 12
+ },
+ {
+  "course": "774map39c2",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0104 اختبار الفصل: النصوص الأدبية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:20:28.096776",
+  "name": "77oterf799",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00099",
+    "question_detail": "من عناصر النص السردي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00100",
+    "question_detail": "النص الوصفي يعتمد بشكل أساسي على:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00101",
+    "question_detail": "المقالة الأدبية تتكون من:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00102",
+    "question_detail": "النص المسرحي يقوم أساساً على:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00103",
+    "question_detail": "عبارة صحيحة أم خاطئة: الإرشادات المسرحية توجيهات للحركة والأداء.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: النصوص الأدبية",
+  "total_marks": 10
+ },
+ {
+  "course": "774map39c2",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0110 اختبار الفصل: التعبير الكتابي",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:20:28.139796",
+  "name": "77png9g6pf",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00105",
+    "question_detail": "الفقرة الجيدة يجب أن تلتزم بـ:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00106",
+    "question_detail": "التعبير الوصفي يعتمد على:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00107",
+    "question_detail": "أول خطوة في التلخيص هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00108",
+    "question_detail": "الرسالة الرسمية تتضمن عنصراً ثابتاً هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00109",
+    "question_detail": "عبارة صحيحة أم خاطئة: التلخيص يسمح بإضافة رأي شخصي جديد.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: التعبير الكتابي",
+  "total_marks": 10
+ },
+ {
+  "course": "774map39c2",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0117 اختبار الفصل: الشعر العربي",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:20:28.181303",
+  "name": "77pv55iku4",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00111",
+    "question_detail": "البيت الشعري التقليدي يتكون من:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00112",
+    "question_detail": "واضع علم العروض هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00113",
+    "question_detail": "من خصائص الشعر الجاهلي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00114",
+    "question_detail": "الشعر الحر تميز بـ:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00115",
+    "question_detail": "القافية هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00116",
+    "question_detail": "عبارة صحيحة أم خاطئة: بحر الطويل من أكثر البحور استعمالاً في الشعر العربي.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الشعر العربي",
+  "total_marks": 12
+ },
+ {
+  "course": null,
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": null,
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 02:01:30.484357",
+  "name": "d8ul3hia5i",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00017",
+    "question_detail": "ما أول عمل ذكره النبي ﷺ عندما سُئل عن أحب الأعمال إلى الله؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00018",
+    "question_detail": "ماذا يجب على المسلم إذا أمره والداه بالشرك بالله؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00019",
+    "question_detail": "من صور بر الوالدين بعد وفاتهما؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00020",
+    "question_detail": "عدّ النبي ﷺ عقوق الوالدين من:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00021",
+    "question_detail": "ما معنى «خفض جناح الذل» الوارد في الآية تجاه الوالدين؟",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: بر الوالدين",
+  "total_marks": 10
+ },
+ {
+  "course": "cg8u8fn1uv",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0030 اختبار فضل الاستغفار",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:27:42.451407",
+  "name": "d90833nmk4",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00024",
+    "question_detail": "كم مرة كان النبي ﷺ يستغفر الله في اليوم كما ورد في الحديث؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00025",
+    "question_detail": "من ثمرات لزوم الاستغفار كما في حديث «من لزم الاستغفار...»؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00026",
+    "question_detail": "بماذا وصف النبي ﷺ من وجد في صحيفته استغفارًا كثيرًا؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00027",
+    "question_detail": "في أي سورة ورد ذكر الاستغفار مقترنًا بنزول المطر والأموال والبنين؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00028",
+    "question_detail": "ما اسم أفضل صيغة استغفار وردت عن النبي ﷺ؟",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: فضل الاستغفار",
+  "total_marks": 10
+ },
+ {
+  "course": "d3lofmsrrt",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0154 Évaluation du chapitre : Grammaire de base",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:38:28.318817",
+  "name": "valuation-grammaire-de-base",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00149",
+    "question_detail": "Quel article précède un nom féminin singulier ?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00150",
+    "question_detail": "Quel est le pluriel de « un animal » ?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00151",
+    "question_detail": "« Une histoire intéressante » : l'adjectif s'accorde en :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00152",
+    "question_detail": "Les noms terminés en -eau prennent au pluriel :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00153",
+    "question_detail": "Vrai ou faux : tous les noms français ont un genre (masculin ou féminin).",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Évaluation : Grammaire de base",
+  "total_marks": 10
+ },
+ {
+  "course": "d3lofmsrrt",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0161 Évaluation du chapitre : La conjugaison",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:33:31.210824",
+  "name": "valuation-la-conjugaison",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00155",
+    "question_detail": "« Je parle » est conjugué à quel groupe ?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00156",
+    "question_detail": "Quelle est la terminaison de « nous » au présent (1er groupe) ?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00157",
+    "question_detail": "Le passé composé se forme avec :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00158",
+    "question_detail": "« Je serai » est le futur simple du verbe :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00159",
+    "question_detail": "« Ils sont allés » utilise l'auxiliaire :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00160",
+    "question_detail": "Vrai ou faux : le verbe « finir » appartient au 2e groupe.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Évaluation : La conjugaison",
+  "total_marks": 12
+ },
+ {
+  "course": "d3lofmsrrt",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0167 Évaluation du chapitre : Le vocabulaire thématique",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:33:38.897026",
+  "name": "valuation-le-vocabulaire-th-matique",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00162",
+    "question_detail": "Le frère de mon père est mon :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00163",
+    "question_detail": "Quel mot désigne l'outil pour effacer ?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00164",
+    "question_detail": "Quelle couleur correspond au mélange du bleu et du jaune ?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00165",
+    "question_detail": "« content » est un synonyme de :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00166",
+    "question_detail": "L'antonyme de « chaud » est :",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Évaluation : Le vocabulaire thématique",
+  "total_marks": 10
+ },
+ {
+  "course": "d3lofmsrrt",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0174 Évaluation du chapitre : La compréhension de l'écrit",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:30:31.233791",
+  "name": "valuation-la-compr-hension-de-l-crit",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00168",
+    "question_detail": "Un texte narratif raconte :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00169",
+    "question_detail": "Le texte descriptif utilise surtout :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00170",
+    "question_detail": "« Il court comme un lièvre » est :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00171",
+    "question_detail": "Une métaphore rapproche deux éléments :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00172",
+    "question_detail": "Résumer un texte signifie :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00173",
+    "question_detail": "Vrai ou faux : le résumé doit être plus long que le texte original.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Évaluation : La compréhension de l'écrit",
+  "total_marks": 12
+ },
+ {
+  "course": "d3lofmsrrt",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0180 Évaluation du chapitre : L'expression écrite",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:30:31.285501",
+  "name": "valuation-l-expression-crite",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00175",
+    "question_detail": "Un bon paragraphe développe :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00176",
+    "question_detail": "La lettre amicale s'adresse à :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00177",
+    "question_detail": "Le récit imaginaire doit contenir :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00178",
+    "question_detail": "Pour décrire une personne, on fait un portrait :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00179",
+    "question_detail": "Vrai ou faux : les connecteurs logiques aident à relier les idées dans un paragraphe.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Évaluation : L'expression écrite",
+  "total_marks": 10
+ },
+ {
+  "course": "d3lofmsrrt",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0187 Évaluation du chapitre : Découverte de la littérature française",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:30:31.333842",
+  "name": "valuation-d-couverte-de-la-litt-rature-fran-aise",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00181",
+    "question_detail": "Jean de La Fontaine est célèbre pour ses :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00182",
+    "question_detail": "Le conte commence souvent par la formule :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00183",
+    "question_detail": "Des rimes de type ABAB sont appelées :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00184",
+    "question_detail": "Un quatrain est une strophe de :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00185",
+    "question_detail": "Le Petit Prince a été écrit par :",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00186",
+    "question_detail": "Vrai ou faux : chaque fable de La Fontaine se termine par une morale.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Évaluation : Découverte de la littérature française",
+  "total_marks": 12
+ },
+ {
+  "course": "g98dtn36i7",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0224 Quiz for Chapter: Basic Grammar - Present Tenses",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:35:56.310590",
+  "name": "quiz-basic-grammar-present-tenses",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00218",
+    "question_detail": "Which sentence uses the present simple correctly?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00219",
+    "question_detail": "Which sentence uses the present continuous?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00220",
+    "question_detail": "Choose the correct form: 'They ___ students.'",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00221",
+    "question_detail": "Which word asks about a place?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00222",
+    "question_detail": "Negative form of 'She plays tennis':",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00223",
+    "question_detail": "True or False: We use the present continuous for actions happening right now.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Quiz: Basic Grammar - Present Tenses",
+  "total_marks": 12
+ },
+ {
+  "course": "g98dtn36i7",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0230 Quiz for Chapter: Vocabulary Building",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:35:56.355421",
+  "name": "quiz-vocabulary-building",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00225",
+    "question_detail": "Your father's brother is your:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00226",
+    "question_detail": "Which word is used to erase pencil marks?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00227",
+    "question_detail": "'Happy' is a synonym of:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00228",
+    "question_detail": "The antonym of 'hot' is:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00229",
+    "question_detail": "A word that describes a person's character (e.g. kind, funny) is a/an:",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Quiz: Vocabulary Building",
+  "total_marks": 10
+ },
+ {
+  "course": "g98dtn36i7",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0236 Quiz for Chapter: Reading Comprehension",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:35:56.405307",
+  "name": "quiz-reading-comprehension",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00231",
+    "question_detail": "The main idea of a paragraph is usually found:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00232",
+    "question_detail": "Context clues help you understand:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00233",
+    "question_detail": "A descriptive text mainly uses:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00234",
+    "question_detail": "A short story usually contains:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00235",
+    "question_detail": "True or False: reading the title before reading a story can help you predict its content.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Quiz: Reading Comprehension",
+  "total_marks": 10
+ },
+ {
+  "course": "g98dtn36i7",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0242 Quiz for Chapter: Writing Skills",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:35:56.450342",
+  "name": "quiz-writing-skills",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00237",
+    "question_detail": "A topic sentence in a paragraph:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00238",
+    "question_detail": "A friendly letter usually starts with:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00239",
+    "question_detail": "A short story needs:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00240",
+    "question_detail": "Which punctuation mark ends a question?",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00241",
+    "question_detail": "True or False: proper nouns should start with a capital letter.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Quiz: Writing Skills",
+  "total_marks": 10
+ },
+ {
+  "course": "g98dtn36i7",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0248 Quiz for Chapter: Speaking and Listening",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:35:56.496249",
+  "name": "quiz-speaking-and-listening",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00243",
+    "question_detail": "A polite way to greet someone is:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00244",
+    "question_detail": "'Turn left at the corner' is an example of:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00245",
+    "question_detail": "'Nice to meet you' is used when:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00246",
+    "question_detail": "'It's half past four' means the time is:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00247",
+    "question_detail": "True or False: small talk can be about the weather or hobbies.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Quiz: Speaking and Listening",
+  "total_marks": 10
+ },
+ {
+  "course": "g98dtn36i7",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0255 Quiz for Chapter: Introduction to English Literature",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:35:56.549291",
+  "name": "quiz-introduction-to-english-literature",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00249",
+    "question_detail": "Aesop's fables usually feature:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00250",
+    "question_detail": "A rhyme scheme where lines 1-2 and 3-4 rhyme is called:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00251",
+    "question_detail": "William Shakespeare wrote:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00252",
+    "question_detail": "The theme of a story is:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00253",
+    "question_detail": "'The Tortoise and the Hare' teaches that:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00254",
+    "question_detail": "True or False: a stanza is a group of lines in a poem.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "Quiz: Introduction to English Literature",
+  "total_marks": 12
+ },
+ {
+  "course": "jdmprgcfb1",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0292 اختبار الفصل: الأعداد والعمليات الحسابية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 02:02:14.242161",
+  "name": "je7gnn75cl",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00286",
+    "question_detail": "ناتج (-5) + (+3) هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00287",
+    "question_detail": "ناتج (-3) × (-4) هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00288",
+    "question_detail": "حسب أولوية العمليات، ناتج 2 + 3 × 4 هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00289",
+    "question_detail": "2³ يساوي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00290",
+    "question_detail": "√16 يساوي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00291",
+    "question_detail": "صحيح أو خطأ: موجب × سالب = موجب.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الأعداد والعمليات الحسابية",
+  "total_marks": 12
+ },
+ {
+  "course": "jdmprgcfb1",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0298 اختبار الفصل: الكسور والأعداد العشرية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:41:17.631658",
+  "name": "je83hr3npi",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00293",
+    "question_detail": "ناتج 1/4 + 1/2 هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00294",
+    "question_detail": "ناتج 2/3 × 3/4 هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00295",
+    "question_detail": "25% من 200 يساوي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00296",
+    "question_detail": "لجمع كسرين يجب أن يكون لهما نفس:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00297",
+    "question_detail": "صحيح أو خطأ: لقسمة كسر على آخر نضربه في مقلوب الثاني.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الكسور والأعداد العشرية",
+  "total_marks": 10
+ },
+ {
+  "course": "jdmprgcfb1",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0304 اختبار الفصل: المعادلات من الدرجة الأولى",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:41:17.676508",
+  "name": "je81k1e4eo",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00299",
+    "question_detail": "حل المعادلة 2x + 3 = 11 هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00300",
+    "question_detail": "أول خطوة في حل المعادلة هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00301",
+    "question_detail": "عند الضرب في عدد سالب في متباينة، يجب:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00302",
+    "question_detail": "مجموع عددين متتاليين 25، فإن العدد الأصغر هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00303",
+    "question_detail": "صحيح أو خطأ: حل المعادلة هو القيمة التي تجعل الطرفين متساويين.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: المعادلات من الدرجة الأولى",
+  "total_marks": 10
+ },
+ {
+  "course": "jdmprgcfb1",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0311 اختبار الفصل: الهندسة - المساحة والمحيط",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:41:17.724017",
+  "name": "je8k6hr4gs",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00305",
+    "question_detail": "محيط مربع طول ضلعه 5 سم هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00306",
+    "question_detail": "مساحة مستطيل طوله 8 وعرضه 3 هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00307",
+    "question_detail": "مساحة المثلث تُحسب بالقانون:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00308",
+    "question_detail": "محيط الدائرة يساوي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00309",
+    "question_detail": "حجم المكعب الذي طول ضلعه 3 هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00310",
+    "question_detail": "صحيح أو خطأ: π يساوي تقريباً 3,14.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الهندسة - المساحة والمحيط",
+  "total_marks": 12
+ },
+ {
+  "course": "jdmprgcfb1",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0317 اختبار الفصل: الإحصاء والاحتمالات",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:41:17.771861",
+  "name": "je92h7lv6n",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00312",
+    "question_detail": "المتوسط الحسابي للأعداد 4، 6، 8 هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00313",
+    "question_detail": "احتمال الحصول على 4 عند رمي نرد هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00314",
+    "question_detail": "يتراوح الاحتمال بين:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00315",
+    "question_detail": "القطاع الدائري يُستعمل لتمثيل:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00316",
+    "question_detail": "صحيح أو خطأ: الوسيط هو القيمة الوسطى عند ترتيب البيانات.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الإحصاء والاحتمالات",
+  "total_marks": 10
+ },
+ {
+  "course": "jdmprgcfb1",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0324 اختبار الفصل: الدوال والتناسب",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:41:17.818339",
+  "name": "je9743e4jb",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00318",
+    "question_detail": "إذا كانت تكلفة 3 كتب 60 درهماً، فتكلفة الكتاب الواحد:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00319",
+    "question_detail": "في الجدول التناسبي نستعمل:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00320",
+    "question_detail": "الدالة الخطية على الشكل:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00321",
+    "question_detail": "تمثيل الدالة الخطية بيانياً هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00322",
+    "question_detail": "سيارة تسير بسرعة 80 كم/سا، المسافة المقطوعة في ساعتين هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00323",
+    "question_detail": "صحيح أو خطأ: كميتان متناسبتان طردياً إذا كانت إحداهما ثابتة دائماً.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الدوال والتناسب",
+  "total_marks": 12
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0360 اختبار الفصل: جهاز الهضم والتغذية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 02:07:41.564419",
+  "name": "m3unsgcsrh",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00355",
+    "question_detail": "أي عضو يبدأ الهضم الميكانيكي؟",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00356",
+    "question_detail": "امتصاص المغذيات يتم بشكل رئيسي في:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00357",
+    "question_detail": "مصدر الطاقة الرئيسي للجسم هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00358",
+    "question_detail": "من أسباب حموضة المعدة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00359",
+    "question_detail": "صحيح أو خطأ: التغذية المتوازنة تعني تناول فئة غذائية واحدة فقط.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: جهاز الهضم والتغذية",
+  "total_marks": 10
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0366 اختبار الفصل: التنفس والدورة الدموية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:47:49.739196",
+  "name": "m3v8aoguqo",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00361",
+    "question_detail": "يحدث تبادل الغازات في:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00362",
+    "question_detail": "عدد حجرات القلب هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00363",
+    "question_detail": "خلايا الدم التي تنقل الأكسجين هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00364",
+    "question_detail": "الدورة الدموية الصغرى تربط بين:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00365",
+    "question_detail": "صحيح أو خطأ: التدخين يضر بصحة الجهاز التنفسي.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: التنفس والدورة الدموية",
+  "total_marks": 10
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0372 اختبار الفصل: الصخور والتربة",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:45:52.001779",
+  "name": "m3v51e1hfp",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00367",
+    "question_detail": "الصخور النارية تتكون من:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00368",
+    "question_detail": "الرخام مثال على الصخور:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00369",
+    "question_detail": "التربة الدبالية غنية بـ:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00370",
+    "question_detail": "من طرق حماية التربة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00371",
+    "question_detail": "صحيح أو خطأ: التجوية هي المرحلة الأولى في تكوين التربة.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الصخور والتربة",
+  "total_marks": 10
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0378 اختبار الفصل: حالات المادة وتحولاتها",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:45:52.061355",
+  "name": "m40lf6ak71",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00373",
+    "question_detail": "في الحالة الصلبة، للمادة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00374",
+    "question_detail": "التحول من سائل إلى غاز يسمى:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00375",
+    "question_detail": "الكثافة تُحسب بالعلاقة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00376",
+    "question_detail": "خليط الماء والرمل يُعتبر:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00377",
+    "question_detail": "صحيح أو خطأ: التسامي هو تحول من صلب إلى غاز مباشرة.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: حالات المادة وتحولاتها",
+  "total_marks": 10
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0384 اختبار الفصل: الكهرباء",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:45:52.118942",
+  "name": "m40nsqcrf9",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00379",
+    "question_detail": "الدارة الكهربائية البسيطة تحتاج إلى:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00380",
+    "question_detail": "النحاس يُعتبر مادة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00381",
+    "question_detail": "في التوصيل على التوالي، إذا انقطعت الدارة في نقطة واحدة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00382",
+    "question_detail": "من قواعد السلامة الكهربائية:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00383",
+    "question_detail": "صحيح أو خطأ: البلاستيك مادة عازلة للكهرباء.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الكهرباء",
+  "total_marks": 10
+ },
+ {
+  "course": "m3bjdn9g0p",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0391 اختبار الفصل: المادة والتفاعلات الكيميائية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:45:52.180578",
+  "name": "m41vvqa83o",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00385",
+    "question_detail": "الذرة تتكون من نواة و:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00386",
+    "question_detail": "رمز عنصر الأكسجين هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00387",
+    "question_detail": "من مظاهر التفاعل الكيميائي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00388",
+    "question_detail": "شروط الاحتراق (مثلث النار) هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00389",
+    "question_detail": "محلول pH له أقل من 7 يُعتبر:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00390",
+    "question_detail": "صحيح أو خطأ: الماء النقي له pH يساوي 7 (متعادل).",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: المادة والتفاعلات الكيميائية",
+  "total_marks": 12
+ },
+ {
+  "course": "pjk2oak4r3",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0427 اختبار الفصل: تاريخ المغرب المعاصر",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:51:50.704278",
+  "name": "pk2um1vvbt",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00422",
+    "question_detail": "وُقّعت معاهدة الحماية الفرنسية على المغرب سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00423",
+    "question_detail": "حصل المغرب على استقلاله في:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00424",
+    "question_detail": "المسيرة الخضراء نُظمت سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00425",
+    "question_detail": "حزب الاستقلال قدّم وثيقة المطالبة بالاستقلال سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00426",
+    "question_detail": "صحيح أو خطأ: نُفي السلطان محمد الخامس خلال فترة الاستعمار.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: تاريخ المغرب المعاصر",
+  "total_marks": 10
+ },
+ {
+  "course": "pjk2oak4r3",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0433 اختبار الفصل: الحضارات والاكتشافات الكبرى",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:51:50.753966",
+  "name": "pk31bber4l",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00428",
+    "question_detail": "ازدهرت حضارة مصر القديمة على ضفاف نهر:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00429",
+    "question_detail": "الخوارزمي معروف بتأسيس علم:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00430",
+    "question_detail": "وصل كريستوف كولومب إلى القارة الأمريكية سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00431",
+    "question_detail": "الثورة الصناعية بدأت في:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00432",
+    "question_detail": "صحيح أو خطأ: شريعة حمورابي من أقدم القوانين المكتوبة.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الحضارات والاكتشافات الكبرى",
+  "total_marks": 10
+ },
+ {
+  "course": "pjk2oak4r3",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0439 اختبار الفصل: جغرافيا المغرب",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:51:50.799085",
+  "name": "pk3ftng8l4",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00434",
+    "question_detail": "من السلاسل الجبلية بالمغرب:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00435",
+    "question_detail": "المناخ المتوسطي يسود في:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00436",
+    "question_detail": "من الأنهار الكبرى بالمغرب:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00437",
+    "question_detail": "تعتمد السهول الأطلسية أساساً على:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00438",
+    "question_detail": "صحيح أو خطأ: يعاني المغرب من محدودية الموارد المائية.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: جغرافيا المغرب",
+  "total_marks": 10
+ },
+ {
+  "course": "pjk2oak4r3",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0445 اختبار الفصل: الجغرافيا العامة",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:51:50.847974",
+  "name": "pk44oa508p",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00440",
+    "question_detail": "أكبر قارات العالم مساحة وسكاناً هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00441",
+    "question_detail": "النطاق المناخي الحار والرطب طوال السنة هو:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00442",
+    "question_detail": "الكثافة السكانية مرتفعة عادة في:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00443",
+    "question_detail": "العولمة تعني:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00444",
+    "question_detail": "صحيح أو خطأ: أوقيانوسيا هي أصغر قارات العالم.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الجغرافيا العامة",
+  "total_marks": 10
+ },
+ {
+  "course": "pjk2oak4r3",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0451 اختبار الفصل: الحقوق والواجبات",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:51:50.896252",
+  "name": "pk4bo8fcar",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00446",
+    "question_detail": "اتفاقية حقوق الطفل اعتمدتها الأمم المتحدة سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00447",
+    "question_detail": "الإعلان العالمي لحقوق الإنسان صدر سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00448",
+    "question_detail": "من واجبات المواطن:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00449",
+    "question_detail": "المواطنة تعني:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00450",
+    "question_detail": "صحيح أو خطأ: من حقوق الطفل الحق في التعليم والصحة.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: الحقوق والواجبات",
+  "total_marks": 10
+ },
+ {
+  "course": "pjk2oak4r3",
+  "docstatus": 0,
+  "doctype": "LMS Quiz",
+  "duration": null,
+  "enable_negative_marking": 0,
+  "lesson": "0458 اختبار الفصل: المؤسسات والديمقراطية",
+  "limit_questions_to": 0,
+  "marks_to_cut": 1,
+  "max_attempts": 0,
+  "modified": "2026-07-09 01:51:50.947407",
+  "name": "pk5ledks76",
+  "passing_percentage": 60,
+  "questions": [
+   {
+    "marks": 2,
+    "question": "QTS-2026-00452",
+    "question_detail": "اعتمد المغرب دستوره الحالي سنة:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00453",
+    "question_detail": "السلطة التي تسن القوانين هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00454",
+    "question_detail": "يمثل السلطة التشريعية في المغرب:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00455",
+    "question_detail": "السن القانونية للتصويت في المغرب هي:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00456",
+    "question_detail": "اللامركزية تهدف إلى:",
+    "type": "Choices"
+   },
+   {
+    "marks": 2,
+    "question": "QTS-2026-00457",
+    "question_detail": "صحيح أو خطأ: السلطة القضائية تسهر على تطبيق القانون بشكل مستقل.",
+    "type": "Choices"
+   }
+  ],
+  "show_answers": 1,
+  "show_submission_history": 0,
+  "shuffle_questions": 0,
+  "title": "اختبار: المؤسسات والديمقراطية",
+  "total_marks": 12
+ }
+]

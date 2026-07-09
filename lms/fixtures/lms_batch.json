@@ -1,0 +1,312 @@
+[
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>القسم الأول يجمع الطلبة المسجلين في الدورات الأساسية للمستوى الإعدادي.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "774map39c2",
+    "evaluator": null,
+    "title": "اللغة العربية"
+   },
+   {
+    "course": "jdmprgcfb1",
+    "evaluator": null,
+    "title": "الرياضيات"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "القسم الأول يجمع الطلبة المسجلين في الدورات الأساسية للمستوى الإعدادي.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-09 02:34:12.125994",
+  "name": "ie97rn7lml",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-07",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "القسم الأول",
+  "video_link": null,
+  "zoom_account": null
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>القسم الثاني مخصص لمتابعة دورات اللغات الأجنبية والعلوم.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "d3lofmsrrt",
+    "evaluator": null,
+    "title": "اللغة الفرنسية"
+   },
+   {
+    "course": "g98dtn36i7",
+    "evaluator": null,
+    "title": "اللغة الإنجليزية"
+   },
+   {
+    "course": "m3bjdn9g0p",
+    "evaluator": null,
+    "title": "العلوم"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "القسم الثاني مخصص لمتابعة دورات اللغات الأجنبية والعلوم.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-09 02:34:12.218417",
+  "name": "ieahqliirm",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-07",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "القسم الثاني",
+  "video_link": null,
+  "zoom_account": null
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>القسم الثالث يركز على المواد العلمية والاجتماعية.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "jdmprgcfb1",
+    "evaluator": null,
+    "title": "الرياضيات"
+   },
+   {
+    "course": "m3bjdn9g0p",
+    "evaluator": null,
+    "title": "العلوم"
+   },
+   {
+    "course": "pjk2oak4r3",
+    "evaluator": null,
+    "title": "الاجتماعيات"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "القسم الثالث يركز على المواد العلمية والاجتماعية.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-09 02:34:12.245003",
+  "name": "ieaao98cvl",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-14",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "القسم الثالث",
+  "video_link": null,
+  "zoom_account": null
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>القسم الرابع يجمع بين اللغة العربية والتربية الإسلامية والاجتماعيات.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "774map39c2",
+    "evaluator": null,
+    "title": "اللغة العربية"
+   },
+   {
+    "course": "pjk2oak4r3",
+    "evaluator": null,
+    "title": "الاجتماعيات"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "القسم الرابع يجمع بين اللغة العربية والتربية الإسلامية والاجتماعيات.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-09 02:34:12.262608",
+  "name": "iea50g2lo5",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-14",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "القسم الرابع",
+  "video_link": null,
+  "zoom_account": null
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>القسم الخامس مخصص للطلبة المتابعين لجميع المواد اللغوية.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "774map39c2",
+    "evaluator": null,
+    "title": "اللغة العربية"
+   },
+   {
+    "course": "d3lofmsrrt",
+    "evaluator": null,
+    "title": "اللغة الفرنسية"
+   },
+   {
+    "course": "g98dtn36i7",
+    "evaluator": null,
+    "title": "اللغة الإنجليزية"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "القسم الخامس مخصص للطلبة المتابعين لجميع المواد اللغوية.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-09 02:34:12.280346",
+  "name": "iea3gss1nd",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-21",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "القسم الخامس",
+  "video_link": null,
+  "zoom_account": null
+ }
+]

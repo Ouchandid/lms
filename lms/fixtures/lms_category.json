@@ -1,5 +1,12 @@
 [
  {
+  "category": "اللغة العربية",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-09 01:20:25.931307",
+  "name": "اللغة العربية"
+ },
+ {
   "category": "Web Development",
   "docstatus": 0,
   "doctype": "LMS Category",
@@ -47,5 +54,40 @@
   "doctype": "LMS Category",
   "modified": "2023-06-15 18:01:41.598282",
   "name": "Framework"
+ },
+ {
+  "category": "اللغة الفرنسية",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-09 01:30:29.267694",
+  "name": "اللغة الفرنسية"
+ },
+ {
+  "category": "اللغة الإنجليزية",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-09 01:35:54.423457",
+  "name": "اللغة الإنجليزية"
+ },
+ {
+  "category": "الرياضيات",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-09 01:41:15.782737",
+  "name": "الرياضيات"
+ },
+ {
+  "category": "العلوم",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-09 01:45:49.884092",
+  "name": "العلوم"
+ },
+ {
+  "category": "الاجتماعيات",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-09 01:51:49.202409",
+  "name": "الاجتماعيات"
  }
 ]

@@ -77,6 +77,7 @@ before_uninstall = "lms.install.before_uninstall"
 setup_wizard_complete = "lms.demo.demo_data.create_demo_data"
 after_migrate = [
 	"lms.sqlite.build_index_in_background",
+	"lms.demo.seed_demo_media.copy_seed_files",
 ]
 
 # Desk Notifications
@@ -152,7 +153,28 @@ scheduler_events = {
 	],
 }
 
-fixtures = ["Custom Field", "Function", "Industry", "LMS Category"]
+fixtures = [
+	"Custom Field",
+	"Function",
+	"Industry",
+	"LMS Category",
+	"Website Settings",
+	"LMS Course",
+	"Course Chapter",
+	"Course Lesson",
+	"LMS Quiz",
+	"LMS Question",
+	"LMS Program",
+	"LMS Batch",
+	"LMS Enrollment",
+	"LMS Course Progress",
+	"LMS Batch Enrollment",
+	"LMS Certificate",
+	{
+		"doctype": "User",
+		"filters": [["name", "like", "%@example.com"]],
+	},
+]
 
 # Testing
 # -------

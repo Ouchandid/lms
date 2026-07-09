@@ -1,9 +1,9 @@
 <template>
-	<div class="p-2">
+	<div class="px-2 pt-0 pb-0 flex-shrink-0">
 		<Dropdown :options="userDropdownOptions">
 			<template v-slot="{ open, close }">
 				<button
-					class="flex h-12 py-2 items-center rounded-md duration-300 ease-in-out"
+					class="flex flex-col items-center py-0 rounded-md duration-300 ease-in-out"
 					:class="
 						isCollapsed
 							? 'px-0 w-auto'
@@ -12,45 +12,31 @@
 							: 'hover:bg-surface-gray-3 px-2 w-52'
 					"
 				>
-					<img
-						v-if="branding.data?.banner_image"
-						:src="branding.data?.banner_image.file_url"
-						class="w-8 h-8 rounded flex-shrink-0"
-					/>
-					<LMSLogo v-else class="w-8 h-8 rounded flex-shrink-0" />
-					<div
-						class="flex flex-1 flex-col text-start duration-300 ease-in-out"
-						:class="
-							isCollapsed
-								? 'opacity-0 ms-0 w-0 overflow-hidden'
-								: 'opacity-100 ms-2 w-auto'
-						"
-					>
-						<div class="text-base-medium text-ink-gray-9 leading-none">
-							<span
-								v-if="
-									branding.data?.app_name && branding.data?.app_name != 'Frappe'
-								"
-							>
-								{{ branding.data?.app_name }}
-							</span>
-							<span v-else> Learning </span>
-						</div>
-						<div
-							v-if="userResource.data"
-							class="mt-1 text-sm text-ink-gray-7 leading-none"
-						>
-							{{ convertToTitleCase(userResource.data?.full_name) }}
-						</div>
+					<div class="sidebar-logo-wrap relative flex-shrink-0">
+						<img
+							v-if="branding.data?.banner_image"
+							:src="branding.data?.banner_image.file_url"
+							class="flex-shrink-0 object-contain duration-300 ease-in-out"
+							:class="isCollapsed ? 'w-10 h-10' : 'w-44 h-44'"
+						/>
+						<LMSLogo
+							v-else
+							class="flex-shrink-0 duration-300 ease-in-out"
+							:class="isCollapsed ? 'w-10 h-10' : 'w-44 h-44'"
+						/>
 					</div>
 					<div
-						class="duration-300 ease-in-out"
+						v-if="userResource.data"
+						class="flex items-center gap-1 duration-300 ease-in-out"
 						:class="
 							isCollapsed
-								? 'opacity-0 ms-0 w-0 overflow-hidden'
-								: 'opacity-100 ms-2 w-auto'
+								? 'opacity-0 h-0 overflow-hidden'
+								: 'opacity-100 h-auto mt-1'
 						"
 					>
+						<span class="text-sm text-ink-gray-7 leading-none">
+							{{ convertToTitleCase(userResource.data?.full_name) }}
+						</span>
 						<span class="lucide-chevron-down h-4 w-4 text-ink-gray-7" />
 					</div>
 				</button>

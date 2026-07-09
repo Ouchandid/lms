@@ -1,0 +1,402 @@
+[
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "اللغة العربية",
+  "chapters": [
+   {
+    "chapter": "0047 القواعد النحوية الأساسية"
+   },
+   {
+    "chapter": "0052 الصرف والاشتقاق"
+   },
+   {
+    "chapter": "0057 البلاغة والأساليب"
+   },
+   {
+    "chapter": "0062 النصوص الأدبية"
+   },
+   {
+    "chapter": "0067 التعبير الكتابي"
+   },
+   {
+    "chapter": "0072 الشعر العربي"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "دورة شاملة في اللغة العربية للمستوى الإعدادي، تغطي القواعد النحوية والصرفية، والبلاغة، والنصوص الأدبية، ومهارات التعبير الكتابي، إضافة إلى الشعر العربي. صُممت الدورة لتنمية ملكة اللغة لدى المتعلم قراءة وكتابة وتحليلاً.",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 8,
+  "evaluator": null,
+  "featured": 0,
+  "image": "",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 31,
+  "modified": "2026-07-09 03:00:03.644536",
+  "name": "774map39c2",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "دورة شاملة في قواعد اللغة العربية وبلاغتها ونصوصها الأدبية للمستوى الإعدادي.",
+  "status": "Approved",
+  "tags": "المستوى: الإعدادي, اللغة العربية",
+  "timezone": null,
+  "title": "اللغة العربية",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": null,
+  "chapters": [
+   {
+    "chapter": "0003 المقدمة"
+   },
+   {
+    "chapter": "0011 فضل الاستغفار في القرآن والسنة"
+   },
+   {
+    "chapter": "0014 آداب الاستغفار وثمراته"
+   },
+   {
+    "chapter": "0029 التقييم"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": null,
+  "description": "دورة تتناول فضل الاستغفار وأثره العظيم في حياة المسلم، وبيان آداب التوبة والاستغفار، وثمارها في الدنيا والآخرة.",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 2,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/فضل الاستغفار.png",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 6,
+  "modified": "2026-07-09 03:00:03.640529",
+  "name": "cg8u8fn1uv",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "تعرّف على فضل الاستغفار وثماره في الدنيا والآخرة.",
+  "status": "Approved",
+  "tags": null,
+  "timezone": null,
+  "title": "فضل الاستغفار",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "اللغة الإنجليزية",
+  "chapters": [
+   {
+    "chapter": "0188 Basic Grammar: Present Tenses"
+   },
+   {
+    "chapter": "0193 Vocabulary Building"
+   },
+   {
+    "chapter": "0198 Reading Comprehension"
+   },
+   {
+    "chapter": "0203 Writing Skills"
+   },
+   {
+    "chapter": "0208 Speaking and Listening"
+   },
+   {
+    "chapter": "0213 Introduction to English Literature"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "دورة شاملة لتعلم اللغة الإنجليزية للمستوى الإعدادي، تغطي القواعد الأساسية، وبناء المفردات، وفهم المقروء، ومهارات الكتابة، إضافة إلى مهارات التحدث والاستماع ومدخل إلى الأدب الإنجليزي.",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 7,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/english-coursed44bec.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 30,
+  "modified": "2026-07-09 03:00:03.634619",
+  "name": "g98dtn36i7",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "دورة شاملة لتعلم قواعد اللغة الإنجليزية ومفرداتها ومهاراتها الأربع للمستوى الإعدادي.",
+  "status": "Approved",
+  "tags": "المستوى: الإعدادي, اللغة الإنجليزية",
+  "timezone": null,
+  "title": "اللغة الإنجليزية",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "الرياضيات",
+  "chapters": [
+   {
+    "chapter": "0256 الأعداد والعمليات الحسابية"
+   },
+   {
+    "chapter": "0261 الكسور والأعداد العشرية"
+   },
+   {
+    "chapter": "0266 المعادلات من الدرجة الأولى"
+   },
+   {
+    "chapter": "0271 الهندسة: المساحة والمحيط"
+   },
+   {
+    "chapter": "0276 الإحصاء والاحتمالات"
+   },
+   {
+    "chapter": "0281 الدوال والتناسب"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "دورة شاملة في الرياضيات للمستوى الإعدادي، تغطي الأعداد والعمليات الحسابية، والكسور والأعداد العشرية، والمعادلات من الدرجة الأولى، والهندسة (المساحة والمحيط)، والإحصاء والاحتمالات، والدوال والتناسب.",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 9,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/math-course5a95d7.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 30,
+  "modified": "2026-07-09 03:00:03.631481",
+  "name": "jdmprgcfb1",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "دورة شاملة في أساسيات الرياضيات والجبر والهندسة والإحصاء للمستوى الإعدادي.",
+  "status": "Approved",
+  "tags": "المستوى: الإعدادي, الرياضيات",
+  "timezone": null,
+  "title": "الرياضيات",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "العلوم",
+  "chapters": [
+   {
+    "chapter": "0325 علوم الحياة: جهاز الهضم والتغذية"
+   },
+   {
+    "chapter": "0330 علوم الحياة: التنفس والدورة الدموية"
+   },
+   {
+    "chapter": "0335 علوم الأرض: الصخور والتربة"
+   },
+   {
+    "chapter": "0340 الفيزياء: حالات المادة وتحولاتها"
+   },
+   {
+    "chapter": "0345 الفيزياء: الكهرباء"
+   },
+   {
+    "chapter": "0350 الكيمياء: المادة والتفاعلات"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "دورة شاملة في العلوم (علوم الحياة والأرض، الفيزياء، الكيمياء) للمستوى الإعدادي، تغطي جهاز الهضم والتنفس والدورة الدموية، والصخور والتربة، وحالات المادة، والكهرباء، والتفاعلات الكيميائية الأساسية.",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 8,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/science-course3ff6d6.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 30,
+  "modified": "2026-07-09 03:00:03.628285",
+  "name": "m3bjdn9g0p",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "دورة شاملة في علوم الحياة والأرض والفيزياء والكيمياء للمستوى الإعدادي.",
+  "status": "Approved",
+  "tags": "المستوى: الإعدادي, العلوم",
+  "timezone": null,
+  "title": "العلوم",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "الاجتماعيات",
+  "chapters": [
+   {
+    "chapter": "0392 تاريخ المغرب المعاصر"
+   },
+   {
+    "chapter": "0397 التاريخ العام: الحضارات والاكتشافات الكبرى"
+   },
+   {
+    "chapter": "0402 جغرافيا المغرب: التضاريس والمناخ"
+   },
+   {
+    "chapter": "0407 الجغرافيا العامة: القارات والمناخات"
+   },
+   {
+    "chapter": "0412 التربية على المواطنة: الحقوق والواجبات"
+   },
+   {
+    "chapter": "0417 المؤسسات والديمقراطية"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "دورة شاملة في الاجتماعيات (التاريخ والجغرافيا والتربية على المواطنة) للمستوى الإعدادي، تغطي تاريخ المغرب المعاصر، والتاريخ العام، وجغرافيا المغرب والعالم، والحقوق والواجبات، والمؤسسات الدستورية.",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 7,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/social-course2e19d2.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 30,
+  "modified": "2026-07-09 03:00:03.623166",
+  "name": "pjk2oak4r3",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "دورة شاملة في التاريخ والجغرافيا والتربية على المواطنة للمستوى الإعدادي.",
+  "status": "Approved",
+  "tags": "المستوى: الإعدادي, الاجتماعيات",
+  "timezone": null,
+  "title": "الاجتماعيات",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "اللغة الفرنسية",
+  "chapters": [
+   {
+    "chapter": "0119 Grammaire de base : les articles et le genre"
+   },
+   {
+    "chapter": "0124 La conjugaison : le présent de l'indicatif"
+   },
+   {
+    "chapter": "0129 Le vocabulaire thématique"
+   },
+   {
+    "chapter": "0134 La compréhension de l'écrit"
+   },
+   {
+    "chapter": "0139 L'expression écrite"
+   },
+   {
+    "chapter": "0144 Découverte de la littérature française"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "دورة شاملة لتعلم اللغة الفرنسية للمستوى الإعدادي، تغطي القواعد الأساسية والتصريف، والمفردات الموضوعاتية، وفهم النصوص المكتوبة، ومهارات التعبير الكتابي، إضافة إلى مدخل إلى الأدب الفرنسي (الخرافات والقصص والشعر).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 7,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/french-course84e41b.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 30,
+  "modified": "2026-07-09 03:00:03.637527",
+  "name": "d3lofmsrrt",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-09",
+  "rating": "0.0",
+  "related_courses": [],
+  "short_introduction": "دورة شاملة لتعلم قواعد اللغة الفرنسية ومفرداتها ونصوصها للمستوى الإعدادي.",
+  "status": "Approved",
+  "tags": "المستوى: الإعدادي, اللغة الفرنسية",
+  "timezone": null,
+  "title": "اللغة الفرنسية",
+  "upcoming": 0,
+  "video_link": null
+ }
+]
