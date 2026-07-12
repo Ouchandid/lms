@@ -76,7 +76,7 @@
 
 html,
 body {
-	background-color: #efe7d5; /* --bg-0 — kills any white sliver at the
+	background-color: #eeeeec; /* --bg-0 — kills any white sliver at the
 	viewport edges behind the app root */
 }
 body {
@@ -150,7 +150,7 @@ h3 {
    would be a bug, not a feature). */
 #app,
 div.bg-surface-base {
-	background-color: #efe7d5;
+	background-color: #eeeeec;
 	background-image: url('./assets/images/bg-arabesk.png');
 	background-size: 220px auto;
 	background-repeat: repeat;
