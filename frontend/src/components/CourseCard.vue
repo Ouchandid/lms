@@ -222,6 +222,18 @@ const badgeLabel = computed(() => props.course.category || '')
 	padding: 12px 14px 14px;
 }
 
+/* CourseInstructors/UserAvatar default to text-ink-gray-7, a muted gray
+   meant for light cards — illegible on the footer's dark navy/emerald
+   background, so force it light here. */
+.course-card-footer .text-ink-gray-7,
+.course-card-footer .text-ink-gray-6,
+.course-card-footer .text-ink-gray-5 {
+	color: rgba(255, 255, 255, 0.85) !important;
+}
+.course-card-footer .text-ink-gray-7:hover {
+	color: #fff !important;
+}
+
 .course-card-pills {
 	background: #ffffff;
 	margin-left: 0;
