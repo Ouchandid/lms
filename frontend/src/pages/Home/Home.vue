@@ -182,11 +182,11 @@ usePageMeta(() => {
 </script>
 <style>
 .home-hero-title {
-	font-family: 'Rakkas', 'Aref Ruqaa', serif;
-	font-weight: 400;
-	font-size: 3rem;
-	line-height: 1.3;
+	font-family: 'maghribiassile';
 	color: #0b5540;
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	font-size: 50px;
+	line-height: 60px;
+	text-align: center;
+	margin-top: 30px;
 }
 </style>

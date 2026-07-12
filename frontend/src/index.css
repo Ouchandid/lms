@@ -1,7 +1,16 @@
 @import 'frappe-ui/style.css';
 @import './styles/codemirror.css';
 @import './styles/blockEditor.css';
-@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400%3B700&family=Amiri:ital,wght@0,400%3B0,700%3B1,400&family=Tajawal:wght@300%3B400%3B500%3B700%3B800&family=Rakkas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400%3B700&family=Amiri:ital,wght@0,400%3B0,700%3B1,400&family=Tajawal:wght@300%3B400%3B500%3B700%3B800&display=swap');
+
+@font-face {
+	font-family: 'maghribiassile';
+	src: url('./assets/fonts/MaghribiAssile.woff') format('woff'),
+		url('./assets/fonts/MaghribiAssile.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
 
 /* ---------------------------------------------------------------------
    Islamic academy theme — Moroccan emerald/gold palette on a warm
