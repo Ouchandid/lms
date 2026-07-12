@@ -183,8 +183,8 @@ usePageMeta(() => {
 <style>
 .home-hero-title {
 	font-family: 'Aref Ruqaa', 'Amiri', serif;
-	font-weight: 700;
-	font-size: 2.75rem;
+	font-weight: 400;
+	font-size: 3rem;
 	line-height: 1.3;
 	color: #0b5540;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
