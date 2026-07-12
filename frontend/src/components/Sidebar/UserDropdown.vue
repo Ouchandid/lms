@@ -14,30 +14,10 @@
 				>
 					<div class="sidebar-logo-wrap relative flex-shrink-0">
 						<img
-							v-if="branding.data?.banner_image"
-							:src="branding.data?.banner_image.file_url"
+							:src="sidebarLogo"
 							class="flex-shrink-0 object-contain duration-300 ease-in-out"
 							:class="isCollapsed ? 'w-10 h-10' : 'w-44 h-44'"
 						/>
-						<LMSLogo
-							v-else
-							class="flex-shrink-0 duration-300 ease-in-out"
-							:class="isCollapsed ? 'w-10 h-10' : 'w-44 h-44'"
-						/>
-					</div>
-					<div
-						v-if="userResource.data"
-						class="flex items-center gap-1 duration-300 ease-in-out"
-						:class="
-							isCollapsed
-								? 'opacity-0 h-0 overflow-hidden'
-								: 'opacity-100 h-auto mt-1'
-						"
-					>
-						<span class="text-sm text-ink-gray-7 leading-none">
-							{{ convertToTitleCase(userResource.data?.full_name) }}
-						</span>
-						<span class="lucide-chevron-down h-4 w-4 text-ink-gray-7" />
 					</div>
 				</button>
 			</template>
@@ -53,7 +33,6 @@
 import { sessionStore } from '@/stores/session'
 import { call, Dropdown, toast } from 'frappe-ui'
 import { useRouter } from 'vue-router'
-import { convertToTitleCase } from '@/utils'
 import { applyTheme, toggleTheme, theme } from '@/utils/theme'
 import { usersStore } from '@/stores/user'
 import { useSettings } from '@/stores/settings'
@@ -62,12 +41,12 @@ import { createDialog } from '@/utils/dialogs'
 import Apps from '@/components/Sidebar/Apps.vue'
 import Configuration from '@/components/Sidebar/Configuration.vue'
 import FrappeCloudIcon from '@/components/Icons/FrappeCloudIcon.vue'
-import LMSLogo from '@/components/Icons/LMSLogo.vue'
 import SettingsModal from '@/components/Settings/Settings.vue'
 import { Moon, Sun } from 'lucide-vue-next'
+import sidebarLogo from '@/assets/images/logo-sidebar.png'
 
 const router = useRouter()
-const { logout, branding } = sessionStore()
+const { logout } = sessionStore()
 let { userResource } = usersStore()
 const settingsStore = useSettings()
 let { isLoggedIn } = sessionStore()

@@ -247,16 +247,6 @@ div.bg-surface-base {
 	box-shadow: 0 0 10px rgba(184, 145, 47, 0.8);
 }
 
-/* Logo frame — matches .sidebar .brand-mark: a soft cream/gold card behind
-   the crest instead of it floating bare on the emerald gradient. */
-.bg-surface-sidebar img[src*='files'] {
-	background: linear-gradient(150deg, #fffdf8, #f2e6c6);
-	border: 1px solid rgba(184, 145, 47, 0.5);
-	border-radius: 14px;
-	padding: 6px;
-	box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.35);
-}
-
 /* Logo triangle accent — a small emerald/gold corner flag peeking from
    behind the crest card, echoing the pennant motif used across the theme. */
 .sidebar-logo-wrap::before {
