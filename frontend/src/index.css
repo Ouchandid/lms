@@ -80,8 +80,9 @@ body {
 	viewport edges behind the app root */
 }
 body {
-	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMS4xJyBvcGFjaXR5PScwLjUnPjxyZWN0IHg9JzE2JyB5PScxNicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJy8+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInIHRyYW5zZm9ybT0ncm90YXRlKDQ1IDMyIDMyKScvPjxjaXJjbGUgY3g9JzMyJyBjeT0nMzInIHI9JzYnLz48L2c+PC9zdmc+');
-	background-size: 64px 64px;
+	background-image: url('./assets/images/bg-arabesk.png');
+	background-size: 160px auto;
+	background-repeat: repeat;
 }
 
 /* Style the scrollbar itself — an unstyled native scrollbar (track/buttons)
@@ -150,8 +151,9 @@ h3 {
 #app,
 div.bg-surface-base {
 	background-color: #efe7d5;
-	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMScgb3BhY2l0eT0nMC4wNSc+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInLz48cmVjdCB4PScxNicgeT0nMTYnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdHJhbnNmb3JtPSdyb3RhdGUoNDUgMzIgMzIpJy8+PGNpcmNsZSBjeD0nMzInIGN5PSczMicgcj0nNicvPjwvZz48L3N2Zz4=');
-	background-size: 120px 120px;
+	background-image: url('./assets/images/bg-arabesk.png');
+	background-size: 220px auto;
+	background-repeat: repeat;
 }
 #app {
 	min-height: 100vh;
@@ -175,10 +177,10 @@ div.bg-surface-base {
 	position: absolute;
 	inset: 0;
 	pointer-events: none;
-	background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2NCcgaGVpZ2h0PSc2NCcgdmlld0JveD0nMCAwIDY0IDY0Jz48ZyBmaWxsPSdub25lJyBzdHJva2U9JyMwRjZCNEYnIHN0cm9rZS13aWR0aD0nMS4xJyBvcGFjaXR5PScwLjUnPjxyZWN0IHg9JzE2JyB5PScxNicgd2lkdGg9JzMyJyBoZWlnaHQ9JzMyJy8+PHJlY3QgeD0nMTYnIHk9JzE2JyB3aWR0aD0nMzInIGhlaWdodD0nMzInIHRyYW5zZm9ybT0ncm90YXRlKDQ1IDMyIDMyKScvPjxjaXJjbGUgY3g9JzMyJyBjeT0nMzInIHI9JzYnLz48L2c+PC9zdmc+');
-	background-size: 74px 74px;
-	opacity: 0.16;
-	filter: brightness(4);
+	background-image: url('./assets/images/bg-arabesk.png');
+	background-size: 130px auto;
+	background-repeat: repeat;
+	opacity: 0.35;
 	mask-image: linear-gradient(180deg, black, transparent 70%);
 	-webkit-mask-image: linear-gradient(180deg, black, transparent 70%);
 }
