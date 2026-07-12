@@ -1,28 +1,47 @@
 <template>
 	<div
 		v-if="course.title"
-		class="flex flex-col h-full rounded-md overflow-auto text-ink-gray-9 bg-surface-elevation-1"
+		class="flex flex-col h-full rounded-md overflow-hidden text-ink-gray-9 shadow-sm"
 		style="min-height: 350px"
 	>
 		<div
-			class="relative w-[100%] h-[168px] border-t border-x rounded-t-md overflow-hidden course-card-thumb"
+			class="relative w-[100%] h-[190px] overflow-hidden course-card-thumb"
 			:class="brandTone"
+			:style="course.image ? { backgroundImage: `url(${course.image})` } : {}"
 		>
-			<div class="course-card-thumb-pattern" />
-			<span
-				class="course-card-thumb-icon"
-				:class="brandIcon"
-			/>
+			<template v-if="!course.image">
+				<div class="course-card-thumb-pattern" />
+				<span class="course-card-thumb-icon" :class="brandIcon" />
+			</template>
+			<div class="course-card-thumb-scrim" />
+
+			<span class="course-card-badge-icon" :class="brandIcon" />
+
 			<div
 				v-if="badgeLabel"
-				class="absolute bottom-2.5 inset-inline-start-2.5 flex items-center gap-1.5 bg-surface-white/90 text-ink-gray-8 text-xs font-medium px-2.5 py-1 rounded-full shadow-sm"
+				class="absolute top-2.5 inset-inline-end-2.5 flex items-center gap-1.5 bg-surface-white/90 text-ink-gray-8 text-xs font-medium px-2.5 py-1 rounded-full shadow-sm"
 			>
 				<span class="size-1.5 rounded-full bg-surface-green-3" />
 				{{ badgeLabel }}
 			</div>
+
+			<div class="course-card-thumb-title">
+				<div
+					class="font-semibold leading-6 text-white"
+					:class="course.title.length > 32 ? 'text-lg' : 'text-2xl'"
+				>
+					{{ course.title }}
+				</div>
+				<div class="short-introduction text-sm text-white/85">
+					{{ course.short_introduction }}
+				</div>
+			</div>
 		</div>
-		<div class="flex flex-col flex-auto p-4 border-x-2 border-b-2 rounded-b-md">
-			<div class="flex items-center justify-between mb-2">
+		<div
+			class="flex flex-col flex-auto p-4 course-card-footer"
+			:class="brandTone"
+		>
+			<div class="flex items-center justify-between mb-2 text-white/90">
 				<div v-if="course.lessons">
 					<Tooltip :text="__('Lessons')">
 						<span class="flex items-center">
@@ -44,9 +63,7 @@
 				<div v-if="course.rating">
 					<Tooltip :text="__('Average Rating')">
 						<span class="flex items-center">
-							<LucideStar
-								class="size-4 me-1 text-transparent fill-yellow-500"
-							/>
+							<LucideStar class="size-4 me-1 text-transparent fill-yellow-400" />
 							{{ formatRating(course.rating) }}
 						</span>
 					</Tooltip>
@@ -57,23 +74,15 @@
 				</Tooltip>
 			</div>
 
-			<div
-				class="font-semibold leading-6"
-				:class="course.title.length > 32 ? 'text-xl' : 'text-3xl'"
-			>
-				{{ course.title }}
-			</div>
-
-			<div class="short-introduction text-sm">
-				{{ course.short_introduction }}
-			</div>
-
 			<ProgressBar
 				v-if="user && course.membership"
 				:progress="course.membership.progress"
 			/>
 
-			<div v-if="user && course.membership" class="text-sm mt-2 mb-4">
+			<div
+				v-if="user && course.membership"
+				class="text-sm mt-2 mb-4 text-white/90"
+			>
 				{{ Math.ceil(course.membership.progress) }}% {{ __('completed') }}
 			</div>
 
@@ -92,7 +101,7 @@
 				</div>
 
 				<div class="flex items-center gap-x-2">
-					<div v-if="course.paid_course" class="font-semibold">
+					<div v-if="course.paid_course" class="font-semibold text-white">
 						{{ course.price }}
 					</div>
 
@@ -100,7 +109,7 @@
 						v-if="course.paid_certificate || course.enable_certification"
 						:text="__('Get Certified')"
 					>
-						<span class="lucide-graduation-cap size-5 text-ink-gray-7" />
+						<span class="lucide-graduation-cap size-5 text-white/90" />
 					</Tooltip>
 				</div>
 			</div>
@@ -125,10 +134,13 @@ const props = defineProps({
 	},
 })
 
-// Brand-styled thumbnail (gradient + zellige pattern + icon) replaces photo
-// covers as the default card look, matching the reference design. Tone
-// alternates deterministically per course so a course list doesn't render
-// as a wall of identical cards.
+// Real photo covers when the course has one (course.image), with a
+// gradient-tinted scrim so the white title text stays legible; falls back
+// to the brand gradient + zellige pattern + icon for courses without a
+// cover. Tone alternates deterministically per course so a course list
+// doesn't render as a wall of identical cards, and carries through to the
+// footer so the whole card reads as one colored unit instead of a photo
+// glued onto a plain white box.
 const toneList = ['navy', 'emerald']
 const brandTone = computed(() => {
 	const key = props.course.name || props.course.title || ''
@@ -140,11 +152,31 @@ const brandIcon = computed(() => 'lucide-book-open')
 const badgeLabel = computed(() => props.course.category || '')
 </script>
 <style>
+.course-card-thumb {
+	background-size: cover;
+	background-position: center;
+}
 .course-card-thumb--navy {
 	background-image: linear-gradient(160deg, #123150 0%, #0b2137 70%, #0a1929 100%);
 }
 .course-card-thumb--emerald {
 	background-image: linear-gradient(160deg, #14795c 0%, #0a4d39 70%, #0b2137 100%);
+}
+.course-card-footer.course-card-thumb--navy {
+	background-image: linear-gradient(180deg, #0b2137, #081a2c);
+}
+.course-card-footer.course-card-thumb--emerald {
+	background-image: linear-gradient(180deg, #0a4d39, #072e23);
+}
+.course-card-thumb-scrim {
+	position: absolute;
+	inset: 0;
+	background-image: linear-gradient(
+		180deg,
+		rgba(10, 20, 30, 0.05) 0%,
+		rgba(10, 20, 30, 0.35) 55%,
+		rgba(10, 20, 30, 0.85) 100%
+	);
 }
 .course-card-thumb-pattern {
 	position: absolute;
@@ -169,6 +201,25 @@ const badgeLabel = computed(() => props.course.category || '')
 	width: 44px;
 	height: 44px;
 	color: rgba(255, 255, 255, 0.85);
+}
+.course-card-badge-icon {
+	position: absolute;
+	top: 10px;
+	inset-inline-start: 10px;
+	width: 30px;
+	height: 30px;
+	padding: 6px;
+	box-sizing: border-box;
+	color: #fff;
+	background: rgba(255, 255, 255, 0.18);
+	backdrop-filter: blur(2px);
+	border-radius: 8px;
+}
+.course-card-thumb-title {
+	position: absolute;
+	inset-inline: 0;
+	bottom: 0;
+	padding: 12px 14px 14px;
 }
 
 .course-card-pills {
@@ -204,7 +255,6 @@ const badgeLabel = computed(() => props.course.category || '')
 	text-overflow: ellipsis;
 	width: 100%;
 	overflow: hidden;
-	margin: 0.25rem 0 1.25rem;
-	line-height: 1.5;
+	line-height: 1.4;
 }
 </style>
