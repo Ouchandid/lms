@@ -1,5 +1,10 @@
 <template>
 	<div class="w-full px-5 pt-5 pb-10">
+		<div class="flex flex-col items-center text-center py-8 mb-4 home-hero">
+			<img :src="ministryLogo" class="h-24 w-auto mb-4" />
+			<div class="home-hero-title">منصة التعليم الثانوي العتيق</div>
+		</div>
+
 		<div class="space-y-2">
 			<div class="flex items-center justify-between">
 				<div class="text-3xl-bold text-ink-gray-9">
@@ -49,6 +54,7 @@ import { sessionStore } from '@/stores/session'
 import StudentHome from '@/pages/Home/StudentHome.vue'
 import AdminHome from '@/pages/Home/AdminHome.vue'
 import Streak from '@/pages/Home/Streak.vue'
+import ministryLogo from '@/assets/images/logo_trimmed.png'
 
 const user = inject<any>('$user')
 const { brand } = sessionStore()
@@ -174,3 +180,13 @@ usePageMeta(() => {
 	}
 })
 </script>
+<style>
+.home-hero-title {
+	font-family: 'Aref Ruqaa', 'Amiri', serif;
+	font-weight: 700;
+	font-size: 2.75rem;
+	line-height: 1.3;
+	color: #0b5540;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+</style>
