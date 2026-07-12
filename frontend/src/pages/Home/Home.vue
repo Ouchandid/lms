@@ -54,7 +54,7 @@ import { sessionStore } from '@/stores/session'
 import StudentHome from '@/pages/Home/StudentHome.vue'
 import AdminHome from '@/pages/Home/AdminHome.vue'
 import Streak from '@/pages/Home/Streak.vue'
-import ministryLogo from '@/assets/images/logo_trimmed.png'
+import ministryLogo from '@/assets/images/logo.png'
 
 const user = inject<any>('$user')
 const { brand } = sessionStore()
