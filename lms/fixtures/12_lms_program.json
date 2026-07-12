@@ -298,5 +298,209 @@
   "program_members": [],
   "published": 1,
   "title": "الثانوي العتيق – السنة الثالثة (سنة الباكالوريا)"
+ },
+ {
+  "course_count": 5,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 0,
+  "modified": "2026-07-12 22:53:34.680262",
+  "name": "الابتدائي – السنة الأولى ابتدائي",
+  "program_courses": [
+   {
+    "course": "044js8mrqq",
+    "course_title": "اللغة العربية – السنة الأولى ابتدائي"
+   },
+   {
+    "course": "0469f3im2b",
+    "course_title": "الرياضيات – السنة الأولى ابتدائي"
+   },
+   {
+    "course": "0470ph9d8h",
+    "course_title": "اللغة الفرنسية – السنة الأولى ابتدائي"
+   },
+   {
+    "course": "048l4cp6av",
+    "course_title": "التربية الإسلامية – السنة الأولى ابتدائي"
+   },
+   {
+    "course": "0491jgi7jl",
+    "course_title": "النشاط العلمي – السنة الأولى ابتدائي"
+   }
+  ],
+  "program_members": [],
+  "published": 1,
+  "title": "الابتدائي – السنة الأولى ابتدائي"
+ },
+ {
+  "course_count": 5,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 0,
+  "modified": "2026-07-12 22:53:34.706492",
+  "name": "الابتدائي – السنة الثانية ابتدائي",
+  "program_courses": [
+   {
+    "course": "04amrog99d",
+    "course_title": "اللغة العربية – السنة الثانية ابتدائي"
+   },
+   {
+    "course": "04bbvql8l8",
+    "course_title": "الرياضيات – السنة الثانية ابتدائي"
+   },
+   {
+    "course": "04dod84efo",
+    "course_title": "اللغة الفرنسية – السنة الثانية ابتدائي"
+   },
+   {
+    "course": "04eqdinre2",
+    "course_title": "التربية الإسلامية – السنة الثانية ابتدائي"
+   },
+   {
+    "course": "04f94vffv1",
+    "course_title": "النشاط العلمي – السنة الثانية ابتدائي"
+   }
+  ],
+  "program_members": [],
+  "published": 1,
+  "title": "الابتدائي – السنة الثانية ابتدائي"
+ },
+ {
+  "course_count": 5,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 0,
+  "modified": "2026-07-12 22:53:34.726108",
+  "name": "الابتدائي – السنة الثالثة ابتدائي",
+  "program_courses": [
+   {
+    "course": "04g1j37u0q",
+    "course_title": "اللغة العربية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04hvl5u4i5",
+    "course_title": "الرياضيات – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04ig8jco5r",
+    "course_title": "اللغة الفرنسية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04j174ete4",
+    "course_title": "التربية الإسلامية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04k3ad5jfa",
+    "course_title": "النشاط العلمي – السنة الثالثة ابتدائي"
+   }
+  ],
+  "program_members": [],
+  "published": 1,
+  "title": "الابتدائي – السنة الثالثة ابتدائي"
+ },
+ {
+  "course_count": 5,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 0,
+  "modified": "2026-07-12 22:53:34.746819",
+  "name": "الابتدائي – السنة الرابعة ابتدائي",
+  "program_courses": [
+   {
+    "course": "04l7i0occd",
+    "course_title": "اللغة العربية – السنة الرابعة ابتدائي"
+   },
+   {
+    "course": "04nt6ejbdd",
+    "course_title": "الرياضيات – السنة الرابعة ابتدائي"
+   },
+   {
+    "course": "04ovj7rurs",
+    "course_title": "اللغة الفرنسية – السنة الرابعة ابتدائي"
+   },
+   {
+    "course": "04p85g5ebf",
+    "course_title": "التربية الإسلامية – السنة الرابعة ابتدائي"
+   },
+   {
+    "course": "04q9ba013p",
+    "course_title": "النشاط العلمي – السنة الرابعة ابتدائي"
+   }
+  ],
+  "program_members": [],
+  "published": 1,
+  "title": "الابتدائي – السنة الرابعة ابتدائي"
+ },
+ {
+  "course_count": 5,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 0,
+  "modified": "2026-07-12 22:53:34.767359",
+  "name": "الابتدائي – السنة الخامسة ابتدائي",
+  "program_courses": [
+   {
+    "course": "04r937ieep",
+    "course_title": "اللغة العربية – السنة الخامسة ابتدائي"
+   },
+   {
+    "course": "04sbau77jd",
+    "course_title": "الرياضيات – السنة الخامسة ابتدائي"
+   },
+   {
+    "course": "04tgo8f4ib",
+    "course_title": "اللغة الفرنسية – السنة الخامسة ابتدائي"
+   },
+   {
+    "course": "04vgagbqmd",
+    "course_title": "التربية الإسلامية – السنة الخامسة ابتدائي"
+   },
+   {
+    "course": "050m2v7mn7",
+    "course_title": "النشاط العلمي – السنة الخامسة ابتدائي"
+   }
+  ],
+  "program_members": [],
+  "published": 1,
+  "title": "الابتدائي – السنة الخامسة ابتدائي"
+ },
+ {
+  "course_count": 5,
+  "docstatus": 0,
+  "doctype": "LMS Program",
+  "enforce_course_order": 0,
+  "member_count": 0,
+  "modified": "2026-07-12 22:53:34.788726",
+  "name": "الابتدائي – السنة السادسة ابتدائي",
+  "program_courses": [
+   {
+    "course": "051peh5ikm",
+    "course_title": "اللغة العربية – السنة السادسة ابتدائي"
+   },
+   {
+    "course": "053uhiqjar",
+    "course_title": "الرياضيات – السنة السادسة ابتدائي"
+   },
+   {
+    "course": "054308evek",
+    "course_title": "اللغة الفرنسية – السنة السادسة ابتدائي"
+   },
+   {
+    "course": "056pajkivp",
+    "course_title": "التربية الإسلامية – السنة السادسة ابتدائي"
+   },
+   {
+    "course": "058jngsoao",
+    "course_title": "النشاط العلمي – السنة السادسة ابتدائي"
+   }
+  ],
+  "program_members": [],
+  "published": 1,
+  "title": "الابتدائي – السنة السادسة ابتدائي"
  }
 ]

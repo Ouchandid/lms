@@ -103,5 +103,12 @@
   "doctype": "LMS Category",
   "modified": "2026-07-12 16:17:09.775670",
   "name": "التعليم الثانوي العتيق"
+ },
+ {
+  "category": "التعليم الابتدائي",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-12 22:53:29.941343",
+  "name": "التعليم الابتدائي"
  }
 ]
