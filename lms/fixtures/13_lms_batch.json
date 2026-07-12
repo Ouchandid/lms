@@ -5,7 +5,7 @@
   "amount": 0.0,
   "amount_usd": 0.0,
   "assessment": [],
-  "batch_details": "<p>القسم الأول يجمع الطلبة المسجلين في الدورات الأساسية للمستوى الإعدادي.</p>",
+  "batch_details": "<p>قسم المستوى الثالث ابتدائي (شعبة أ) بمدرسة القدس، الموسم الدراسي 2026/2027.</p>",
   "batch_details_raw": null,
   "category": null,
   "certification": 0,
@@ -13,20 +13,35 @@
   "confirmation_email_template": null,
   "courses": [
    {
-    "course": "774map39c2",
+    "course": "04g1j37u0q",
     "evaluator": null,
-    "title": "اللغة العربية"
+    "title": "اللغة العربية – السنة الثالثة ابتدائي"
    },
    {
-    "course": "jdmprgcfb1",
+    "course": "04hvl5u4i5",
     "evaluator": null,
-    "title": "الرياضيات"
+    "title": "الرياضيات – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04ig8jco5r",
+    "evaluator": null,
+    "title": "اللغة الفرنسية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04j174ete4",
+    "evaluator": null,
+    "title": "التربية الإسلامية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04k3ad5jfa",
+    "evaluator": null,
+    "title": "النشاط العلمي – السنة الثالثة ابتدائي"
    }
   ],
   "currency": "MAD",
   "custom_component": null,
   "custom_script": null,
-  "description": "القسم الأول يجمع الطلبة المسجلين في الدورات الأساسية للمستوى الإعدادي.",
+  "description": "قسم المستوى الثالث ابتدائي (شعبة أ) بمدرسة القدس، الموسم الدراسي 2026/2027.",
   "docstatus": 0,
   "doctype": "LMS Batch",
   "end_date": "2027-06-25",
@@ -41,7 +56,7 @@
   ],
   "medium": "Online",
   "meta_image": null,
-  "modified": "2026-07-09 02:34:12.125994",
+  "modified": "2026-07-13 00:13:24.095310",
   "name": "ie97rn7lml",
   "notification_sent": 0,
   "paid_batch": 0,
@@ -54,7 +69,7 @@
   "timetable_legends": [],
   "timetable_template": null,
   "timezone": "Africa/Casablanca",
-  "title": "القسم الأول",
+  "title": "École Al Qods – 3AP-A – 2026/2027",
   "video_link": null,
   "zoom_account": null
  },
@@ -64,7 +79,7 @@
   "amount": 0.0,
   "amount_usd": 0.0,
   "assessment": [],
-  "batch_details": "<p>القسم الثاني مخصص لمتابعة دورات اللغات الأجنبية والعلوم.</p>",
+  "batch_details": "<p>قسم المستوى الخامس ابتدائي (شعبة أ) بمدرسة القدس، الموسم الدراسي 2026/2027.</p>",
   "batch_details_raw": null,
   "category": null,
   "certification": 0,
@@ -72,25 +87,35 @@
   "confirmation_email_template": null,
   "courses": [
    {
-    "course": "d3lofmsrrt",
+    "course": "04r937ieep",
     "evaluator": null,
-    "title": "اللغة الفرنسية"
+    "title": "اللغة العربية – السنة الخامسة ابتدائي"
    },
    {
-    "course": "g98dtn36i7",
+    "course": "04sbau77jd",
     "evaluator": null,
-    "title": "اللغة الإنجليزية"
+    "title": "الرياضيات – السنة الخامسة ابتدائي"
    },
    {
-    "course": "m3bjdn9g0p",
+    "course": "04tgo8f4ib",
     "evaluator": null,
-    "title": "العلوم"
+    "title": "اللغة الفرنسية – السنة الخامسة ابتدائي"
+   },
+   {
+    "course": "04vgagbqmd",
+    "evaluator": null,
+    "title": "التربية الإسلامية – السنة الخامسة ابتدائي"
+   },
+   {
+    "course": "050m2v7mn7",
+    "evaluator": null,
+    "title": "النشاط العلمي – السنة الخامسة ابتدائي"
    }
   ],
   "currency": "MAD",
   "custom_component": null,
   "custom_script": null,
-  "description": "القسم الثاني مخصص لمتابعة دورات اللغات الأجنبية والعلوم.",
+  "description": "قسم المستوى الخامس ابتدائي (شعبة أ) بمدرسة القدس، الموسم الدراسي 2026/2027.",
   "docstatus": 0,
   "doctype": "LMS Batch",
   "end_date": "2027-06-25",
@@ -105,7 +130,7 @@
   ],
   "medium": "Online",
   "meta_image": null,
-  "modified": "2026-07-09 02:34:12.218417",
+  "modified": "2026-07-13 00:13:24.346647",
   "name": "ieahqliirm",
   "notification_sent": 0,
   "paid_batch": 0,
@@ -118,7 +143,7 @@
   "timetable_legends": [],
   "timetable_template": null,
   "timezone": "Africa/Casablanca",
-  "title": "القسم الثاني",
+  "title": "École Al Qods – 5AP-A – 2026/2027",
   "video_link": null,
   "zoom_account": null
  },
@@ -128,7 +153,7 @@
   "amount": 0.0,
   "amount_usd": 0.0,
   "assessment": [],
-  "batch_details": "<p>القسم الثالث يركز على المواد العلمية والاجتماعية.</p>",
+  "batch_details": "<p>قسم السنة الأولى إعدادي (شعبة أ) بمدرسة القدس، الموسم الدراسي 2026/2027.</p>",
   "batch_details_raw": null,
   "category": null,
   "certification": 0,
@@ -136,25 +161,40 @@
   "confirmation_email_template": null,
   "courses": [
    {
+    "course": "774map39c2",
+    "evaluator": null,
+    "title": "اللغة العربية – الإعدادي"
+   },
+   {
     "course": "jdmprgcfb1",
     "evaluator": null,
-    "title": "الرياضيات"
+    "title": "الرياضيات – الإعدادي"
+   },
+   {
+    "course": "d3lofmsrrt",
+    "evaluator": null,
+    "title": "اللغة الفرنسية – الإعدادي"
+   },
+   {
+    "course": "g98dtn36i7",
+    "evaluator": null,
+    "title": "اللغة الإنجليزية – الإعدادي"
    },
    {
     "course": "m3bjdn9g0p",
     "evaluator": null,
-    "title": "العلوم"
+    "title": "العلوم – الإعدادي"
    },
    {
     "course": "pjk2oak4r3",
     "evaluator": null,
-    "title": "الاجتماعيات"
+    "title": "الاجتماعيات – الإعدادي"
    }
   ],
   "currency": "MAD",
   "custom_component": null,
   "custom_script": null,
-  "description": "القسم الثالث يركز على المواد العلمية والاجتماعية.",
+  "description": "قسم السنة الأولى إعدادي (شعبة أ) بمدرسة القدس، الموسم الدراسي 2026/2027.",
   "docstatus": 0,
   "doctype": "LMS Batch",
   "end_date": "2027-06-25",
@@ -169,7 +209,7 @@
   ],
   "medium": "Online",
   "meta_image": null,
-  "modified": "2026-07-09 02:34:12.245003",
+  "modified": "2026-07-13 00:13:24.394663",
   "name": "ieaao98cvl",
   "notification_sent": 0,
   "paid_batch": 0,
@@ -182,7 +222,7 @@
   "timetable_legends": [],
   "timetable_template": null,
   "timezone": "Africa/Casablanca",
-  "title": "القسم الثالث",
+  "title": "École Al Qods – 1AC-A – 2026/2027",
   "video_link": null,
   "zoom_account": null
  },
@@ -192,7 +232,7 @@
   "amount": 0.0,
   "amount_usd": 0.0,
   "assessment": [],
-  "batch_details": "<p>القسم الرابع يجمع بين اللغة العربية والتربية الإسلامية والاجتماعيات.</p>",
+  "batch_details": "<p>قسم المستوى الثالث ابتدائي (شعبة ب) بمدرسة ابن رشد، الموسم الدراسي 2026/2027.</p>",
   "batch_details_raw": null,
   "category": null,
   "certification": 0,
@@ -200,20 +240,35 @@
   "confirmation_email_template": null,
   "courses": [
    {
-    "course": "774map39c2",
+    "course": "04g1j37u0q",
     "evaluator": null,
-    "title": "اللغة العربية"
+    "title": "اللغة العربية – السنة الثالثة ابتدائي"
    },
    {
-    "course": "pjk2oak4r3",
+    "course": "04hvl5u4i5",
     "evaluator": null,
-    "title": "الاجتماعيات"
+    "title": "الرياضيات – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04ig8jco5r",
+    "evaluator": null,
+    "title": "اللغة الفرنسية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04j174ete4",
+    "evaluator": null,
+    "title": "التربية الإسلامية – السنة الثالثة ابتدائي"
+   },
+   {
+    "course": "04k3ad5jfa",
+    "evaluator": null,
+    "title": "النشاط العلمي – السنة الثالثة ابتدائي"
    }
   ],
   "currency": "MAD",
   "custom_component": null,
   "custom_script": null,
-  "description": "القسم الرابع يجمع بين اللغة العربية والتربية الإسلامية والاجتماعيات.",
+  "description": "قسم المستوى الثالث ابتدائي (شعبة ب) بمدرسة ابن رشد، الموسم الدراسي 2026/2027.",
   "docstatus": 0,
   "doctype": "LMS Batch",
   "end_date": "2027-06-25",
@@ -228,7 +283,7 @@
   ],
   "medium": "Online",
   "meta_image": null,
-  "modified": "2026-07-09 02:34:12.262608",
+  "modified": "2026-07-13 00:13:24.440854",
   "name": "iea50g2lo5",
   "notification_sent": 0,
   "paid_batch": 0,
@@ -241,7 +296,7 @@
   "timetable_legends": [],
   "timetable_template": null,
   "timezone": "Africa/Casablanca",
-  "title": "القسم الرابع",
+  "title": "École Ibn Rochd – 3AP-B – 2026/2027",
   "video_link": null,
   "zoom_account": null
  },
@@ -251,7 +306,7 @@
   "amount": 0.0,
   "amount_usd": 0.0,
   "assessment": [],
-  "batch_details": "<p>القسم الخامس مخصص للطلبة المتابعين لجميع المواد اللغوية.</p>",
+  "batch_details": "<p>قسم السنة الأولى إعدادي (شعبة ب) بمدرسة ابن رشد، الموسم الدراسي 2026/2027.</p>",
   "batch_details_raw": null,
   "category": null,
   "certification": 0,
@@ -261,23 +316,38 @@
    {
     "course": "774map39c2",
     "evaluator": null,
-    "title": "اللغة العربية"
+    "title": "اللغة العربية – الإعدادي"
+   },
+   {
+    "course": "jdmprgcfb1",
+    "evaluator": null,
+    "title": "الرياضيات – الإعدادي"
    },
    {
     "course": "d3lofmsrrt",
     "evaluator": null,
-    "title": "اللغة الفرنسية"
+    "title": "اللغة الفرنسية – الإعدادي"
    },
    {
     "course": "g98dtn36i7",
     "evaluator": null,
-    "title": "اللغة الإنجليزية"
+    "title": "اللغة الإنجليزية – الإعدادي"
+   },
+   {
+    "course": "m3bjdn9g0p",
+    "evaluator": null,
+    "title": "العلوم – الإعدادي"
+   },
+   {
+    "course": "pjk2oak4r3",
+    "evaluator": null,
+    "title": "الاجتماعيات – الإعدادي"
    }
   ],
   "currency": "MAD",
   "custom_component": null,
   "custom_script": null,
-  "description": "القسم الخامس مخصص للطلبة المتابعين لجميع المواد اللغوية.",
+  "description": "قسم السنة الأولى إعدادي (شعبة ب) بمدرسة ابن رشد، الموسم الدراسي 2026/2027.",
   "docstatus": 0,
   "doctype": "LMS Batch",
   "end_date": "2027-06-25",
@@ -292,7 +362,7 @@
   ],
   "medium": "Online",
   "meta_image": null,
-  "modified": "2026-07-09 02:34:12.280346",
+  "modified": "2026-07-13 00:13:24.484306",
   "name": "iea3gss1nd",
   "notification_sent": 0,
   "paid_batch": 0,
@@ -305,7 +375,155 @@
   "timetable_legends": [],
   "timetable_template": null,
   "timezone": "Africa/Casablanca",
-  "title": "القسم الخامس",
+  "title": "École Ibn Rochd – 1AC-B – 2026/2027",
+  "video_link": null,
+  "zoom_account": null
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>قسم الجذع المشترك بمدرسة القدس للتعليم الثانوي العتيق، الموسم الدراسي 2026/2027.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "nsq2cu4ar6",
+    "evaluator": null,
+    "title": "التفسير والحديث – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "ntt00mnthn",
+    "evaluator": null,
+    "title": "النحو والصرف (ألفية ابن مالك) – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "nuu9dv28vr",
+    "evaluator": null,
+    "title": "الرياضيات – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "nv7gvi0e6r",
+    "evaluator": null,
+    "title": "التاريخ والجغرافيا – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "nvrcjv0t33",
+    "evaluator": null,
+    "title": "اللغة الفرنسية – السنة الأولى (الجذع المشترك)"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "قسم الجذع المشترك بمدرسة القدس للتعليم الثانوي العتيق، الموسم الدراسي 2026/2027.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-13 00:11:52.373003",
+  "name": "cole-al-qods-tronc-commun-a-2026-2027",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-07",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "École Al Qods – Tronc Commun-A – 2026/2027",
+  "video_link": null,
+  "zoom_account": null
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 1,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "batch_details": "<p>قسم الجذع المشترك بمدرسة ابن رشد للتعليم الثانوي العتيق، الموسم الدراسي 2026/2027.</p>",
+  "batch_details_raw": null,
+  "category": null,
+  "certification": 0,
+  "conferencing_provider": "",
+  "confirmation_email_template": null,
+  "courses": [
+   {
+    "course": "nsq2cu4ar6",
+    "evaluator": null,
+    "title": "التفسير والحديث – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "ntt00mnthn",
+    "evaluator": null,
+    "title": "النحو والصرف (ألفية ابن مالك) – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "nuu9dv28vr",
+    "evaluator": null,
+    "title": "الرياضيات – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "nv7gvi0e6r",
+    "evaluator": null,
+    "title": "التاريخ والجغرافيا – السنة الأولى (الجذع المشترك)"
+   },
+   {
+    "course": "nvrcjv0t33",
+    "evaluator": null,
+    "title": "اللغة الفرنسية – السنة الأولى (الجذع المشترك)"
+   }
+  ],
+  "currency": "MAD",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "قسم الجذع المشترك بمدرسة ابن رشد للتعليم الثانوي العتيق، الموسم الدراسي 2026/2027.",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2027-06-25",
+  "end_time": "12:00:00",
+  "evaluation": 0,
+  "evaluation_end_date": null,
+  "google_meet_account": null,
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2026-07-13 00:11:52.487929",
+  "name": "cole-ibn-rochd-tronc-commun-a-2026-2027",
+  "notification_sent": 0,
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2026-09-07",
+  "start_time": "9:00:00",
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "timezone": "Africa/Casablanca",
+  "title": "École Ibn Rochd – Tronc Commun-A – 2026/2027",
   "video_link": null,
   "zoom_account": null
  }
