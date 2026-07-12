@@ -2,7 +2,7 @@
  {
   "amount_usd": 0.0,
   "card_gradient": "Red",
-  "category": "اللغة العربية",
+  "category": "الإعدادي",
   "chapters": [
    {
     "chapter": "0047 القواعد النحوية الأساسية"
@@ -40,7 +40,7 @@
    }
   ],
   "lessons": 31,
-  "modified": "2026-07-09 03:36:04.565093",
+  "modified": "2026-07-12 16:11:24.368476",
   "name": "774map39c2",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -53,7 +53,7 @@
   "status": "Approved",
   "tags": "المستوى: الإعدادي, اللغة العربية",
   "timezone": null,
-  "title": "اللغة العربية",
+  "title": "اللغة العربية – الإعدادي",
   "upcoming": 0,
   "video_link": null
  },
@@ -92,7 +92,7 @@
    }
   ],
   "lessons": 6,
-  "modified": "2026-07-09 03:36:04.279076",
+  "modified": "2026-07-12 16:00:10.421248",
   "name": "cg8u8fn1uv",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -112,7 +112,7 @@
  {
   "amount_usd": 0.0,
   "card_gradient": "Red",
-  "category": "اللغة الإنجليزية",
+  "category": "الإعدادي",
   "chapters": [
    {
     "chapter": "0188 Basic Grammar: Present Tenses"
@@ -150,7 +150,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-09 03:36:04.501051",
+  "modified": "2026-07-12 16:11:24.525724",
   "name": "g98dtn36i7",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -163,14 +163,14 @@
   "status": "Approved",
   "tags": "المستوى: الإعدادي, اللغة الإنجليزية",
   "timezone": null,
-  "title": "اللغة الإنجليزية",
+  "title": "اللغة الإنجليزية – الإعدادي",
   "upcoming": 0,
   "video_link": null
  },
  {
   "amount_usd": 0.0,
   "card_gradient": "Red",
-  "category": "الرياضيات",
+  "category": "الإعدادي",
   "chapters": [
    {
     "chapter": "0256 الأعداد والعمليات الحسابية"
@@ -208,7 +208,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-09 03:36:04.521982",
+  "modified": "2026-07-12 16:11:24.573296",
   "name": "jdmprgcfb1",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -221,14 +221,14 @@
   "status": "Approved",
   "tags": "المستوى: الإعدادي, الرياضيات",
   "timezone": null,
-  "title": "الرياضيات",
+  "title": "الرياضيات – الإعدادي",
   "upcoming": 0,
   "video_link": null
  },
  {
   "amount_usd": 0.0,
   "card_gradient": "Red",
-  "category": "العلوم",
+  "category": "الإعدادي",
   "chapters": [
    {
     "chapter": "0325 علوم الحياة: جهاز الهضم والتغذية"
@@ -266,7 +266,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-09 03:36:04.536454",
+  "modified": "2026-07-12 16:11:24.608065",
   "name": "m3bjdn9g0p",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -279,14 +279,14 @@
   "status": "Approved",
   "tags": "المستوى: الإعدادي, العلوم",
   "timezone": null,
-  "title": "العلوم",
+  "title": "العلوم – الإعدادي",
   "upcoming": 0,
   "video_link": null
  },
  {
   "amount_usd": 0.0,
   "card_gradient": "Red",
-  "category": "الاجتماعيات",
+  "category": "الإعدادي",
   "chapters": [
    {
     "chapter": "0392 تاريخ المغرب المعاصر"
@@ -324,7 +324,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-09 03:36:04.549494",
+  "modified": "2026-07-12 16:11:24.643365",
   "name": "pjk2oak4r3",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -337,14 +337,14 @@
   "status": "Approved",
   "tags": "المستوى: الإعدادي, الاجتماعيات",
   "timezone": null,
-  "title": "الاجتماعيات",
+  "title": "الاجتماعيات – الإعدادي",
   "upcoming": 0,
   "video_link": null
  },
  {
   "amount_usd": 0.0,
   "card_gradient": "Red",
-  "category": "اللغة الفرنسية",
+  "category": "الإعدادي",
   "chapters": [
    {
     "chapter": "0119 Grammaire de base : les articles et le genre"
@@ -382,7 +382,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-09 03:36:04.486369",
+  "modified": "2026-07-12 16:11:24.437456",
   "name": "d3lofmsrrt",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -395,7 +395,1771 @@
   "status": "Approved",
   "tags": "المستوى: الإعدادي, اللغة الفرنسية",
   "timezone": null,
-  "title": "اللغة الفرنسية",
+  "title": "اللغة الفرنسية – الإعدادي",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0459 المحور الأول"
+   },
+   {
+    "chapter": "0460 المحور الثاني"
+   },
+   {
+    "chapter": "0461 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة التفسير والحديث ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-01252a03.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:10.572839",
+  "name": "nsq2cu4ar6",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة التفسير والحديث – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "التفسير والحديث – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0462 المحور الأول"
+   },
+   {
+    "chapter": "0463 المحور الثاني"
+   },
+   {
+    "chapter": "0464 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة أصول الفقه (مرتقى الوصول) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-022408b8.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:11.366197",
+  "name": "nt106i8msp",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة أصول الفقه (مرتقى الوصول) – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "أصول الفقه (مرتقى الوصول) – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0465 المحور الأول"
+   },
+   {
+    "chapter": "0466 المحور الثاني"
+   },
+   {
+    "chapter": "0467 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة فقه الأسرة والمعاملات ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-0373652e.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:12.338988",
+  "name": "nt9s8e5bsu",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة فقه الأسرة والمعاملات – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "فقه الأسرة والمعاملات – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0468 المحور الأول"
+   },
+   {
+    "chapter": "0469 المحور الثاني"
+   },
+   {
+    "chapter": "0470 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة علوم القرآن (تاريخ المصحف) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-044413cb.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:13.343267",
+  "name": "ntjtigom72",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة علوم القرآن (تاريخ المصحف) – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "علوم القرآن (تاريخ المصحف) – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0471 المحور الأول"
+   },
+   {
+    "chapter": "0472 المحور الثاني"
+   },
+   {
+    "chapter": "0473 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة النحو والصرف (ألفية ابن مالك) ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-0546b330.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:14.753195",
+  "name": "ntt00mnthn",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة النحو والصرف (ألفية ابن مالك) – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "النحو والصرف (ألفية ابن مالك) – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0474 المحور الأول"
+   },
+   {
+    "chapter": "0475 المحور الثاني"
+   },
+   {
+    "chapter": "0476 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة البلاغة والأسلوبية ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-06c70b23.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:15.599524",
+  "name": "nublio6v6k",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة البلاغة والأسلوبية – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "البلاغة والأسلوبية – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0477 المحور الأول"
+   },
+   {
+    "chapter": "0478 المحور الثاني"
+   },
+   {
+    "chapter": "0479 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة تاريخ الأدب العربي ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-07d0fd82.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:16.585366",
+  "name": "nuk3sblb9i",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة تاريخ الأدب العربي – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "تاريخ الأدب العربي – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0480 المحور الأول"
+   },
+   {
+    "chapter": "0481 المحور الثاني"
+   },
+   {
+    "chapter": "0482 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الرياضيات ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-08f294b6.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:17.555494",
+  "name": "nuu9dv28vr",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الرياضيات – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "الرياضيات – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0483 المحور الأول"
+   },
+   {
+    "chapter": "0484 المحور الثاني"
+   },
+   {
+    "chapter": "0485 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة التاريخ والجغرافيا ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-09f99c20.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:18.412711",
+  "name": "nv7gvi0e6r",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة التاريخ والجغرافيا – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "التاريخ والجغرافيا – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0486 المحور الأول"
+   },
+   {
+    "chapter": "0487 المحور الثاني"
+   },
+   {
+    "chapter": "0488 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الفلسفة ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-10c3ef99.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:18.863218",
+  "name": "nvgr03mi8q",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الفلسفة – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "الفلسفة – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0489 المحور الأول"
+   },
+   {
+    "chapter": "0490 المحور الثاني"
+   },
+   {
+    "chapter": "0491 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة المعلوميات (Informatique) ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-11e17557.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:19.514036",
+  "name": "informatique",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة المعلوميات (Informatique) – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "المعلوميات (Informatique) – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0492 المحور الأول"
+   },
+   {
+    "chapter": "0493 المحور الثاني"
+   },
+   {
+    "chapter": "0494 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة اللغة الفرنسية ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-123900dc.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:19.989901",
+  "name": "nvrcjv0t33",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة اللغة الفرنسية – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "اللغة الفرنسية – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0495 المحور الأول"
+   },
+   {
+    "chapter": "0496 المحور الثاني"
+   },
+   {
+    "chapter": "0497 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة اللغة الإنجليزية ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الأولى (الجذع المشترك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-13c82e24.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:20.566845",
+  "name": "o005ogth1r",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة اللغة الإنجليزية – السنة الأولى (الجذع المشترك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الأولى (الجذع المشترك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "اللغة الإنجليزية – السنة الأولى (الجذع المشترك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0498 المحور الأول"
+   },
+   {
+    "chapter": "0499 المحور الثاني"
+   },
+   {
+    "chapter": "0500 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة التفسير (المحرر الوجيز لابن عطية) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-14399a89.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:21.633902",
+  "name": "o05got86l3",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة التفسير (المحرر الوجيز لابن عطية) – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "التفسير (المحرر الوجيز لابن عطية) – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0501 المحور الأول"
+   },
+   {
+    "chapter": "0502 المحور الثاني"
+   },
+   {
+    "chapter": "0503 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الفقه المالكي (متن خليل) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-15b7f62a.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:22.494442",
+  "name": "o0grlbjbme",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الفقه المالكي (متن خليل) – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "الفقه المالكي (متن خليل) – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0504 المحور الأول"
+   },
+   {
+    "chapter": "0505 المحور الثاني"
+   },
+   {
+    "chapter": "0506 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة علوم الحديث (نخبة الفكر) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-16d9adbb.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:23.156993",
+  "name": "o0pd7qcvv4",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة علوم الحديث (نخبة الفكر) – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "علوم الحديث (نخبة الفكر) – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0507 المحور الأول"
+   },
+   {
+    "chapter": "0508 المحور الثاني"
+   },
+   {
+    "chapter": "0509 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة النحو والصرف (شرح ألفية ابن مالك) ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-17b56e1e.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:23.594410",
+  "name": "o0vqn43lq2",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة النحو والصرف (شرح ألفية ابن مالك) – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "النحو والصرف (شرح ألفية ابن مالك) – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0510 المحور الأول"
+   },
+   {
+    "chapter": "0511 المحور الثاني"
+   },
+   {
+    "chapter": "0512 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة العروض والقافية (ميزان الشعر) ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-18e486da.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:24.005414",
+  "name": "o147576257",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة العروض والقافية (ميزان الشعر) – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "العروض والقافية (ميزان الشعر) – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0513 المحور الأول"
+   },
+   {
+    "chapter": "0514 المحور الثاني"
+   },
+   {
+    "chapter": "0515 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الأدب العربي والنقد ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-19e04008.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:25.313287",
+  "name": "o18lk7akkm",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الأدب العربي والنقد – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "الأدب العربي والنقد – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0516 المحور الأول"
+   },
+   {
+    "chapter": "0517 المحور الثاني"
+   },
+   {
+    "chapter": "0518 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة التاريخ والجغرافيا ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-20211073.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:25.862348",
+  "name": "o1l5trb9na",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة التاريخ والجغرافيا – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "التاريخ والجغرافيا – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0519 المحور الأول"
+   },
+   {
+    "chapter": "0520 المحور الثاني"
+   },
+   {
+    "chapter": "0521 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الفلسفة ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-217d20c9.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:26.912925",
+  "name": "o1qnn94l07",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الفلسفة – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "الفلسفة – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0522 المحور الأول"
+   },
+   {
+    "chapter": "0523 المحور الثاني"
+   },
+   {
+    "chapter": "0524 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الرياضيات ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-22963a73.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:27.774432",
+  "name": "o25pqc7gvo",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الرياضيات – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "الرياضيات – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0525 المحور الأول"
+   },
+   {
+    "chapter": "0526 المحور الثاني"
+   },
+   {
+    "chapter": "0527 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة المعلوميات ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-23fa5ce3.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:28.694209",
+  "name": "o2d1pvvtqq",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة المعلوميات – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "المعلوميات – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0528 المحور الأول"
+   },
+   {
+    "chapter": "0529 المحور الثاني"
+   },
+   {
+    "chapter": "0530 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة اللغة الفرنسية (الامتحان الجهوي) ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-24.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:29.335546",
+  "name": "o2n4keqprv",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة اللغة الفرنسية (الامتحان الجهوي) – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "اللغة الفرنسية (الامتحان الجهوي) – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0531 المحور الأول"
+   },
+   {
+    "chapter": "0532 المحور الثاني"
+   },
+   {
+    "chapter": "0533 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة اللغة الإنجليزية ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثانية (الأولى باك).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-25b39924.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:30.407285",
+  "name": "o2tijgl9aa",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة اللغة الإنجليزية – السنة الثانية (الأولى باك).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثانية (الأولى باك), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "اللغة الإنجليزية – السنة الثانية (الأولى باك)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0534 المحور الأول"
+   },
+   {
+    "chapter": "0535 المحور الثاني"
+   },
+   {
+    "chapter": "0536 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة التفسير والحديث الأحكام ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-262d7b3e.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:31.492512",
+  "name": "o38ffvoeq9",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة التفسير والحديث الأحكام – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "التفسير والحديث الأحكام – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0537 المحور الأول"
+   },
+   {
+    "chapter": "0538 المحور الثاني"
+   },
+   {
+    "chapter": "0539 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الفقه (الفرائض والمواريث) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-27a33f91.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:32.256162",
+  "name": "o3jgursgmg",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الفقه (الفرائض والمواريث) – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "الفقه (الفرائض والمواريث) – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0540 المحور الأول"
+   },
+   {
+    "chapter": "0541 المحور الثاني"
+   },
+   {
+    "chapter": "0542 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة أصول الفقه والقواعد الفقهية ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-28c40dc6.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:33.201114",
+  "name": "o3qeov0bca",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة أصول الفقه والقواعد الفقهية – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "أصول الفقه والقواعد الفقهية – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0543 المحور الأول"
+   },
+   {
+    "chapter": "0544 المحور الثاني"
+   },
+   {
+    "chapter": "0545 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة علم الكلام والمنطق (السلم المنورق) ضمن مواد الشريعة والعلوم الدينية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-29ea0a45.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:33.670789",
+  "name": "o444vi02ci",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة علم الكلام والمنطق (السلم المنورق) – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: مواد الشريعة والعلوم الدينية",
+  "timezone": null,
+  "title": "علم الكلام والمنطق (السلم المنورق) – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0546 المحور الأول"
+   },
+   {
+    "chapter": "0547 المحور الثاني"
+   },
+   {
+    "chapter": "0548 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة فقه اللغة واللسانيات ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-304fcd5c.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:34.564365",
+  "name": "o48pb2459t",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة فقه اللغة واللسانيات – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "فقه اللغة واللسانيات – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0549 المحور الأول"
+   },
+   {
+    "chapter": "0550 المحور الثاني"
+   },
+   {
+    "chapter": "0551 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة استكمال الألفية (النحو والصرف) ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-31486195.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:35.541763",
+  "name": "o4h1tll4ol",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة استكمال الألفية (النحو والصرف) – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "استكمال الألفية (النحو والصرف) – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0552 المحور الأول"
+   },
+   {
+    "chapter": "0553 المحور الثاني"
+   },
+   {
+    "chapter": "0554 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الأدب الإسلامي والإنساني ضمن علوم اللغة العربية للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-328235ea.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:36.021305",
+  "name": "o4re1bh832",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الأدب الإسلامي والإنساني – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: علوم اللغة العربية",
+  "timezone": null,
+  "title": "الأدب الإسلامي والإنساني – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0555 المحور الأول"
+   },
+   {
+    "chapter": "0556 المحور الثاني"
+   },
+   {
+    "chapter": "0557 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة التاريخ والجغرافيا ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-33d898be.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:37.254052",
+  "name": "o50duej4a7",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة التاريخ والجغرافيا – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "التاريخ والجغرافيا – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0558 المحور الأول"
+   },
+   {
+    "chapter": "0559 المحور الثاني"
+   },
+   {
+    "chapter": "0560 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة الفلسفة ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-343303d3.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:37.794701",
+  "name": "o5cfc7ka2k",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة الفلسفة – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "الفلسفة – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0561 المحور الأول"
+   },
+   {
+    "chapter": "0562 المحور الثاني"
+   },
+   {
+    "chapter": "0563 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة المعلوميات والرقمنة ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-35fcf390.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:38.637239",
+  "name": "o5iar2hn7q",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة المعلوميات والرقمنة – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "المعلوميات والرقمنة – السنة الثالثة (سنة الباكالوريا)",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "card_gradient": "Red",
+  "category": "التعليم الثانوي العتيق",
+  "chapters": [
+   {
+    "chapter": "0564 المحور الأول"
+   },
+   {
+    "chapter": "0565 المحور الثاني"
+   },
+   {
+    "chapter": "0566 المحور الثالث"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "MAD",
+  "description": "مادة اللغة الإنجليزية (الامتحان الوطني) ضمن المواد العلمية والأدبية الحديثة للتعليم الثانوي العتيق، السنة الثالثة (سنة الباكالوريا).",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "enable_certification": 0,
+  "enrollments": 0,
+  "evaluator": null,
+  "featured": 0,
+  "image": "/files/atiq-366736d9.jpg",
+  "instructors": [
+   {
+    "instructor": "Administrator"
+   }
+  ],
+  "lessons": 0,
+  "modified": "2026-07-12 16:17:39.572725",
+  "name": "o5q2u2ldrr",
+  "notification_sent": 0,
+  "paid_certificate": 0,
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2026-07-12",
+  "rating": "0",
+  "related_courses": [],
+  "short_introduction": "مادة اللغة الإنجليزية (الامتحان الوطني) – السنة الثالثة (سنة الباكالوريا).",
+  "status": "Approved",
+  "tags": "المستوى: الثانوي العتيق - السنة الثالثة (سنة الباكالوريا), الفرع: المواد العلمية والأدبية الحديثة",
+  "timezone": null,
+  "title": "اللغة الإنجليزية (الامتحان الوطني) – السنة الثالثة (سنة الباكالوريا)",
   "upcoming": 0,
   "video_link": null
  }

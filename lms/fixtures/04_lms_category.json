@@ -89,5 +89,19 @@
   "doctype": "LMS Category",
   "modified": "2026-07-09 01:51:49.202409",
   "name": "الاجتماعيات"
+ },
+ {
+  "category": "الإعدادي",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-12 16:11:24.276621",
+  "name": "الإعدادي"
+ },
+ {
+  "category": "التعليم الثانوي العتيق",
+  "docstatus": 0,
+  "doctype": "LMS Category",
+  "modified": "2026-07-12 16:17:09.775670",
+  "name": "التعليم الثانوي العتيق"
  }
 ]
