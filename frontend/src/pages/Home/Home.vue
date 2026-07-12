@@ -1,7 +1,7 @@
 <template>
 	<div class="w-full px-5 pt-5 pb-10">
 		<div class="flex flex-col items-center text-center py-8 mb-4 home-hero">
-			<img :src="ministryLogo" class="h-24 w-auto mb-4" />
+			<img :src="ministryLogo" class="h-44 w-auto mb-4" />
 			<div class="home-hero-title">منصة التعليم الثانوي العتيق</div>
 		</div>
 
