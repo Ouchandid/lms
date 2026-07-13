@@ -46,7 +46,7 @@ import ministryLogo from '@/assets/images/logo.png'
 const user = inject<any>('$user')
 const { brand } = sessionStore()
 const marqueeText =
-	'📚 مرحبًا بكم في منصة التعليم الثانوي العتيق | يمكنكم متابعة الدروس والمحاضرات والاختبارات من خلال المنصة | نسأل الله لكم التوفيق والسداد في طلب العلم.'
+	'✨ مرحبًا بكم في منصة التعليم الثانوي العتيق | يمكنكم متابعة الدروس والمحاضرات والاختبارات من خلال المنصة | نسأل الله لكم التوفيق والسداد في طلب العلم.'
 const evalCount = ref(0)
 const currentTab = ref<'student' | 'instructor'>('student')
 const showStreakModal = ref(false)
