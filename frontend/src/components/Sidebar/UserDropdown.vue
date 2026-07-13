@@ -14,7 +14,7 @@
 				>
 					<div class="sidebar-logo-wrap relative flex-shrink-0">
 						<img
-							:src="sidebarLogo"
+							:src="isCollapsed ? sidebarIcon : sidebarLogo"
 							class="flex-shrink-0 object-contain duration-300 ease-in-out"
 							:class="isCollapsed ? 'w-10 h-10' : 'w-44 h-44'"
 						/>
@@ -44,6 +44,7 @@ import FrappeCloudIcon from '@/components/Icons/FrappeCloudIcon.vue'
 import SettingsModal from '@/components/Settings/Settings.vue'
 import { Moon, Sun } from 'lucide-vue-next'
 import sidebarLogo from '@/assets/images/logo-sidebar.png'
+import sidebarIcon from '@/assets/images/icons-title.png'
 
 const router = useRouter()
 const { logout } = sessionStore()
