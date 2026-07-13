@@ -192,7 +192,7 @@ div.bg-surface-base::before {
 			rgba(184, 145, 47, 0.22),
 			transparent 60%
 		),
-		linear-gradient(180deg, #0f6b4f 0%, #0b5540 55%, #0a4d39 100%);
+		linear-gradient(180deg, #2f6a55 0%, #285d4a 55%, #1f4c3f 100%);
 }
 .bg-surface-sidebar::after {
 	content: '';
