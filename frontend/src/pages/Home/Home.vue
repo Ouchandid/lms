@@ -9,27 +9,10 @@
 			<div class="home-hero-title">منصة التعليم الثانوي العتيق</div>
 		</div>
 
-		<div class="space-y-2">
-			<div class="flex items-center justify-between">
-				<div class="text-3xl-bold text-ink-gray-9">
-					{{ __('Hey') }}, {{ user.data?.full_name }} 👋
-				</div>
-				<div>
-					<div
-						v-if="!isAdmin"
-						@click="showStreakModal = true"
-						class="bg-surface-amber-2 px-2 py-1 rounded-md cursor-pointer"
-					>
-						<span> 🔥 </span>
-						<span class="text-ink-gray-9">
-							{{ streakInfo.data?.current_streak }}
-						</span>
-					</div>
-				</div>
-			</div>
-
-			<div class="text-xl text-ink-gray-6 leading-6">
-				{{ subtitle }}
+		<div class="marquee-wrap">
+			<div class="marquee-track">
+				<span class="marquee-item">{{ marqueeText }}</span>
+				<span class="marquee-item">{{ marqueeText }}</span>
 			</div>
 		</div>
 
@@ -62,6 +45,8 @@ import ministryLogo from '@/assets/images/logo.png'
 
 const user = inject<any>('$user')
 const { brand } = sessionStore()
+const marqueeText =
+	'📚 مرحبًا بكم في منصة التعليم الثانوي العتيق | يمكنكم متابعة الدروس والمحاضرات والاختبارات من خلال المنصة | نسأل الله لكم التوفيق والسداد في طلب العلم.'
 const evalCount = ref(0)
 const currentTab = ref<'student' | 'instructor'>('student')
 const showStreakModal = ref(false)
@@ -192,5 +177,36 @@ usePageMeta(() => {
 	line-height: 60px;
 	text-align: center;
 	margin-top: 30px;
+}
+
+.marquee-wrap {
+	overflow: hidden;
+	white-space: nowrap;
+	background: linear-gradient(90deg, #0f6b4f, #0b5540);
+	border-radius: 10px;
+	padding: 12px 0;
+	direction: ltr;
+}
+.marquee-track {
+	display: inline-flex;
+	white-space: nowrap;
+	animation: marquee-rtl 28s linear infinite;
+}
+.marquee-item {
+	display: inline-block;
+	padding-inline-end: 4rem;
+	white-space: nowrap;
+	color: #fff;
+	font-weight: 600;
+	font-size: 1.05rem;
+	direction: rtl;
+}
+@keyframes marquee-rtl {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(-50%);
+	}
 }
 </style>
