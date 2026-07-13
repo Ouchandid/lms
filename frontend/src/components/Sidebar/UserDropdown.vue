@@ -12,7 +12,10 @@
 							: 'hover:bg-surface-gray-3 px-2 w-52'
 					"
 				>
-					<div class="sidebar-logo-wrap relative flex-shrink-0">
+					<div
+						class="sidebar-logo-wrap relative flex-shrink-0"
+						:class="{ 'sidebar-logo-wrap--collapsed': isCollapsed }"
+					>
 						<img
 							:src="isCollapsed ? sidebarIcon : sidebarLogo"
 							class="flex-shrink-0 object-contain duration-300 ease-in-out"
