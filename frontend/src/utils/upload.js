@@ -87,6 +87,15 @@ export class Upload {
 			onFileUploaded: (file) => {
 				this.data.file_url = file.file_url
 				this.data.file_type = file.file_type
+				// The uploader app is still mounted on this.wrapper at this
+				// point — mounting VideoBlock/AudioBlock straight into the
+				// same node without unmounting it first leaves the old
+				// app's vnodes referencing DOM nodes that are about to be
+				// replaced, which surfaces as a "Node cannot be found in
+				// the current page" error and the new content silently
+				// failing to render.
+				app.unmount()
+				this.wrapper.innerHTML = ''
 				this.renderFile(file)
 			},
 		})
