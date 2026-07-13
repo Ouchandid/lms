@@ -30,7 +30,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 8,
+  "enrollments": 9,
   "evaluator": null,
   "featured": 0,
   "image": "/files/library-774map39c2.jpg",
@@ -40,7 +40,7 @@
    }
   ],
   "lessons": 31,
-  "modified": "2026-07-13 00:14:33.158439",
+  "modified": "2026-07-13 11:21:52.453992",
   "name": "774map39c2",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -92,7 +92,7 @@
    }
   ],
   "lessons": 6,
-  "modified": "2026-07-13 00:14:32.885516",
+  "modified": "2026-07-13 11:21:52.118718",
   "name": "cg8u8fn1uv",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -140,7 +140,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 7,
+  "enrollments": 8,
   "evaluator": null,
   "featured": 0,
   "image": "/files/medina-o5q2u2ldrr.jpg",
@@ -150,7 +150,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-13 00:14:33.094554",
+  "modified": "2026-07-13 11:21:52.358905",
   "name": "g98dtn36i7",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -208,7 +208,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-13 00:14:33.108902",
+  "modified": "2026-07-13 11:21:52.381032",
   "name": "jdmprgcfb1",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -266,7 +266,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-13 00:14:33.121790",
+  "modified": "2026-07-13 11:21:52.409769",
   "name": "m3bjdn9g0p",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -324,7 +324,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-13 00:14:33.142880",
+  "modified": "2026-07-13 11:21:52.427126",
   "name": "pjk2oak4r3",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -382,7 +382,7 @@
    }
   ],
   "lessons": 30,
-  "modified": "2026-07-13 00:14:33.077671",
+  "modified": "2026-07-13 11:21:52.343116",
   "name": "d3lofmsrrt",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -421,7 +421,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 6,
   "evaluator": null,
   "featured": 0,
   "image": "/files/manuscript-o38ffvoeq9.jpg",
@@ -431,7 +431,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.068840",
+  "modified": "2026-07-13 11:21:53.546302",
   "name": "nsq2cu4ar6",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -480,7 +480,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.086040",
+  "modified": "2026-07-13 11:21:53.562770",
   "name": "nt106i8msp",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -529,7 +529,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.097472",
+  "modified": "2026-07-13 11:21:53.575347",
   "name": "nt9s8e5bsu",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -578,7 +578,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.112422",
+  "modified": "2026-07-13 11:21:53.592098",
   "name": "ntjtigom72",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -617,7 +617,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 6,
   "evaluator": null,
   "featured": 0,
   "image": "/files/library-ntt00mnthn.jpg",
@@ -627,7 +627,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.125426",
+  "modified": "2026-07-13 11:21:53.603740",
   "name": "ntt00mnthn",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -676,7 +676,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.138863",
+  "modified": "2026-07-13 11:21:53.618170",
   "name": "nublio6v6k",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -725,7 +725,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.150511",
+  "modified": "2026-07-13 11:21:53.632084",
   "name": "nuk3sblb9i",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -764,7 +764,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 6,
   "evaluator": null,
   "featured": 0,
   "image": "/files/zellige-nuu9dv28vr.jpg",
@@ -774,7 +774,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.161456",
+  "modified": "2026-07-13 11:21:53.646457",
   "name": "nuu9dv28vr",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -813,7 +813,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 6,
   "evaluator": null,
   "featured": 0,
   "image": "/files/gate-o50duej4a7.jpg",
@@ -823,7 +823,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.171074",
+  "modified": "2026-07-13 11:21:53.660768",
   "name": "nv7gvi0e6r",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -872,7 +872,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.180541",
+  "modified": "2026-07-13 11:21:53.675609",
   "name": "nvgr03mi8q",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -921,7 +921,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.190506",
+  "modified": "2026-07-13 11:21:53.685479",
   "name": "informatique",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -960,7 +960,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 6,
   "evaluator": null,
   "featured": 0,
   "image": "/files/medina-o5q2u2ldrr.jpg",
@@ -970,7 +970,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.204953",
+  "modified": "2026-07-13 11:21:53.695667",
   "name": "nvrcjv0t33",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1019,7 +1019,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.216450",
+  "modified": "2026-07-13 11:21:53.707186",
   "name": "o005ogth1r",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1068,7 +1068,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.228811",
+  "modified": "2026-07-13 11:21:53.720543",
   "name": "o05got86l3",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1117,7 +1117,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.238834",
+  "modified": "2026-07-13 11:21:53.732678",
   "name": "o0grlbjbme",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1166,7 +1166,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.249059",
+  "modified": "2026-07-13 11:21:53.745603",
   "name": "o0pd7qcvv4",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1215,7 +1215,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.263224",
+  "modified": "2026-07-13 11:21:53.762068",
   "name": "o0vqn43lq2",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1264,7 +1264,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.273741",
+  "modified": "2026-07-13 11:21:53.772623",
   "name": "o147576257",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1313,7 +1313,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.284883",
+  "modified": "2026-07-13 11:21:53.786880",
   "name": "o18lk7akkm",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1362,7 +1362,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.298668",
+  "modified": "2026-07-13 11:21:53.802465",
   "name": "o1l5trb9na",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1411,7 +1411,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.311429",
+  "modified": "2026-07-13 11:21:53.813931",
   "name": "o1qnn94l07",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1460,7 +1460,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.326965",
+  "modified": "2026-07-13 11:21:53.824361",
   "name": "o25pqc7gvo",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1509,7 +1509,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.337519",
+  "modified": "2026-07-13 11:21:53.833829",
   "name": "o2d1pvvtqq",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1558,7 +1558,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.347250",
+  "modified": "2026-07-13 11:21:53.843668",
   "name": "o2n4keqprv",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1607,7 +1607,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.360175",
+  "modified": "2026-07-13 11:21:53.853360",
   "name": "o2tijgl9aa",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1656,7 +1656,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.371592",
+  "modified": "2026-07-13 11:21:53.866852",
   "name": "o38ffvoeq9",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1705,7 +1705,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.381151",
+  "modified": "2026-07-13 11:21:53.879004",
   "name": "o3jgursgmg",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1754,7 +1754,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.394323",
+  "modified": "2026-07-13 11:21:53.889361",
   "name": "o3qeov0bca",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1803,7 +1803,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.405527",
+  "modified": "2026-07-13 11:21:53.900305",
   "name": "o444vi02ci",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1852,7 +1852,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.414938",
+  "modified": "2026-07-13 11:21:53.913119",
   "name": "o48pb2459t",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1901,7 +1901,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.424770",
+  "modified": "2026-07-13 11:21:53.925631",
   "name": "o4h1tll4ol",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1950,7 +1950,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.434516",
+  "modified": "2026-07-13 11:21:53.936166",
   "name": "o4re1bh832",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -1999,7 +1999,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.447629",
+  "modified": "2026-07-13 11:21:53.948826",
   "name": "o50duej4a7",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2048,7 +2048,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.461565",
+  "modified": "2026-07-13 11:21:53.960730",
   "name": "o5cfc7ka2k",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2097,7 +2097,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.472889",
+  "modified": "2026-07-13 11:21:53.972676",
   "name": "o5iar2hn7q",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2146,7 +2146,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:34.483493",
+  "modified": "2026-07-13 11:21:53.984584",
   "name": "o5q2u2ldrr",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2195,7 +2195,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.203789",
+  "modified": "2026-07-13 11:21:54.766569",
   "name": "044js8mrqq",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2244,7 +2244,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.213374",
+  "modified": "2026-07-13 11:21:54.777198",
   "name": "0469f3im2b",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2293,7 +2293,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.223070",
+  "modified": "2026-07-13 11:21:54.788282",
   "name": "0470ph9d8h",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2342,7 +2342,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.233168",
+  "modified": "2026-07-13 11:21:54.802877",
   "name": "048l4cp6av",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2391,7 +2391,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.242844",
+  "modified": "2026-07-13 11:21:54.813674",
   "name": "0491jgi7jl",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2440,7 +2440,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.252971",
+  "modified": "2026-07-13 11:21:54.827569",
   "name": "04amrog99d",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2489,7 +2489,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.263134",
+  "modified": "2026-07-13 11:21:54.841429",
   "name": "04bbvql8l8",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2538,7 +2538,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.272988",
+  "modified": "2026-07-13 11:21:54.858197",
   "name": "04dod84efo",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2587,7 +2587,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.286890",
+  "modified": "2026-07-13 11:21:54.874722",
   "name": "04eqdinre2",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2636,7 +2636,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.297398",
+  "modified": "2026-07-13 11:21:54.887212",
   "name": "04f94vffv1",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2675,7 +2675,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 7,
   "evaluator": null,
   "featured": 0,
   "image": "/files/library-04g1j37u0q.jpg",
@@ -2685,7 +2685,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.309068",
+  "modified": "2026-07-13 11:21:54.897610",
   "name": "04g1j37u0q",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2724,7 +2724,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 7,
   "evaluator": null,
   "featured": 0,
   "image": "/files/zellige-04hvl5u4i5.jpg",
@@ -2734,7 +2734,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.320655",
+  "modified": "2026-07-13 11:21:54.907420",
   "name": "04hvl5u4i5",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2773,7 +2773,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 7,
   "evaluator": null,
   "featured": 0,
   "image": "/files/medina-o5q2u2ldrr.jpg",
@@ -2783,7 +2783,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.331278",
+  "modified": "2026-07-13 11:21:54.917098",
   "name": "04ig8jco5r",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2822,7 +2822,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 7,
   "evaluator": null,
   "featured": 0,
   "image": "/files/manuscript-o38ffvoeq9.jpg",
@@ -2832,7 +2832,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.342496",
+  "modified": "2026-07-13 11:21:54.927429",
   "name": "04j174ete4",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2871,7 +2871,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 7,
   "evaluator": null,
   "featured": 0,
   "image": "/files/mosque-o48pb2459t.jpg",
@@ -2881,7 +2881,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.352772",
+  "modified": "2026-07-13 11:21:54.937758",
   "name": "04k3ad5jfa",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2930,7 +2930,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.363411",
+  "modified": "2026-07-13 11:21:54.948171",
   "name": "04l7i0occd",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -2979,7 +2979,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.373718",
+  "modified": "2026-07-13 11:21:54.958628",
   "name": "04nt6ejbdd",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3028,7 +3028,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.383929",
+  "modified": "2026-07-13 11:21:54.974609",
   "name": "04ovj7rurs",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3077,7 +3077,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.397770",
+  "modified": "2026-07-13 11:21:54.984401",
   "name": "04p85g5ebf",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3126,7 +3126,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.413060",
+  "modified": "2026-07-13 11:21:54.993968",
   "name": "04q9ba013p",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3165,7 +3165,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 3,
   "evaluator": null,
   "featured": 0,
   "image": "/files/library-04r937ieep.jpg",
@@ -3175,7 +3175,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.426565",
+  "modified": "2026-07-13 11:21:55.003410",
   "name": "04r937ieep",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3214,7 +3214,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 3,
   "evaluator": null,
   "featured": 0,
   "image": "/files/zellige-04sbau77jd.jpg",
@@ -3224,7 +3224,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.437936",
+  "modified": "2026-07-13 11:21:55.013067",
   "name": "04sbau77jd",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3263,7 +3263,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 3,
   "evaluator": null,
   "featured": 0,
   "image": "/files/medina-o5q2u2ldrr.jpg",
@@ -3273,7 +3273,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.447737",
+  "modified": "2026-07-13 11:21:55.022642",
   "name": "04tgo8f4ib",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3312,7 +3312,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 3,
   "evaluator": null,
   "featured": 0,
   "image": "/files/manuscript-o38ffvoeq9.jpg",
@@ -3322,7 +3322,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.480588",
+  "modified": "2026-07-13 11:21:55.032721",
   "name": "04vgagbqmd",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3361,7 +3361,7 @@
   "docstatus": 0,
   "doctype": "LMS Course",
   "enable_certification": 0,
-  "enrollments": 0,
+  "enrollments": 3,
   "evaluator": null,
   "featured": 0,
   "image": "/files/mosque-o48pb2459t.jpg",
@@ -3371,7 +3371,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.491852",
+  "modified": "2026-07-13 11:21:55.042586",
   "name": "050m2v7mn7",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3420,7 +3420,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.502214",
+  "modified": "2026-07-13 11:21:55.052265",
   "name": "051peh5ikm",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3469,7 +3469,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.512207",
+  "modified": "2026-07-13 11:21:55.061708",
   "name": "053uhiqjar",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3518,7 +3518,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.526902",
+  "modified": "2026-07-13 11:21:55.071110",
   "name": "054308evek",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3567,7 +3567,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.539620",
+  "modified": "2026-07-13 11:21:55.080826",
   "name": "056pajkivp",
   "notification_sent": 0,
   "paid_certificate": 0,
@@ -3616,7 +3616,7 @@
    }
   ],
   "lessons": 0,
-  "modified": "2026-07-13 00:14:35.552369",
+  "modified": "2026-07-13 11:21:55.091271",
   "name": "058jngsoao",
   "notification_sent": 0,
   "paid_certificate": 0,

@@ -37,19 +37,25 @@ def copy_seed_files():
 	_ensure_file_records()
 
 
-def _ensure_file(file_url, attached_to_doctype, attached_to_name):
+def _ensure_file(file_url, attached_to_doctype, attached_to_name, attached_to_field=None):
 	if not file_url or not file_url.startswith("/files/"):
 		return
 
-	existing = frappe.db.get_value(
+	# Match on the exact file_url rather than just (doctype, name): several
+	# fields/blocks can legitimately point at different files on the same
+	# parent (Website Settings banner_image vs favicon; a lesson with two
+	# PDFs). Matching — and deleting — by (doctype, name) alone meant
+	# reconciling one field found a *different* field's record, saw a
+	# file_url mismatch, and deleted it out from under it.
+	if frappe.db.exists(
 		"File",
-		{"attached_to_doctype": attached_to_doctype, "attached_to_name": attached_to_name},
-		["name", "file_url"],
-	)
-	if existing and existing[1] == file_url:
+		{
+			"attached_to_doctype": attached_to_doctype,
+			"attached_to_name": attached_to_name,
+			"file_url": file_url,
+		},
+	):
 		return
-	if existing and existing[1] != file_url:
-		frappe.delete_doc("File", existing[0], ignore_permissions=True, delete_permanently=True)
 
 	filename = file_url.split("/files/")[-1]
 	local_path = os.path.join(frappe.get_site_path("public", "files"), filename)
@@ -63,6 +69,7 @@ def _ensure_file(file_url, attached_to_doctype, attached_to_name):
 			"file_url": file_url,
 			"attached_to_doctype": attached_to_doctype,
 			"attached_to_name": attached_to_name,
+			"attached_to_field": attached_to_field,
 			"is_private": 0,
 			"folder": "Home",
 		}
@@ -74,7 +81,7 @@ def _ensure_file(file_url, attached_to_doctype, attached_to_name):
 def _ensure_file_records():
 	ws = frappe.get_single("Website Settings")
 	for field in ["banner_image", "app_logo", "footer_logo", "favicon"]:
-		_ensure_file(ws.get(field), "Website Settings", "Website Settings")
+		_ensure_file(ws.get(field), "Website Settings", "Website Settings", field)
 
 	for course in frappe.get_all("LMS Course", fields=["name", "image"]):
 		_ensure_file(course.image, "LMS Course", course.name)

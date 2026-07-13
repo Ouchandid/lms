@@ -80,9 +80,16 @@ setup_wizard_complete = "lms.demo.demo_data.create_demo_data"
 # copies the bundled media onto disk and creates matching File records
 # directly (not via a fixture) so repeat migrates stay idempotent instead
 # of re-writing content and renaming files with a random suffix.
+#
+# Listed first: frappe.get_hooks("after_migrate") entries run in a plain
+# loop with no error isolation, so if build_index_in_background throws
+# (e.g. QueueOverloaded on a busy queue) every hook after it is silently
+# skipped — including this one, which would otherwise leave Website
+# Settings' banner/favicon and course covers pointing at File records
+# that were never recreated.
 after_migrate = [
-	"lms.sqlite.build_index_in_background",
 	"lms.demo.seed_demo_media.copy_seed_files",
+	"lms.sqlite.build_index_in_background",
 ]
 
 # Desk Notifications
