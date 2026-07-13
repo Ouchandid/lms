@@ -159,10 +159,23 @@ h3 {
    would be a bug, not a feature). */
 #app,
 div.bg-surface-base {
+	position: relative;
 	background-color: #eeeeec;
+}
+/* The new artwork's lines are much bolder than the old one, so a plain
+   background-image at full strength overpowers page content. Route it
+   through a pseudo-element (as the sidebar already does) so opacity can
+   be dimmed independently of the real, non-decorative children. */
+#app::before,
+div.bg-surface-base::before {
+	content: '';
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
 	background-image: url('./assets/images/bg-arabesk.png');
 	background-size: 220px auto;
 	background-repeat: repeat;
+	opacity: 0.12;
 }
 #app {
 	min-height: 100vh;
