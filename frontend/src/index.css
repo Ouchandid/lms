@@ -85,7 +85,7 @@
 
 html,
 body {
-	background-color: #eeeeec; /* --bg-0 — kills any white sliver at the
+	background-color: #f7f7f6; /* --bg-0 — kills any white sliver at the
 	viewport edges behind the app root */
 }
 body {
@@ -160,7 +160,7 @@ h3 {
 #app,
 div.bg-surface-base {
 	position: relative;
-	background-color: #eeeeec;
+	background-color: #f7f7f6;
 }
 /* The new artwork's lines are much bolder than the old one, so a plain
    background-image at full strength overpowers page content. Route it
