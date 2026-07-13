@@ -10,7 +10,7 @@
 	>
 		<div
 			class="flex items-center w-full duration-300 ease-in-out group"
-			:class="isCollapsed ? 'p-1 relative' : 'px-2 py-1'"
+			:class="isCollapsed ? 'p-1 relative justify-center' : 'px-2 py-1'"
 		>
 			<Tooltip
 				:text="__(link.label)"
