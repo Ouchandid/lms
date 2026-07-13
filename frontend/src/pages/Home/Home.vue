@@ -1,6 +1,6 @@
 <template>
-	<div class="w-full px-5 pt-5 pb-10">
-		<div class="flex flex-col items-center text-center py-8 mb-4 home-hero">
+	<div class="w-full px-5 pb-10">
+		<div class="flex flex-col items-center text-center pt-0 pb-8 mb-4 home-hero">
 			<img
 				:src="ministryLogo"
 				class="h-64 w-auto mb-4"
